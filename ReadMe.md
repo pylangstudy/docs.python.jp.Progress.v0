@@ -6,6 +6,8 @@ Python学習の進捗確認表。
 
 * https://pylangstudy.github.io/docs.python.jp.Progress.v0
 
+表示には10秒近くかかる。
+
 ## 編集方法
 
 1. `./docs/contents.tsv`の1列目にあるURLを見て学習する ([学習方針](https://github.com/pylangstudy/201705/blob/master/25/Python%E5%AD%A6%E7%BF%92%E6%96%B9%E9%87%9D.md)参照)
