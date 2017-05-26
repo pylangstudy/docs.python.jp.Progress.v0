@@ -1,0 +1,52 @@
+#List, #Aggregate {
+    border: 0;
+}
+table, tr, td {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    border-color: #FF0000
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+
+/*tr td {*/
+/*tr:nth-child(1) td {*/
+tr td:nth-child(1) {
+    text-align: center;
+}
+/*
+table#List tr:nth-child(1) {
+    display: flex;
+    justify-content: center;
+    display: -webkit-flex;
+    -webkit-justify-content: center;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    border-color: #FF0000
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+*/
+tr a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+th {
+    background-color: #CCCCCC;
+}
+#List tr td:hover {
+/*    border-bottom: 2px solid #DD8888;*/
+    box-shadow: 0 0 0 2px #DD8888 inset;
+}
+tr.ZeroFinished {
+    background-color: #DDDDDD;
+}
+tr.Unfinished {
+    background-color: #FFFFFF;
+}
+tr.Finished {
+    background-color: #CCEECC;
+}
