@@ -17,7 +17,8 @@ function CreateAggregateTable(tsvUrl) {
         var total = data.length;
         var counts = GetAggregateCounts(data);
         console.log(counts);
-
+        GetAggregateTableHeader(tbody, counts);
+        /*
         tr1 = tbody.append('tr');
         tr1.append('th').text('進捗率');
         tr1.append('td').text("" + counts.progressRate + ' % (' + (counts.finished + counts.zeroFinished) + '/' + counts.total + ')');
@@ -30,7 +31,30 @@ function CreateAggregateTable(tsvUrl) {
         tr4 = tbody.append('tr');
         tr4.append('th').text('未');
         tr4.append('td').text(counts.unfinished);
+        */
     });
+}
+
+function GetAggregateTableHeader(tbody, counts) {
+    tr1 = tbody.append('tr');
+    tr1.append('th').text('進捗率');
+    tr1.append('td').text("" + counts.progressRate + ' % (' + (counts.finished + counts.zeroFinished) + '/' + counts.total + ')');
+    tr2 = tbody.append('tr');
+//    tr2.append('th').text('完了');
+    tr2.append('th').append('img').attr('src', GetFaviconApiUrl('github.com')).attr('title', '完了 成果物あり');
+    tr2.append('td').text(counts.finished);
+    tr3 = tbody.append('tr');
+//    tr3.append('th').text('-');
+    tr3.append('th').attr('title', '完了 成果物なし').text('-');
+    tr3.append('td').text(counts.zeroFinished);
+    tr4 = tbody.append('tr');
+//    tr4.append('th').text('未');
+    tr4.append('th').attr('title', '未完了').text('未');
+    tr4.append('td').text(counts.unfinished);
+}
+
+function GetFaviconApiUrl(domain) {
+    return "http://www.google.com/s2/favicons?domain=" + domain;
 }
 
 function GetAggregateCounts(data) {
@@ -129,7 +153,8 @@ function GetArtifactsHtml(data) {
         d3.select(a).attr('href', data['GitHubUrl']);
         dirs = data['GitHubUrl'].split('/');
         d3.select(a).attr('title', dirs[dirs.length-1]);
-        d3.select(a).append('img').attr('src', 'http://www.google.com/s2/favicons?domain=' + data['GitHubUrl'].split('/')[2]);
+//        d3.select(a).append('img').attr('src', 'http://www.google.com/s2/favicons?domain=' + data['GitHubUrl'].split('/')[2]);
+        d3.select(a).append('img').attr('src', GetFaviconApiUrl(data['GitHubUrl'].split('/')[2]));
         return a;
     } else {
         throw new Error("'tsvの3列目には空値,-,URLのどれかを記入してください。: " + data['GitHubUrl']);
