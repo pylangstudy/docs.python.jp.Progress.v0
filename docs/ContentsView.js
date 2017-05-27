@@ -5,34 +5,46 @@ function Main()
 {
 //    var tsvUrl = "https://raw.githubusercontent.com/pylangstudy/201705/master/25/01/pylangstudy.HeadingToAggregate.201705252124/contents.tsv"
     var tsvUrl = "./contents.tsv"
-    CreateAggregateTable(tsvUrl);
-    CreateHeadingTable(tsvUrl);
-}
-
-function CreateAggregateTable(tsvUrl) {
-    var table = d3.select('#Aggregate')
-    var thead = table.append('thead')
-    var tbody = table.append('tbody')
     d3.tsv(tsvUrl, function(error, data) {
         var total = data.length;
         var counts = GetAggregateCounts(data);
         console.log(counts);
-        GetAggregateTableHeader(tbody, counts);
-        /*
-        tr1 = tbody.append('tr');
-        tr1.append('th').text('進捗率');
-        tr1.append('td').text("" + counts.progressRate + ' % (' + (counts.finished + counts.zeroFinished) + '/' + counts.total + ')');
-        tr2 = tbody.append('tr');
-        tr2.append('th').text('完了');
-        tr2.append('td').text(counts.finished);
-        tr3 = tbody.append('tr');
-        tr3.append('th').text('-');
-        tr3.append('td').text(counts.zeroFinished);
-        tr4 = tbody.append('tr');
-        tr4.append('th').text('未');
-        tr4.append('td').text(counts.unfinished);
-        */
+        d3.select('body').append(function(){return CreateProgressRateTable(counts);});
+        d3.select('body').append(function(){return CreateStatusTable(counts);});
+        d3.select('body').append(function(){return CreateHeadingTable(data);});
     });
+}
+
+function CreateProgressRateTable(counts) {
+    var table = document.createElement('table');
+    d3.select(table).attr('id', 'ProgressRate');
+    var tr = document.createElement('tr');
+    d3.select(tr).append('th').text('進捗率');
+    d3.select(tr).append('td').text("" + counts.progressRate + ' % (' + (counts.finished + counts.zeroFinished) + '/' + counts.total + ')');            
+    d3.select(table).append(function(){return tr;});
+    return table;
+}
+
+function CreateStatusTable(counts) {
+    var table = document.createElement('table');
+    d3.select(table).attr('id', 'Status');
+    var thead = document.createElement('thead');
+    var tbody = document.createElement('tbody');
+    var tr = document.createElement('tr');
+    d3.select(tr).append('th').append('img').attr('src', GetFaviconApiUrl('github.com')).attr('title', '完了 成果物あり');
+    d3.select(tr).append('td').attr('title', '完了 成果物あり').text(GetStatusTdText(counts.finished, counts.total));
+    d3.select(tr).append('th').attr('title', '完了 成果物なし').text('-');
+    d3.select(tr).append('td').attr('title', '完了 成果物なし').text(GetStatusTdText(counts.zeroFinished, counts.total));
+    d3.select(tr).append('th').attr('title', '未完了').text('未');
+    d3.select(tr).append('td').attr('title', '未完了').text(GetStatusTdText(counts.unfinished, counts.total));
+    d3.select(tbody).append(function(){return tr;});
+    d3.select(table).append(function(){return thead;});
+    d3.select(table).append(function(){return tbody;});
+    return table;
+}
+
+function GetStatusTdText(value, total) {
+    return value + ' (' + (value / total).toFixed(4) + '%)';
 }
 
 function GetAggregateTableHeader(tbody, counts) {
@@ -40,15 +52,12 @@ function GetAggregateTableHeader(tbody, counts) {
     tr1.append('th').text('進捗率');
     tr1.append('td').text("" + counts.progressRate + ' % (' + (counts.finished + counts.zeroFinished) + '/' + counts.total + ')');
     tr2 = tbody.append('tr');
-//    tr2.append('th').text('完了');
     tr2.append('th').append('img').attr('src', GetFaviconApiUrl('github.com')).attr('title', '完了 成果物あり');
     tr2.append('td').text(counts.finished);
     tr3 = tbody.append('tr');
-//    tr3.append('th').text('-');
     tr3.append('th').attr('title', '完了 成果物なし').text('-');
     tr3.append('td').text(counts.zeroFinished);
     tr4 = tbody.append('tr');
-//    tr4.append('th').text('未');
     tr4.append('th').attr('title', '未完了').text('未');
     tr4.append('td').text(counts.unfinished);
 }
@@ -74,32 +83,35 @@ function GetAggregateCounts(data) {
     return counts;
 }
 
-function CreateHeadingTable(tsvUrl) {
-    var table = d3.select('#List')
-    var thead = table.append('thead')
-    var tbody = table.append('tbody')
-    d3.tsv(tsvUrl, function(error, data) {
-        // ヘッダ
-        var headerKyes = d3.map(data[0]).keys(); //ヘッダー用にkeyを取得
-        thead.append('tr')
-            .selectAll('th')
-            .data(GetHeader())
+function CreateHeadingTable(data) {
+    var table = document.createElement('table');
+    d3.select(table).attr('id', 'List');
+    var thead = document.createElement('thead');
+    var tbody = document.createElement('tbody');
+
+    // ヘッダ
+    var headerKyes = d3.map(data[0]).keys(); //ヘッダー用にkeyを取得
+    d3.select(thead).append('tr')
+        .selectAll('th')
+        .data(GetHeader())
+        .enter()
+        .append(function(d){return d;});
+    // データ
+    d3.select(tbody).selectAll('tr')
+        .data(data)
+        .enter()
+        .append(function(row) { return GetTr(row); })
+            .selectAll('td')
+            .data(function (row) { 
+                return GetRowData(row);
+            }) 
             .enter()
-            .append(function(d){return d;});
-        // データ
-        tbody.selectAll('tr')
-            .data(data)
-            .enter()
-//            .append('tr')
-            .append(function(row) { return GetTr(row); })
-                .selectAll('td')
-                .data(function (row) { 
-                    return GetRowData(row);
-                }) 
-                .enter()
-                .append('td')
-                .append(function(d) { return GetTd(d); })
-    });
+            .append('td')
+            .append(function(d) { return GetTd(d); })
+
+    d3.select(table).append(function(){return thead;});
+    d3.select(table).append(function(){return tbody;});
+    return table;
 }
 
 function GetTr(row) {
@@ -139,6 +151,7 @@ function GetTd(data) {
     }
 }
 function GetArtifactsHtml(data) {
+    if (undefined == data['GitHubUrl']) { console.log(data); return; } // どこかで undefined になっている。詳細不明。
     if ('' == data['GitHubUrl']) {
         span = document.createElement('span');
         d3.select(span).text('未');
@@ -153,7 +166,6 @@ function GetArtifactsHtml(data) {
         d3.select(a).attr('href', data['GitHubUrl']);
         dirs = data['GitHubUrl'].split('/');
         d3.select(a).attr('title', dirs[dirs.length-1]);
-//        d3.select(a).append('img').attr('src', 'http://www.google.com/s2/favicons?domain=' + data['GitHubUrl'].split('/')[2]);
         d3.select(a).append('img').attr('src', GetFaviconApiUrl(data['GitHubUrl'].split('/')[2]));
         return a;
     } else {
