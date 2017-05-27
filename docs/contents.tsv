@@ -940,7 +940,7 @@ whatsnew/changelog.html#id153	Tools/Demos
 whatsnew/changelog.html#id154	Windows	
 tutorial/index.html	Python チュートリアル	
 tutorial/appetite.html	1. やる気を高めよう	https://github.com/pylangstudy/201705/tree/master/27/00/ReadMe.md
-tutorial/interpreter.html	2. Python インタプリタを使う	
+tutorial/interpreter.html	2. Python インタプリタを使う	-
 tutorial/interpreter.html#invoking-the-interpreter	2.1. インタプリタを起動する	
 tutorial/interpreter.html#argument-passing	2.1.1. 引数の受け渡し	
 tutorial/interpreter.html#interactive-mode	2.1.2. 対話モード	
