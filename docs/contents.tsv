@@ -944,8 +944,8 @@ tutorial/interpreter.html	2. Python インタプリタを使う	-
 tutorial/interpreter.html#invoking-the-interpreter	2.1. インタプリタを起動する	https://github.com/pylangstudy/201705/blob/master/27/01/ReadMe.md
 tutorial/interpreter.html#argument-passing	2.1.1. 引数の受け渡し	https://github.com/pylangstudy/201705/tree/master/27/02
 tutorial/interpreter.html#interactive-mode	2.1.2. 対話モード	https://github.com/pylangstudy/201705/blob/master/27/03/ReadMe.md
-tutorial/interpreter.html#the-interpreter-and-its-environment	2.2. インタプリタとその環境	
-tutorial/interpreter.html#source-code-encoding	2.2.1. ソースコードの文字コード	
+tutorial/interpreter.html#the-interpreter-and-its-environment	2.2. インタプリタとその環境	-
+tutorial/interpreter.html#source-code-encoding	2.2.1. ソースコードの文字コード	https://github.com/pylangstudy/201705/blob/master/28/00/ReadMe.md
 tutorial/introduction.html	3. 形式ばらない Python の紹介	
 tutorial/introduction.html#using-python-as-a-calculator	3.1. Python を電卓として使う	
 tutorial/introduction.html#numbers	3.1.1. 数	
