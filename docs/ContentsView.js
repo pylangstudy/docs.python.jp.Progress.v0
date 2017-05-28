@@ -60,14 +60,15 @@ function GetStatusTdCount(value, title) {
     d3.select(span).attr('title', title).text(value);
     return span;
 }
+
 function GetStatusTdProgressRate(value, total, title) {
     small = document.createElement('small');
-    d3.select(small).attr('title', title).text('(' + (value / total).toFixed(4) + '%)');
+    d3.select(small).attr('title', title).text('(' + GetStatusRate(value, total).toFixed(4) + '%)');
     return small;
 }
 
-function GetStatusTdText(value, total) {
-    return value + ' (' + (value / total).toFixed(4) + '%)';
+function GetStatusRate(value, total) {
+    return ((value / total) * 100);
 }
 
 function GetAggregateTableHeader(tbody, counts) {
@@ -102,7 +103,7 @@ function GetAggregateCounts(data) {
         }
         else {throw new Error("'tsvの3列目には空値,-,URLのどれかを記入してください。: " + data['GitHubUrl']);}
     }
-    counts['progressRate'] = ((counts['finished'] + counts['zeroFinished']) / counts['total']) * 100;
+    counts['progressRate'] = GetStatusRate((counts['finished'] + counts['zeroFinished']), counts['total']);
     return counts;
 }
 
