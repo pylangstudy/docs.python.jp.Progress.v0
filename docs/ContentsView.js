@@ -31,16 +31,39 @@ function CreateStatusTable(counts) {
     var thead = document.createElement('thead');
     var tbody = document.createElement('tbody');
     var tr = document.createElement('tr');
+    
     d3.select(tr).append('th').append('img').attr('src', GetFaviconApiUrl('github.com')).attr('title', '完了 成果物あり');
-    d3.select(tr).append('td').attr('title', '完了 成果物あり').text(GetStatusTdText(counts.finished, counts.total));
+    AppendStatusTd(tr, counts.finished, counts.total, '完了 成果物あり', 'Finished');
+    
     d3.select(tr).append('th').attr('title', '完了 成果物なし').text('-');
-    d3.select(tr).append('td').attr('title', '完了 成果物なし').text(GetStatusTdText(counts.zeroFinished, counts.total));
+    AppendStatusTd(tr, counts.zeroFinished, counts.total, '完了 成果物なし', 'ZeroFinished');
+    
     d3.select(tr).append('th').attr('title', '未完了').text('未');
-    d3.select(tr).append('td').attr('title', '未完了').text(GetStatusTdText(counts.unfinished, counts.total));
+    AppendStatusTd(tr, counts.unfinished, counts.total, '未完了', 'Unfinished');
+    
     d3.select(tbody).append(function(){return tr;});
     d3.select(table).append(function(){return thead;});
     d3.select(table).append(function(){return tbody;});
     return table;
+}
+
+function AppendStatusTd(tr, value, total, title, class_) {
+    td = document.createElement('td');
+    d3.select(td).append(function(){return GetStatusTdCount(value, title);});
+    d3.select(td).append(function(){return GetStatusTdProgressRate(value, total, title);});
+    d3.select(td).attr('class', class_);
+    d3.select(tr).append(function(){return td;});
+}
+
+function GetStatusTdCount(value, title) {
+    span = document.createElement('span');
+    d3.select(span).attr('title', title).text(value);
+    return span;
+}
+function GetStatusTdProgressRate(value, total, title) {
+    small = document.createElement('small');
+    d3.select(small).attr('title', title).text('(' + (value / total).toFixed(4) + '%)');
+    return small;
 }
 
 function GetStatusTdText(value, total) {
