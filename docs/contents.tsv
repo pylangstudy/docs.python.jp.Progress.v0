@@ -953,7 +953,7 @@ tutorial/introduction.html#strings	3.1.2. 文字列型 (string)	https://github.c
 tutorial/introduction.html#lists	3.1.3. リスト型 (list)	https://github.com/pylangstudy/201705/blob/master/29/00/ReadMe.md
 tutorial/introduction.html#first-steps-towards-programming	3.2. プログラミングへの第一歩	https://docs.python.jp/3/tutorial/introduction.html#first-steps-towards-programming
 tutorial/controlflow.html	4. その他の制御フローツール	-
-tutorial/controlflow.html#if-statements	4.1.if文	
+tutorial/controlflow.html#if-statements	4.1.if文	https://github.com/pylangstudy/201705/tree/master/29/02
 tutorial/controlflow.html#for-statements	4.2.for文	
 tutorial/controlflow.html#the-range-function	4.3.range()関数	
 tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops	4.4.break文とcontinue文とループのelse節	
