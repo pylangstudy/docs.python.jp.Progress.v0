@@ -956,7 +956,7 @@ tutorial/controlflow.html	4. その他の制御フローツール	-
 tutorial/controlflow.html#if-statements	4.1.if文	https://github.com/pylangstudy/201705/tree/master/29/02
 tutorial/controlflow.html#for-statements	4.2.for文	https://github.com/pylangstudy/201705/tree/master/29/03
 tutorial/controlflow.html#the-range-function	4.3.range()関数	https://github.com/pylangstudy/201705/tree/master/29/04
-tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops	4.4.break文とcontinue文とループのelse節	
+tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops	4.4.break文とcontinue文とループのelse節	https://github.com/pylangstudy/201705/tree/master/29/05
 tutorial/controlflow.html#pass-statements	4.5.pass文	
 tutorial/controlflow.html#defining-functions	4.6. 関数を定義する	
 tutorial/controlflow.html#more-on-defining-functions	4.7. 関数定義についてもう少し	
