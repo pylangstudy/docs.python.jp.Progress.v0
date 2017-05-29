@@ -959,8 +959,8 @@ tutorial/controlflow.html#the-range-function	4.3.range()関数	https://github.co
 tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops	4.4.break文とcontinue文とループのelse節	https://github.com/pylangstudy/201705/tree/master/29/05
 tutorial/controlflow.html#pass-statements	4.5.pass文	https://github.com/pylangstudy/201705/tree/master/29/06
 tutorial/controlflow.html#defining-functions	4.6. 関数を定義する	https://github.com/pylangstudy/201705/tree/master/29/07
-tutorial/controlflow.html#more-on-defining-functions	4.7. 関数定義についてもう少し	
-tutorial/controlflow.html#default-argument-values	4.7.1. デフォルトの引数値	
+tutorial/controlflow.html#more-on-defining-functions	4.7. 関数定義についてもう少し	-
+tutorial/controlflow.html#default-argument-values	4.7.1. デフォルトの引数値	https://github.com/pylangstudy/201705/tree/master/29/08
 tutorial/controlflow.html#keyword-arguments	4.7.2. キーワード引数	
 tutorial/controlflow.html#arbitrary-argument-lists	4.7.3. 任意引数リスト	
 tutorial/controlflow.html#unpacking-argument-lists	4.7.4. 引数リストのアンパック	
