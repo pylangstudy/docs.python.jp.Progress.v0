@@ -962,7 +962,7 @@ tutorial/controlflow.html#defining-functions	4.6. 関数を定義する	https://
 tutorial/controlflow.html#more-on-defining-functions	4.7. 関数定義についてもう少し	-
 tutorial/controlflow.html#default-argument-values	4.7.1. デフォルトの引数値	https://github.com/pylangstudy/201705/tree/master/29/08
 tutorial/controlflow.html#keyword-arguments	4.7.2. キーワード引数	https://github.com/pylangstudy/201705/tree/master/29/09
-tutorial/controlflow.html#arbitrary-argument-lists	4.7.3. 任意引数リスト	
+tutorial/controlflow.html#arbitrary-argument-lists	4.7.3. 任意引数リスト	https://github.com/pylangstudy/201705/tree/master/30/00
 tutorial/controlflow.html#unpacking-argument-lists	4.7.4. 引数リストのアンパック	
 tutorial/controlflow.html#lambda-expressions	4.7.5. ラムダ式	
 tutorial/controlflow.html#documentation-strings	4.7.6. ドキュメンテーション文字列	
@@ -1014,7 +1014,7 @@ tutorial/classes.html#a-first-look-at-classes	9.3. クラス初見
 tutorial/classes.html#class-definition-syntax	9.3.1. クラス定義の構文	
 tutorial/classes.html#class-objects	9.3.2. クラスオブジェクト	
 tutorial/classes.html#instance-objects	9.3.3. インスタンスオブジェクト	
-tutorial/classes.html#method-objects	9.3.4. メソッドオブジェクト	
+tutorial/classes.html#method-objects	9.3.4. メソッドオブジェクト	4.7.3. 任意引数リスト
 tutorial/classes.html#class-and-instance-variables	9.3.5. クラスとインスタンス変数	
 tutorial/classes.html#random-remarks	9.4. いろいろな注意点	
 tutorial/classes.html#inheritance	9.5. 継承	
