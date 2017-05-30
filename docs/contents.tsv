@@ -968,7 +968,7 @@ tutorial/controlflow.html#lambda-expressions	4.7.5. ラムダ式	https://github.
 tutorial/controlflow.html#documentation-strings	4.7.6. ドキュメンテーション文字列	https://github.com/pylangstudy/201705/blob/master/30/03/ReadMe.md
 tutorial/controlflow.html#function-annotations	4.7.7. 関数のアノテーション	https://github.com/pylangstudy/201705/tree/master/30/04
 tutorial/controlflow.html#intermezzo-coding-style	4.8. 間奏曲: コーディングスタイル	https://github.com/pylangstudy/201705/blob/master/30/05/ReadMe.md
-tutorial/datastructures.html	5. データ構造	
+tutorial/datastructures.html	5. データ構造	-
 tutorial/datastructures.html#more-on-lists	5.1. リスト型についてもう少し	
 tutorial/datastructures.html#using-lists-as-stacks	5.1.1. リストをスタックとして使う	
 tutorial/datastructures.html#using-lists-as-queues	5.1.2. リストをキューとして使う	
