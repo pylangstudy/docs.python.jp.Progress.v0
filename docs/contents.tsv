@@ -964,7 +964,7 @@ tutorial/controlflow.html#default-argument-values	4.7.1. デフォルトの引�
 tutorial/controlflow.html#keyword-arguments	4.7.2. キーワード引数	https://github.com/pylangstudy/201705/tree/master/29/09
 tutorial/controlflow.html#arbitrary-argument-lists	4.7.3. 任意引数リスト	https://github.com/pylangstudy/201705/tree/master/30/00
 tutorial/controlflow.html#unpacking-argument-lists	4.7.4. 引数リストのアンパック	https://github.com/pylangstudy/201705/blob/master/30/01/ReadMe.md
-tutorial/controlflow.html#lambda-expressions	4.7.5. ラムダ式	
+tutorial/controlflow.html#lambda-expressions	4.7.5. ラムダ式	https://github.com/pylangstudy/201705/tree/master/30/02
 tutorial/controlflow.html#documentation-strings	4.7.6. ドキュメンテーション文字列	
 tutorial/controlflow.html#function-annotations	4.7.7. 関数のアノテーション	
 tutorial/controlflow.html#intermezzo-coding-style	4.8. 間奏曲: コーディングスタイル	
