@@ -972,7 +972,7 @@ tutorial/datastructures.html	5. データ構造	-
 tutorial/datastructures.html#more-on-lists	5.1. リスト型についてもう少し	https://github.com/pylangstudy/201705/tree/master/31/00
 tutorial/datastructures.html#using-lists-as-stacks	5.1.1. リストをスタックとして使う	https://github.com/pylangstudy/201706/tree/master/01/00
 tutorial/datastructures.html#using-lists-as-queues	5.1.2. リストをキューとして使う	
-tutorial/datastructures.html#list-comprehensions	5.1.3. リストの内包表記	
+tutorial/datastructures.html#list-comprehensions	5.1.3. リストの内包表記	https://github.com/pylangstudy/201706/tree/master/01/01
 tutorial/datastructures.html#nested-list-comprehensions	5.1.4. ネストしたリストの内包表記	
 tutorial/datastructures.html#the-del-statement	5.2.del文	
 tutorial/datastructures.html#tuples-and-sequences	5.3. タプルとシーケンス	
