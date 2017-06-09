@@ -984,8 +984,8 @@ tutorial/datastructures.html#comparing-sequences-and-other-types	5.8. シーケ�
 tutorial/modules.html	6. モジュール (module)	https://github.com/pylangstudy/201706/tree/master/09/00
 tutorial/modules.html#more-on-modules	6.1. モジュールについてもうすこし	https://github.com/pylangstudy/201706/tree/master/09/01
 tutorial/modules.html#executing-modules-as-scripts	6.1.1. モジュールをスクリプトとして実行する	https://github.com/pylangstudy/201706/tree/master/09/02
-tutorial/modules.html#the-module-search-path	6.1.2. モジュール検索パス	
-tutorial/modules.html#compiled-python-files	6.1.3. “コンパイル” された Python ファイル	
+tutorial/modules.html#the-module-search-path	6.1.2. モジュール検索パス	https://github.com/pylangstudy/201706/tree/master/09/03
+tutorial/modules.html#compiled-python-files	6.1.3. “コンパイル” された Python ファイル	-
 tutorial/modules.html#standard-modules	6.2. 標準モジュール	
 tutorial/modules.html#the-dir-function	6.3.dir()関数	
 tutorial/modules.html#packages	6.4. パッケージ	
