@@ -991,7 +991,7 @@ tutorial/modules.html#the-dir-function	6.3.dir()関数	https://github.com/pylang
 tutorial/modules.html#packages	6.4. パッケージ	https://github.com/pylangstudy/201706/tree/master/10/02
 tutorial/modules.html#importing-from-a-package	6.4.1. パッケージから * を import する	https://github.com/pylangstudy/201706/tree/master/10/03
 tutorial/modules.html#intra-package-references	6.4.2. パッケージ内参照	https://github.com/pylangstudy/201706/tree/master/10/04
-tutorial/modules.html#packages-in-multiple-directories	6.4.3. 複数ディレクトリ中のパッケージ	
+tutorial/modules.html#packages-in-multiple-directories	6.4.3. 複数ディレクトリ中のパッケージ	https://github.com/pylangstudy/201706/tree/master/10/05
 tutorial/inputoutput.html	7. 入力と出力	
 tutorial/inputoutput.html#fancier-output-formatting	7.1. 出力を見やすくフォーマットする	
 tutorial/inputoutput.html#old-string-formatting	7.1.1. 古い文字列書式設定方法	
