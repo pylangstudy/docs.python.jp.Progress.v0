@@ -995,7 +995,7 @@ tutorial/modules.html#packages-in-multiple-directories	6.4.3. 複数ディレク
 tutorial/inputoutput.html	7. 入力と出力	-
 tutorial/inputoutput.html#fancier-output-formatting	7.1. 出力を見やすくフォーマットする	https://github.com/pylangstudy/201706/tree/master/11/00
 tutorial/inputoutput.html#old-string-formatting	7.1.1. 古い文字列書式設定方法	https://github.com/pylangstudy/201706/blob/master/11/01/ReadMe.md
-tutorial/inputoutput.html#reading-and-writing-files	7.2. ファイルを読み書きする	
+tutorial/inputoutput.html#reading-and-writing-files	7.2. ファイルを読み書きする	https://github.com/pylangstudy/201706/tree/master/11/02
 tutorial/inputoutput.html#methods-of-file-objects	7.2.1. ファイルオブジェクトのメソッド	
 tutorial/inputoutput.html#saving-structured-data-with-json	7.2.2.jsonによる構造化されたデータの保存	
 tutorial/errors.html	8. エラーと例外	
