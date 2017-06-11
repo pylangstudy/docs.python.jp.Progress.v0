@@ -1000,7 +1000,7 @@ tutorial/inputoutput.html#methods-of-file-objects	7.2.1. ファイルオブジ�
 tutorial/inputoutput.html#saving-structured-data-with-json	7.2.2.jsonによる構造化されたデータの保存	https://github.com/pylangstudy/201706/tree/master/11/04
 tutorial/errors.html	8. エラーと例外	-
 tutorial/errors.html#syntax-errors	8.1. 構文エラー	https://github.com/pylangstudy/201706/blob/master/12/00/ReadMe.md
-tutorial/errors.html#exceptions	8.2. 例外	
+tutorial/errors.html#exceptions	8.2. 例外	https://github.com/pylangstudy/201706/blob/master/12/01/ReadMe.md
 tutorial/errors.html#handling-exceptions	8.3. 例外を処理する	
 tutorial/errors.html#raising-exceptions	8.4. 例外を送出する	
 tutorial/errors.html#user-defined-exceptions	8.5. ユーザー定義例外	
