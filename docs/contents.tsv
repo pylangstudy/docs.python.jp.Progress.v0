@@ -1003,7 +1003,7 @@ tutorial/errors.html#syntax-errors	8.1. 構文エラー	https://github.com/pylan
 tutorial/errors.html#exceptions	8.2. 例外	https://github.com/pylangstudy/201706/blob/master/12/01/ReadMe.md
 tutorial/errors.html#handling-exceptions	8.3. 例外を処理する	https://github.com/pylangstudy/201706/tree/master/12/02
 tutorial/errors.html#raising-exceptions	8.4. 例外を送出する	https://github.com/pylangstudy/201706/tree/master/13/00
-tutorial/errors.html#user-defined-exceptions	8.5. ユーザー定義例外	
+tutorial/errors.html#user-defined-exceptions	8.5. ユーザー定義例外	https://github.com/pylangstudy/201706/tree/master/13/01
 tutorial/errors.html#defining-clean-up-actions	8.6. クリーンアップ動作を定義する	
 tutorial/errors.html#predefined-clean-up-actions	8.7. 定義済みクリーンアップ処理	
 tutorial/classes.html	9. クラス	
