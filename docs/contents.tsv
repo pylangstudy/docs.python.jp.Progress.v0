@@ -1006,7 +1006,7 @@ tutorial/errors.html#raising-exceptions	8.4. 例外を送出する	https://githu
 tutorial/errors.html#user-defined-exceptions	8.5. ユーザー定義例外	https://github.com/pylangstudy/201706/tree/master/13/01
 tutorial/errors.html#defining-clean-up-actions	8.6. クリーンアップ動作を定義する	https://github.com/pylangstudy/201706/tree/master/13/02
 tutorial/errors.html#predefined-clean-up-actions	8.7. 定義済みクリーンアップ処理	https://github.com/pylangstudy/201706/tree/master/14/00
-tutorial/classes.html	9. クラス	
+tutorial/classes.html	9. クラス	https://github.com/pylangstudy/201706/tree/master/14/01
 tutorial/classes.html#a-word-about-names-and-objects	9.1. 名前とオブジェクトについて	
 tutorial/classes.html#python-scopes-and-namespaces	9.2. Python のスコープと名前空間	
 tutorial/classes.html#scopes-and-namespaces-example	9.2.1. スコープと名前空間の例	
