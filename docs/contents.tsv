@@ -1026,7 +1026,7 @@ tutorial/classes.html#generators	9.9. ジェネレータ (generator)	https://git
 tutorial/classes.html#generator-expressions	9.10. ジェネレータ式	https://github.com/pylangstudy/201706/tree/master/22/02
 tutorial/stdlib.html	10. 標準ライブラリミニツアー	-
 tutorial/stdlib.html#operating-system-interface	10.1. OSへのインタフェース	https://github.com/pylangstudy/201706/tree/master/22/03
-tutorial/stdlib.html#file-wildcards	10.2. ファイルのワイルドカード表記	
+tutorial/stdlib.html#file-wildcards	10.2. ファイルのワイルドカード表記	https://github.com/pylangstudy/201706/tree/master/23/00
 tutorial/stdlib.html#command-line-arguments	10.3. コマンドライン引数	
 tutorial/stdlib.html#error-output-redirection-and-program-termination	10.4. エラー出力のリダイレクトとプログラムの終了	
 tutorial/stdlib.html#string-pattern-matching	10.5. 文字列のパターンマッチング	
