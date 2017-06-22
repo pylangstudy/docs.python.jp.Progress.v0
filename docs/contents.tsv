@@ -1028,7 +1028,7 @@ tutorial/stdlib.html	10. 標準ライブラリミニツアー	-
 tutorial/stdlib.html#operating-system-interface	10.1. OSへのインタフェース	https://github.com/pylangstudy/201706/tree/master/22/03
 tutorial/stdlib.html#file-wildcards	10.2. ファイルのワイルドカード表記	https://github.com/pylangstudy/201706/tree/master/23/00
 tutorial/stdlib.html#command-line-arguments	10.3. コマンドライン引数	https://github.com/pylangstudy/201706/tree/master/23/01
-tutorial/stdlib.html#error-output-redirection-and-program-termination	10.4. エラー出力のリダイレクトとプログラムの終了	
+tutorial/stdlib.html#error-output-redirection-and-program-termination	10.4. エラー出力のリダイレクトとプログラムの終了	https://github.com/pylangstudy/201706/tree/master/23/02
 tutorial/stdlib.html#string-pattern-matching	10.5. 文字列のパターンマッチング	
 tutorial/stdlib.html#mathematics	10.6. 数学	
 tutorial/stdlib.html#internet-access	10.7. インターネットへのアクセス	
