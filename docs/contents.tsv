@@ -1030,8 +1030,8 @@ tutorial/stdlib.html#file-wildcards	10.2. ファイルのワイルドカード�
 tutorial/stdlib.html#command-line-arguments	10.3. コマンドライン引数	https://github.com/pylangstudy/201706/tree/master/23/01
 tutorial/stdlib.html#error-output-redirection-and-program-termination	10.4. エラー出力のリダイレクトとプログラムの終了	https://github.com/pylangstudy/201706/tree/master/23/02
 tutorial/stdlib.html#string-pattern-matching	10.5. 文字列のパターンマッチング	https://github.com/pylangstudy/201706/tree/master/23/03
-tutorial/stdlib.html#mathematics	10.6. 数学	
-tutorial/stdlib.html#internet-access	10.7. インターネットへのアクセス	
+tutorial/stdlib.html#mathematics	10.6. 数学	https://github.com/pylangstudy/201706/tree/master/23/04
+tutorial/stdlib.html#internet-access	10.7. インターネットへのアクセス	https://github.com/pylangstudy/201706/tree/master/24/00
 tutorial/stdlib.html#dates-and-times	10.8. 日付と時刻	
 tutorial/stdlib.html#data-compression	10.9. データ圧縮	
 tutorial/stdlib.html#performance-measurement	10.10. パフォーマンスの計測	
