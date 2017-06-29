@@ -1042,7 +1042,7 @@ tutorial/stdlib2.html#output-formatting	11.1. 出力のフォーマット	https:
 tutorial/stdlib2.html#templating	11.2. 文字列テンプレート	https://github.com/pylangstudy/201706/tree/master/28/00
 tutorial/stdlib2.html#working-with-binary-data-record-layouts	11.3. バイナリデータレコードの操作	https://github.com/pylangstudy/201706/tree/master/28/01
 tutorial/stdlib2.html#multi-threading	11.4. マルチスレッディング	https://github.com/pylangstudy/201706/tree/master/29/00
-tutorial/stdlib2.html#logging	11.5. ログ記録	
+tutorial/stdlib2.html#logging	11.5. ログ記録	https://github.com/pylangstudy/201706/tree/master/29/01
 tutorial/stdlib2.html#weak-references	11.6. 弱参照	
 tutorial/stdlib2.html#tools-for-working-with-lists	11.7. リスト操作のためのツール	
 tutorial/stdlib2.html#decimal-floating-point-arithmetic	11.8. 10 進浮動小数演算	
