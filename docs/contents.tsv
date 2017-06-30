@@ -1046,8 +1046,8 @@ tutorial/stdlib2.html#logging	11.5. ログ記録	https://github.com/pylangstudy/
 tutorial/stdlib2.html#weak-references	11.6. 弱参照	https://github.com/pylangstudy/201706/tree/master/30/00
 tutorial/stdlib2.html#tools-for-working-with-lists	11.7. リスト操作のためのツール	https://github.com/pylangstudy/201706/tree/master/30/01
 tutorial/stdlib2.html#decimal-floating-point-arithmetic	11.8. 10 進浮動小数演算	https://github.com/pylangstudy/201707/tree/master/01/00
-tutorial/venv.html	12. 仮想環境とパッケージ	
-tutorial/venv.html#introduction	12.1. はじめに	
+tutorial/venv.html	12. 仮想環境とパッケージ	-
+tutorial/venv.html#introduction	12.1. はじめに	https://github.com/pylangstudy/201707/tree/master/01/01
 tutorial/venv.html#creating-virtual-environments	12.2. 仮想環境の作成	
 tutorial/venv.html#managing-packages-with-pip	12.3. pip を使ったパッケージ管理	
 tutorial/whatnow.html	13. さあ何を？	
