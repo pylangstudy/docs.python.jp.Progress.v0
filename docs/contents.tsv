@@ -1048,7 +1048,7 @@ tutorial/stdlib2.html#tools-for-working-with-lists	11.7. リスト操作のた�
 tutorial/stdlib2.html#decimal-floating-point-arithmetic	11.8. 10 進浮動小数演算	https://github.com/pylangstudy/201707/tree/master/01/00
 tutorial/venv.html	12. 仮想環境とパッケージ	-
 tutorial/venv.html#introduction	12.1. はじめに	https://github.com/pylangstudy/201707/tree/master/01/01
-tutorial/venv.html#creating-virtual-environments	12.2. 仮想環境の作成	
+tutorial/venv.html#creating-virtual-environments	12.2. 仮想環境の作成	https://github.com/pylangstudy/201707/tree/master/01/02
 tutorial/venv.html#managing-packages-with-pip	12.3. pip を使ったパッケージ管理	
 tutorial/whatnow.html	13. さあ何を？	
 tutorial/interactive.html	14. 対話入力編集と履歴置換	
