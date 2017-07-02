@@ -1050,7 +1050,7 @@ tutorial/venv.html	12. 仮想環境とパッケージ	-
 tutorial/venv.html#introduction	12.1. はじめに	https://github.com/pylangstudy/201707/tree/master/01/01
 tutorial/venv.html#creating-virtual-environments	12.2. 仮想環境の作成	https://github.com/pylangstudy/201707/tree/master/01/02
 tutorial/venv.html#managing-packages-with-pip	12.3. pip を使ったパッケージ管理	https://github.com/pylangstudy/201707/blob/master/02/00/ReadMe.md
-tutorial/whatnow.html	13. さあ何を？	
+tutorial/whatnow.html	13. さあ何を？	https://github.com/pylangstudy/201707/blob/master/02/01/ReadMe.md
 tutorial/interactive.html	14. 対話入力編集と履歴置換	
 tutorial/interactive.html#tab-completion-and-history-editing	14.1. タブ補完と履歴編集	
 tutorial/interactive.html#alternatives-to-the-interactive-interpreter	14.2. 対話的インタープリタの代替	
