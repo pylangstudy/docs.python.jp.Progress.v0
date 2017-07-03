@@ -1056,12 +1056,12 @@ tutorial/interactive.html#tab-completion-and-history-editing	14.1. タブ補完�
 tutorial/interactive.html#alternatives-to-the-interactive-interpreter	14.2. 対話的インタープリタの代替	https://github.com/pylangstudy/201707/blob/master/02/02/ReadMe.md
 tutorial/floatingpoint.html	15. 浮動小数点演算、その問題と制限	https://github.com/pylangstudy/201707/blob/master/03/00/ReadMe.md
 tutorial/floatingpoint.html#representation-error	15.1. 表現エラー	https://github.com/pylangstudy/201707/blob/master/03/01/ReadMe.md
-tutorial/appendix.html	16. 付録	
-tutorial/appendix.html#interactive-mode	16.1. 対話モード	
-tutorial/appendix.html#error-handling	16.1.1. エラー処理	
-tutorial/appendix.html#executable-python-scripts	16.1.2. 実行可能な Python スクリプト	
-tutorial/appendix.html#the-interactive-startup-file	16.1.3. 対話モード用の起動時実行ファイル	
-tutorial/appendix.html#the-customization-modules	16.1.4. カスタマイズ用モジュール	
+tutorial/appendix.html	16. 付録	https://github.com/pylangstudy/201707/tree/master/04/00
+tutorial/appendix.html#interactive-mode	16.1. 対話モード	https://github.com/pylangstudy/201707/tree/master/04/00
+tutorial/appendix.html#error-handling	16.1.1. エラー処理	https://github.com/pylangstudy/201707/tree/master/04/00
+tutorial/appendix.html#executable-python-scripts	16.1.2. 実行可能な Python スクリプト	https://github.com/pylangstudy/201707/tree/master/04/00
+tutorial/appendix.html#the-interactive-startup-file	16.1.3. 対話モード用の起動時実行ファイル	https://github.com/pylangstudy/201707/tree/master/04/00
+tutorial/appendix.html#the-customization-modules	16.1.4. カスタマイズ用モジュール	https://github.com/pylangstudy/201707/tree/master/04/00
 using/index.html	Python のセットアップと利用	
 using/cmdline.html	1. コマンドラインと環境	
 using/cmdline.html#command-line	1.1. コマンドライン	
