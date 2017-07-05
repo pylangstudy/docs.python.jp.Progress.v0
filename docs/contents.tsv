@@ -1125,10 +1125,10 @@ using/mac.html#installing-additional-python-packages	4.3. 追加の Python パ�
 using/mac.html#gui-programming-on-the-mac	4.4. Mac での GUI プログラミング	
 using/mac.html#distributing-python-applications-on-the-mac	4.5. Mac 上の Python アプリケーションの配布	
 using/mac.html#other-resources	4.6. 他のリソース	
-reference/index.html	Python 言語リファレンス	
-reference/introduction.html	1. はじめに	
-reference/introduction.html#alternate-implementations	1.1. 別のPythonの実装	
-reference/introduction.html#notation	1.2. 本マニュアルにおける表記法	
+reference/index.html	Python 言語リファレンス	https://github.com/pylangstudy/201707/blob/master/05/00/ReadMe.md
+reference/introduction.html	1. はじめに	https://github.com/pylangstudy/201707/blob/master/05/00/ReadMe.md
+reference/introduction.html#alternate-implementations	1.1. 別のPythonの実装	https://github.com/pylangstudy/201707/blob/master/05/00/ReadMe.md
+reference/introduction.html#notation	1.2. 本マニュアルにおける表記法	https://github.com/pylangstudy/201707/blob/master/05/00/ReadMe.md
 reference/lexical_analysis.html	2. 字句解析	
 reference/lexical_analysis.html#line-structure	2.1. 行構造	
 reference/lexical_analysis.html#logical-lines	2.1.1. 論理行 (logical line)	
