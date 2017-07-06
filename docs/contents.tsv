@@ -1129,31 +1129,31 @@ reference/index.html	Python 言語リファレンス	https://github.com/pylangst
 reference/introduction.html	1. はじめに	https://github.com/pylangstudy/201707/blob/master/05/00/ReadMe.md
 reference/introduction.html#alternate-implementations	1.1. 別のPythonの実装	https://github.com/pylangstudy/201707/blob/master/05/00/ReadMe.md
 reference/introduction.html#notation	1.2. 本マニュアルにおける表記法	https://github.com/pylangstudy/201707/blob/master/05/00/ReadMe.md
-reference/lexical_analysis.html	2. 字句解析	
-reference/lexical_analysis.html#line-structure	2.1. 行構造	
-reference/lexical_analysis.html#logical-lines	2.1.1. 論理行 (logical line)	
-reference/lexical_analysis.html#physical-lines	2.1.2. 物理行 (physical line)	
-reference/lexical_analysis.html#comments	2.1.3. コメント (Comments)	
-reference/lexical_analysis.html#encoding-declarations	2.1.4. エンコード宣言 (encoding declaration)	
-reference/lexical_analysis.html#explicit-line-joining	2.1.5. 明示的な行継続	
-reference/lexical_analysis.html#implicit-line-joining	2.1.6. 非明示的な行継続	
-reference/lexical_analysis.html#blank-lines	2.1.7. 空行	
-reference/lexical_analysis.html#indentation	2.1.8. インデント	
-reference/lexical_analysis.html#whitespace-between-tokens	2.1.9. トークン間の空白	
-reference/lexical_analysis.html#other-tokens	2.2. その他のトークン	
-reference/lexical_analysis.html#identifiers	2.3. 識別子 (identifier) およびキーワード (keyword)	
-reference/lexical_analysis.html#keywords	2.3.1. キーワード (keyword)	
-reference/lexical_analysis.html#reserved-classes-of-identifiers	2.3.2. 予約済みの識別子種 (reserved classes of identifiers)	
-reference/lexical_analysis.html#literals	2.4. リテラル	
-reference/lexical_analysis.html#string-and-bytes-literals	2.4.1. 文字列およびバイト列リテラル	
-reference/lexical_analysis.html#string-literal-concatenation	2.4.2. 文字列リテラルの結合 (concatenation)	
-reference/lexical_analysis.html#formatted-string-literals	2.4.3. フォーマット済み文字列リテラル	
-reference/lexical_analysis.html#numeric-literals	2.4.4. 数値リテラル	
-reference/lexical_analysis.html#integer-literals	2.4.5. 整数リテラル	
-reference/lexical_analysis.html#floating-point-literals	2.4.6. 浮動小数点数リテラル	
-reference/lexical_analysis.html#imaginary-literals	2.4.7. 虚数 (imaginary) リテラル	
-reference/lexical_analysis.html#operators	2.5. 演算子	
-reference/lexical_analysis.html#delimiters	2.6. デリミタ (delimiter)	
+reference/lexical_analysis.html	2. 字句解析	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#line-structure	2.1. 行構造	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#logical-lines	2.1.1. 論理行 (logical line)	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#physical-lines	2.1.2. 物理行 (physical line)	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#comments	2.1.3. コメント (Comments)	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#encoding-declarations	2.1.4. エンコード宣言 (encoding declaration)	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#explicit-line-joining	2.1.5. 明示的な行継続	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#implicit-line-joining	2.1.6. 非明示的な行継続	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#blank-lines	2.1.7. 空行	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#indentation	2.1.8. インデント	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#whitespace-between-tokens	2.1.9. トークン間の空白	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#other-tokens	2.2. その他のトークン	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#identifiers	2.3. 識別子 (identifier) およびキーワード (keyword)	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#keywords	2.3.1. キーワード (keyword)	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#reserved-classes-of-identifiers	2.3.2. 予約済みの識別子種 (reserved classes of identifiers)	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#literals	2.4. リテラル	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#string-and-bytes-literals	2.4.1. 文字列およびバイト列リテラル	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#string-literal-concatenation	2.4.2. 文字列リテラルの結合 (concatenation)	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#formatted-string-literals	2.4.3. フォーマット済み文字列リテラル	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#numeric-literals	2.4.4. 数値リテラル	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#integer-literals	2.4.5. 整数リテラル	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#floating-point-literals	2.4.6. 浮動小数点数リテラル	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#imaginary-literals	2.4.7. 虚数 (imaginary) リテラル	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#operators	2.5. 演算子	https://github.com/pylangstudy/201707/tree/master/06/00
+reference/lexical_analysis.html#delimiters	2.6. デリミタ (delimiter)	https://github.com/pylangstudy/201707/tree/master/06/00
 reference/datamodel.html	3. データモデル	
 reference/datamodel.html#objects-values-and-types	3.1. オブジェクト、値、および型	
 reference/datamodel.html#the-standard-type-hierarchy	3.2. 標準型の階層	
