@@ -1154,8 +1154,8 @@ reference/lexical_analysis.html#floating-point-literals	2.4.6. 浮動小数点�
 reference/lexical_analysis.html#imaginary-literals	2.4.7. 虚数 (imaginary) リテラル	https://github.com/pylangstudy/201707/tree/master/06/00
 reference/lexical_analysis.html#operators	2.5. 演算子	https://github.com/pylangstudy/201707/tree/master/06/00
 reference/lexical_analysis.html#delimiters	2.6. デリミタ (delimiter)	https://github.com/pylangstudy/201707/tree/master/06/00
-reference/datamodel.html	3. データモデル	
-reference/datamodel.html#objects-values-and-types	3.1. オブジェクト、値、および型	
+reference/datamodel.html	3. データモデル	-
+reference/datamodel.html#objects-values-and-types	3.1. オブジェクト、値、および型	https://github.com/pylangstudy/201707/tree/master/07/00
 reference/datamodel.html#the-standard-type-hierarchy	3.2. 標準型の階層	
 reference/datamodel.html#special-method-names	3.3. 特殊メソッド名	
 reference/datamodel.html#basic-customization	3.3.1. 基本的なカスタマイズ	
