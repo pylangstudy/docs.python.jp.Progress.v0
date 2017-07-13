@@ -1158,7 +1158,7 @@ reference/datamodel.html	3. データモデル	-
 reference/datamodel.html#objects-values-and-types	3.1. オブジェクト、値、および型	https://github.com/pylangstudy/201707/tree/master/07/00
 reference/datamodel.html#the-standard-type-hierarchy	3.2. 標準型の階層	https://github.com/pylangstudy/201707/blob/master/08/00/ReadMe.md
 reference/datamodel.html#special-method-names	3.3. 特殊メソッド名	https://github.com/pylangstudy/201707/blob/master/09/00/ReadMe.md
-reference/datamodel.html#basic-customization	3.3.1. 基本的なカスタマイズ	
+reference/datamodel.html#basic-customization	3.3.1. 基本的なカスタマイズ	https://github.com/pylangstudy/201707/tree/master/10/01
 reference/datamodel.html#customizing-attribute-access	3.3.2. 属性値アクセスをカスタマイズする	
 reference/datamodel.html#implementing-descriptors	3.3.2.1. デスクリプタ (descriptor) の実装	
 reference/datamodel.html#invoking-descriptors	3.3.2.2. デスクリプタの呼び出し	
