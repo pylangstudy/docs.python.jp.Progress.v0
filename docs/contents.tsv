@@ -1163,7 +1163,7 @@ reference/datamodel.html#customizing-attribute-access	3.3.2. 属性値アクセ�
 reference/datamodel.html#implementing-descriptors	3.3.2.1. デスクリプタ (descriptor) の実装	https://github.com/pylangstudy/201707/tree/master/15/00
 reference/datamodel.html#invoking-descriptors	3.3.2.2. デスクリプタの呼び出し	https://github.com/pylangstudy/201707/tree/master/16/00
 reference/datamodel.html#slots	3.3.2.3. __slots__	https://github.com/pylangstudy/201707/tree/master/16/01
-reference/datamodel.html#notes-on-using-slots	3.3.2.3.1.__slots__を利用する際の注意	
+reference/datamodel.html#notes-on-using-slots	3.3.2.3.1.__slots__を利用する際の注意	https://github.com/pylangstudy/201707/tree/master/17/00
 reference/datamodel.html#customizing-class-creation	3.3.3. クラス生成をカスタマイズする	
 reference/datamodel.html#metaclasses	3.3.3.1. Metaclasses	
 reference/datamodel.html#determining-the-appropriate-metaclass	3.3.3.2. 適切なメタクラスの決定	
