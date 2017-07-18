@@ -1166,7 +1166,7 @@ reference/datamodel.html#slots	3.3.2.3. __slots__	https://github.com/pylangstudy
 reference/datamodel.html#notes-on-using-slots	3.3.2.3.1.__slots__を利用する際の注意	https://github.com/pylangstudy/201707/tree/master/17/00
 reference/datamodel.html#customizing-class-creation	3.3.3. クラス生成をカスタマイズする	https://github.com/pylangstudy/201707/tree/master/17/01
 reference/datamodel.html#metaclasses	3.3.3.1. Metaclasses	https://github.com/pylangstudy/201707/tree/master/18/00
-reference/datamodel.html#determining-the-appropriate-metaclass	3.3.3.2. 適切なメタクラスの決定	
+reference/datamodel.html#determining-the-appropriate-metaclass	3.3.3.2. 適切なメタクラスの決定	https://github.com/pylangstudy/201707/tree/master/18/01
 reference/datamodel.html#preparing-the-class-namespace	3.3.3.3. クラスの名前空間の準備	
 reference/datamodel.html#executing-the-class-body	3.3.3.4. クラス本体の実行	
 reference/datamodel.html#creating-the-class-object	3.3.3.5. クラスオブジェクトの作成	
