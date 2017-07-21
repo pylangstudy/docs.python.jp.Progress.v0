@@ -1172,7 +1172,7 @@ reference/datamodel.html#executing-the-class-body	3.3.3.4. クラス本体の実
 reference/datamodel.html#creating-the-class-object	3.3.3.5. クラスオブジェクトの作成	https://github.com/pylangstudy/201707/blob/master/20/00/ReadMe.md
 reference/datamodel.html#metaclass-example	3.3.3.6. メタクラスの例	https://github.com/pylangstudy/201707/tree/master/20/01
 reference/datamodel.html#customizing-instance-and-subclass-checks	3.3.4. インスタンスのカスタマイズとサブクラスチェック	https://github.com/pylangstudy/201707/tree/master/21/00
-reference/datamodel.html#emulating-callable-objects	3.3.5. 呼び出し可能オブジェクトをエミュレートする	
+reference/datamodel.html#emulating-callable-objects	3.3.5. 呼び出し可能オブジェクトをエミュレートする	https://github.com/pylangstudy/201707/tree/master/21/01
 reference/datamodel.html#emulating-container-types	3.3.6. コンテナをエミュレートする	
 reference/datamodel.html#emulating-numeric-types	3.3.7. 数値型をエミュレーションする	
 reference/datamodel.html#with-statement-context-managers	3.3.8. with文とコンテキストマネージャ	
