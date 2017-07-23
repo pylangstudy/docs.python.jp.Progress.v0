@@ -1175,7 +1175,7 @@ reference/datamodel.html#customizing-instance-and-subclass-checks	3.3.4. イン�
 reference/datamodel.html#emulating-callable-objects	3.3.5. 呼び出し可能オブジェクトをエミュレートする	https://github.com/pylangstudy/201707/tree/master/21/01
 reference/datamodel.html#emulating-container-types	3.3.6. コンテナをエミュレートする	https://github.com/pylangstudy/201707/tree/master/22/00
 reference/datamodel.html#emulating-numeric-types	3.3.7. 数値型をエミュレーションする	https://github.com/pylangstudy/201707/tree/master/23/00
-reference/datamodel.html#with-statement-context-managers	3.3.8. with文とコンテキストマネージャ	
+reference/datamodel.html#with-statement-context-managers	3.3.8. with文とコンテキストマネージャ	https://github.com/pylangstudy/201707/tree/master/23/01
 reference/datamodel.html#special-method-lookup	3.3.9. 特殊メソッド検索	
 reference/datamodel.html#coroutines	3.4. コルーチン	
 reference/datamodel.html#awaitable-objects	3.4.1. 待機可能オブジェクト (Awaitable Object)	
