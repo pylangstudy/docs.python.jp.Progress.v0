@@ -1177,8 +1177,8 @@ reference/datamodel.html#emulating-container-types	3.3.6. コンテナをエミ�
 reference/datamodel.html#emulating-numeric-types	3.3.7. 数値型をエミュレーションする	https://github.com/pylangstudy/201707/tree/master/23/00
 reference/datamodel.html#with-statement-context-managers	3.3.8. with文とコンテキストマネージャ	https://github.com/pylangstudy/201707/tree/master/23/01
 reference/datamodel.html#special-method-lookup	3.3.9. 特殊メソッド検索	https://github.com/pylangstudy/201707/tree/master/23/02
-reference/datamodel.html#coroutines	3.4. コルーチン	
-reference/datamodel.html#awaitable-objects	3.4.1. 待機可能オブジェクト (Awaitable Object)	
+reference/datamodel.html#coroutines	3.4. コルーチン	https://github.com/pylangstudy/201707/tree/master/24/00
+reference/datamodel.html#awaitable-objects	3.4.1. 待機可能オブジェクト (Awaitable Object)	https://github.com/pylangstudy/201707/tree/master/24/01
 reference/datamodel.html#coroutine-objects	3.4.2. コルーチンオブジェクト	
 reference/datamodel.html#asynchronous-iterators	3.4.3. 非同期イテレータ (Asynchronous Iterator)	
 reference/datamodel.html#asynchronous-context-managers	3.4.4. 非同期コンテクストマネージャ (Asynchronous Context Manager)	
