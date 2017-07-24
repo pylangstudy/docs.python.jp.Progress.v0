@@ -1179,9 +1179,9 @@ reference/datamodel.html#with-statement-context-managers	3.3.8. with文とコン
 reference/datamodel.html#special-method-lookup	3.3.9. 特殊メソッド検索	https://github.com/pylangstudy/201707/tree/master/23/02
 reference/datamodel.html#coroutines	3.4. コルーチン	https://github.com/pylangstudy/201707/tree/master/24/00
 reference/datamodel.html#awaitable-objects	3.4.1. 待機可能オブジェクト (Awaitable Object)	https://github.com/pylangstudy/201707/tree/master/24/01
-reference/datamodel.html#coroutine-objects	3.4.2. コルーチンオブジェクト	
-reference/datamodel.html#asynchronous-iterators	3.4.3. 非同期イテレータ (Asynchronous Iterator)	
-reference/datamodel.html#asynchronous-context-managers	3.4.4. 非同期コンテクストマネージャ (Asynchronous Context Manager)	
+reference/datamodel.html#coroutine-objects	3.4.2. コルーチンオブジェクト	https://github.com/pylangstudy/201707/tree/master/24/02
+reference/datamodel.html#asynchronous-iterators	3.4.3. 非同期イテレータ (Asynchronous Iterator)	https://github.com/pylangstudy/201707/tree/master/24/03
+reference/datamodel.html#asynchronous-context-managers	3.4.4. 非同期コンテクストマネージャ (Asynchronous Context Manager)	https://github.com/pylangstudy/201707/tree/master/24/04
 reference/executionmodel.html	4. 実行モデル	
 reference/executionmodel.html#structure-of-a-program	4.1. プログラムの構造	
 reference/executionmodel.html#naming-and-binding	4.2. 名前づけと束縛 (naming and binding)	
