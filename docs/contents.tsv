@@ -1289,7 +1289,7 @@ reference/toplevel_components.html#expression-input	9.4. 式入力
 reference/grammar.html	10. 完全な文法仕様	
 library/index.html	Python 標準ライブラリ	https://github.com/pylangstudy/201707/blob/master/25/00/ReadMe.md
 library/intro.html	1. はじめに	https://github.com/pylangstudy/201707/blob/master/25/01/ReadMe.md
-library/functions.html	2. 組み込み関数	
+library/functions.html	2. 組み込み関数	https://github.com/pylangstudy/201707/tree/master/25/02
 library/constants.html	3. 組み込み定数	
 library/constants.html#constants-added-by-the-site-module	3.1.siteモジュールで追加される定数	
 library/stdtypes.html	4. 組み込み型	
