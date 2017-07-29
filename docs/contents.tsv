@@ -1292,10 +1292,10 @@ library/intro.html	1. はじめに	https://github.com/pylangstudy/201707/blob/ma
 library/functions.html	2. 組み込み関数	https://github.com/pylangstudy/201707/tree/master/25/02
 library/constants.html	3. 組み込み定数	https://github.com/pylangstudy/201707/tree/master/29/00
 library/constants.html#constants-added-by-the-site-module	3.1.siteモジュールで追加される定数	https://github.com/pylangstudy/201707/tree/master/29/00
-library/stdtypes.html	4. 組み込み型	
-library/stdtypes.html#truth-value-testing	4.1. 真理値判定	
-library/stdtypes.html#boolean-operations-and-or-not	4.2. ブール演算 —and,or,not	
-library/stdtypes.html#comparisons	4.3. 比較	
+library/stdtypes.html	4. 組み込み型	https://github.com/pylangstudy/201707/blob/master/29/01/ReadMe.md
+library/stdtypes.html#truth-value-testing	4.1. 真理値判定	https://github.com/pylangstudy/201707/tree/master/29/02
+library/stdtypes.html#boolean-operations-and-or-not	4.2. ブール演算 —and,or,not	https://github.com/pylangstudy/201707/tree/master/30/00
+library/stdtypes.html#comparisons	4.3. 比較	https://github.com/pylangstudy/201707/tree/master/30/01
 library/stdtypes.html#numeric-types-int-float-complex	4.4. 数値型int,float,complex	
 library/stdtypes.html#bitwise-operations-on-integer-types	4.4.1. 整数型におけるビット単位演算	
 library/stdtypes.html#additional-methods-on-integer-types	4.4.2. 整数型における追加のメソッド	
