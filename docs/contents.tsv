@@ -1297,7 +1297,7 @@ library/stdtypes.html#truth-value-testing	4.1. 真理値判定	https://github.co
 library/stdtypes.html#boolean-operations-and-or-not	4.2. ブール演算 —and,or,not	https://github.com/pylangstudy/201707/tree/master/30/00
 library/stdtypes.html#comparisons	4.3. 比較	https://github.com/pylangstudy/201707/tree/master/30/01
 library/stdtypes.html#numeric-types-int-float-complex	4.4. 数値型int,float,complex	https://github.com/pylangstudy/201707/tree/master/30/02
-library/stdtypes.html#bitwise-operations-on-integer-types	4.4.1. 整数型におけるビット単位演算	
+library/stdtypes.html#bitwise-operations-on-integer-types	4.4.1. 整数型におけるビット単位演算	https://github.com/pylangstudy/201707/tree/master/30/03
 library/stdtypes.html#additional-methods-on-integer-types	4.4.2. 整数型における追加のメソッド	
 library/stdtypes.html#additional-methods-on-float	4.4.3. 浮動小数点数に対する追加のメソッド	
 library/stdtypes.html#hashing-of-numeric-types	4.4.4. 数値型のハッシュ化	
