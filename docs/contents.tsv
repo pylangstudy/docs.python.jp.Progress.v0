@@ -1300,11 +1300,11 @@ library/stdtypes.html#numeric-types-int-float-complex	4.4. 数値型int,float,co
 library/stdtypes.html#bitwise-operations-on-integer-types	4.4.1. 整数型におけるビット単位演算	https://github.com/pylangstudy/201707/tree/master/30/03
 library/stdtypes.html#additional-methods-on-integer-types	4.4.2. 整数型における追加のメソッド	https://github.com/pylangstudy/201707/tree/master/30/04
 library/stdtypes.html#additional-methods-on-float	4.4.3. 浮動小数点数に対する追加のメソッド	https://github.com/pylangstudy/201707/tree/master/30/05
-library/stdtypes.html#hashing-of-numeric-types	4.4.4. 数値型のハッシュ化	
-library/stdtypes.html#iterator-types	4.5. イテレータ型	
-library/stdtypes.html#generator-types	4.5.1. ジェネレータ型	
-library/stdtypes.html#sequence-types-list-tuple-range	4.6. シーケンス型 —list,tuple,range	
-library/stdtypes.html#common-sequence-operations	4.6.1. 共通のシーケンス演算	
+library/stdtypes.html#hashing-of-numeric-types	4.4.4. 数値型のハッシュ化	https://github.com/pylangstudy/201707/tree/master/31/00
+library/stdtypes.html#iterator-types	4.5. イテレータ型	https://github.com/pylangstudy/201707/tree/master/31/01
+library/stdtypes.html#generator-types	4.5.1. ジェネレータ型	https://github.com/pylangstudy/201707/tree/master/31/02
+library/stdtypes.html#sequence-types-list-tuple-range	4.6. シーケンス型 —list,tuple,range	https://github.com/pylangstudy/201707/tree/master/31/03
+library/stdtypes.html#common-sequence-operations	4.6.1. 共通のシーケンス演算	https://github.com/pylangstudy/201707/tree/master/31/04
 library/stdtypes.html#immutable-sequence-types	4.6.2. イミュータブルなシーケンス型	
 library/stdtypes.html#mutable-sequence-types	4.6.3. ミュータブルなシーケンス型	
 library/stdtypes.html#lists	4.6.4. リスト型 (list)	
