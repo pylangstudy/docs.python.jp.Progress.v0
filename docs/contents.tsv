@@ -1306,10 +1306,10 @@ library/stdtypes.html#generator-types	4.5.1. ジェネレータ型	https://githu
 library/stdtypes.html#sequence-types-list-tuple-range	4.6. シーケンス型 —list,tuple,range	https://github.com/pylangstudy/201707/tree/master/31/03
 library/stdtypes.html#common-sequence-operations	4.6.1. 共通のシーケンス演算	https://github.com/pylangstudy/201707/tree/master/31/04
 library/stdtypes.html#immutable-sequence-types	4.6.2. イミュータブルなシーケンス型	https://github.com/pylangstudy/201708/tree/master/01/00
-library/stdtypes.html#mutable-sequence-types	4.6.3. ミュータブルなシーケンス型	
-library/stdtypes.html#lists	4.6.4. リスト型 (list)	
-library/stdtypes.html#tuples	4.6.5. タプル型 (tuple)	
-library/stdtypes.html#ranges	4.6.6. range	
+library/stdtypes.html#mutable-sequence-types	4.6.3. ミュータブルなシーケンス型	https://github.com/pylangstudy/201708/tree/master/01/01
+library/stdtypes.html#lists	4.6.4. リスト型 (list)	https://github.com/pylangstudy/201708/tree/master/01/02
+library/stdtypes.html#tuples	4.6.5. タプル型 (tuple)	https://github.com/pylangstudy/201708/tree/master/01/03
+library/stdtypes.html#ranges	4.6.6. range	https://github.com/pylangstudy/201708/tree/master/01/04
 library/stdtypes.html#text-sequence-type-str	4.7. テキストシーケンス型 —str	
 library/stdtypes.html#string-methods	4.7.1. 文字列メソッド	
 library/stdtypes.html#printf-style-string-formatting	4.7.2.printf形式の文字列書式化	
