@@ -1317,7 +1317,7 @@ library/stdtypes.html#binary-sequence-types-bytes-bytearray-memoryview	4.8. バ�
 library/stdtypes.html#bytes	4.8.1. bytes	https://github.com/pylangstudy/201708/tree/master/03/01
 library/stdtypes.html#bytearray-objects	4.8.2. bytearray オブジェクト	https://github.com/pylangstudy/201708/tree/master/03/02
 library/stdtypes.html#bytes-and-bytearray-operations	4.8.3. bytes と bytearray の操作	https://github.com/pylangstudy/201708/tree/master/03/03
-library/stdtypes.html#printf-style-bytes-formatting	4.8.4.printf形式での bytes の書式化	
+library/stdtypes.html#printf-style-bytes-formatting	4.8.4.printf形式での bytes の書式化	https://github.com/pylangstudy/201708/tree/master/04/00
 library/stdtypes.html#memory-views	4.8.5. メモリビュー	
 library/stdtypes.html#set-types-set-frozenset	4.9. set（集合）型 —set,frozenset	
 library/stdtypes.html#mapping-types-dict	4.10. マッピング型 —dict	
