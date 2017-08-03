@@ -1315,7 +1315,7 @@ library/stdtypes.html#string-methods	4.7.1. 文字列メソッド	https://github
 library/stdtypes.html#printf-style-string-formatting	4.7.2.printf形式の文字列書式化	https://github.com/pylangstudy/201708/tree/master/03/00
 library/stdtypes.html#binary-sequence-types-bytes-bytearray-memoryview	4.8. バイナリシーケンス型 —bytes,bytearray,memoryview	-
 library/stdtypes.html#bytes	4.8.1. bytes	https://github.com/pylangstudy/201708/tree/master/03/01
-library/stdtypes.html#bytearray-objects	4.8.2. bytearray オブジェクト	
+library/stdtypes.html#bytearray-objects	4.8.2. bytearray オブジェクト	https://github.com/pylangstudy/201708/tree/master/03/02
 library/stdtypes.html#bytes-and-bytearray-operations	4.8.3. bytes と bytearray の操作	
 library/stdtypes.html#printf-style-bytes-formatting	4.8.4.printf形式での bytes の書式化	
 library/stdtypes.html#memory-views	4.8.5. メモリビュー	
