@@ -1322,7 +1322,7 @@ library/stdtypes.html#memory-views	4.8.5. メモリビュー	https://github.com/
 library/stdtypes.html#set-types-set-frozenset	4.9. set（集合）型 —set,frozenset	https://github.com/pylangstudy/201708/tree/master/05/00
 library/stdtypes.html#mapping-types-dict	4.10. マッピング型 —dict	https://github.com/pylangstudy/201708/tree/master/06/00
 library/stdtypes.html#dictionary-view-objects	4.10.1. 辞書ビューオブジェクト	https://github.com/pylangstudy/201708/tree/master/06/01
-library/stdtypes.html#context-manager-types	4.11. コンテキストマネージャ型	
+library/stdtypes.html#context-manager-types	4.11. コンテキストマネージャ型	https://github.com/pylangstudy/201708/tree/master/06/02
 library/stdtypes.html#other-built-in-types	4.12. その他の組み込み型	
 library/stdtypes.html#modules	4.12.1. モジュール (module)	
 library/stdtypes.html#classes-and-class-instances	4.12.2. クラスおよびクラスインスタンス	
