@@ -1323,19 +1323,19 @@ library/stdtypes.html#set-types-set-frozenset	4.9. set（集合）型 —set,fro
 library/stdtypes.html#mapping-types-dict	4.10. マッピング型 —dict	https://github.com/pylangstudy/201708/tree/master/06/00
 library/stdtypes.html#dictionary-view-objects	4.10.1. 辞書ビューオブジェクト	https://github.com/pylangstudy/201708/tree/master/06/01
 library/stdtypes.html#context-manager-types	4.11. コンテキストマネージャ型	https://github.com/pylangstudy/201708/tree/master/06/02
-library/stdtypes.html#other-built-in-types	4.12. その他の組み込み型	
-library/stdtypes.html#modules	4.12.1. モジュール (module)	
-library/stdtypes.html#classes-and-class-instances	4.12.2. クラスおよびクラスインスタンス	
-library/stdtypes.html#functions	4.12.3. 関数	
-library/stdtypes.html#methods	4.12.4. メソッド	
-library/stdtypes.html#code-objects	4.12.5. コードオブジェクト	
-library/stdtypes.html#type-objects	4.12.6. 型オブジェクト	
-library/stdtypes.html#the-null-object	4.12.7. ヌルオブジェクト	
-library/stdtypes.html#the-ellipsis-object	4.12.8. Ellipsis オブジェクト	
-library/stdtypes.html#the-notimplemented-object	4.12.9. NotImplemented オブジェクト	
-library/stdtypes.html#boolean-values	4.12.10. ブール値	
-library/stdtypes.html#internal-objects	4.12.11. 内部オブジェクト	
-library/stdtypes.html#special-attributes	4.13. 特殊属性	
+library/stdtypes.html#other-built-in-types	4.12. その他の組み込み型	-
+library/stdtypes.html#modules	4.12.1. モジュール (module)	https://github.com/pylangstudy/201708/tree/master/07/00
+library/stdtypes.html#classes-and-class-instances	4.12.2. クラスおよびクラスインスタンス	-
+library/stdtypes.html#functions	4.12.3. 関数	-
+library/stdtypes.html#methods	4.12.4. メソッド	https://github.com/pylangstudy/201708/tree/master/07/01
+library/stdtypes.html#code-objects	4.12.5. コードオブジェクト	https://github.com/pylangstudy/201708/tree/master/07/02
+library/stdtypes.html#type-objects	4.12.6. 型オブジェクト	https://github.com/pylangstudy/201708/tree/master/07/03
+library/stdtypes.html#the-null-object	4.12.7. ヌルオブジェクト	-
+library/stdtypes.html#the-ellipsis-object	4.12.8. Ellipsis オブジェクト	-
+library/stdtypes.html#the-notimplemented-object	4.12.9. NotImplemented オブジェクト	-
+library/stdtypes.html#boolean-values	4.12.10. ブール値	-
+library/stdtypes.html#internal-objects	4.12.11. 内部オブジェクト	-
+library/stdtypes.html#special-attributes	4.13. 特殊属性	https://github.com/pylangstudy/201708/tree/master/07/04
 library/exceptions.html	5. 組み込み例外	
 library/exceptions.html#base-classes	5.1. 基底クラス	
 library/exceptions.html#concrete-exceptions	5.2. 具象例外	
