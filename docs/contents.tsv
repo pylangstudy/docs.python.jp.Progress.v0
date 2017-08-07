@@ -1336,12 +1336,12 @@ library/stdtypes.html#the-notimplemented-object	4.12.9. NotImplemented オブジ
 library/stdtypes.html#boolean-values	4.12.10. ブール値	-
 library/stdtypes.html#internal-objects	4.12.11. 内部オブジェクト	-
 library/stdtypes.html#special-attributes	4.13. 特殊属性	https://github.com/pylangstudy/201708/tree/master/07/04
-library/exceptions.html	5. 組み込み例外	
-library/exceptions.html#base-classes	5.1. 基底クラス	
-library/exceptions.html#concrete-exceptions	5.2. 具象例外	
-library/exceptions.html#os-exceptions	5.2.1. OS 例外	
-library/exceptions.html#warnings	5.3. 警告	
-library/exceptions.html#exception-hierarchy	5.4. 例外のクラス階層	
+library/exceptions.html	5. 組み込み例外	https://github.com/pylangstudy/201708/tree/master/07/05
+library/exceptions.html#base-classes	5.1. 基底クラス	https://github.com/pylangstudy/201708/tree/master/07/06
+library/exceptions.html#concrete-exceptions	5.2. 具象例外	https://github.com/pylangstudy/201708/tree/master/07/07
+library/exceptions.html#os-exceptions	5.2.1. OS 例外	-
+library/exceptions.html#warnings	5.3. 警告	-
+library/exceptions.html#exception-hierarchy	5.4. 例外のクラス階層	-
 library/text.html	6. テキスト処理サービス	
 library/string.html	6.1.string— 一般的な文字列操作	
 library/string.html#string-constants	6.1.1. 文字列定数	
