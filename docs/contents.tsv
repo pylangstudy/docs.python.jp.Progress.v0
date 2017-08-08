@@ -1342,11 +1342,11 @@ library/exceptions.html#concrete-exceptions	5.2. 具象例外	https://github.com
 library/exceptions.html#os-exceptions	5.2.1. OS 例外	-
 library/exceptions.html#warnings	5.3. 警告	-
 library/exceptions.html#exception-hierarchy	5.4. 例外のクラス階層	-
-library/text.html	6. テキスト処理サービス	
-library/string.html	6.1.string— 一般的な文字列操作	
-library/string.html#string-constants	6.1.1. 文字列定数	
-library/string.html#custom-string-formatting	6.1.2. カスタムの文字列書式化	
-library/string.html#format-string-syntax	6.1.3. 書式指定文字列の文法	
+library/text.html	6. テキスト処理サービス	-
+library/string.html	6.1.string— 一般的な文字列操作	-
+library/string.html#string-constants	6.1.1. 文字列定数	https://github.com/pylangstudy/201708/tree/master/08/00
+library/string.html#custom-string-formatting	6.1.2. カスタムの文字列書式化	https://github.com/pylangstudy/201708/tree/master/08/01
+library/string.html#format-string-syntax	6.1.3. 書式指定文字列の文法	https://github.com/pylangstudy/201708/tree/master/08/02
 library/string.html#format-specification-mini-language	6.1.3.1. 書式指定ミニ言語仕様	
 library/string.html#format-examples	6.1.3.2. 書式指定例	
 library/string.html#template-strings	6.1.4. テンプレート文字列	
