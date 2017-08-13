@@ -1354,7 +1354,7 @@ library/string.html#helper-functions	6.1.5. ヘルパー関数	https://github.co
 library/re.html	6.2.re— 正規表現操作	https://github.com/pylangstudy/201708/tree/master/11/00/ReadMe.md
 library/re.html#regular-expression-syntax	6.2.1. 正規表現のシンタックス	https://github.com/pylangstudy/201708/blob/master/11/01/ReadMe.md
 library/re.html#module-contents	6.2.2. モジュールコンテンツ	https://github.com/pylangstudy/201708/tree/master/12/00
-library/re.html#regular-expression-objects	6.2.3. 正規表現オブジェクト	
+library/re.html#regular-expression-objects	6.2.3. 正規表現オブジェクト	https://github.com/pylangstudy/201708/tree/master/13/00
 library/re.html#match-objects	6.2.4. match オブジェクト	
 library/re.html#regular-expression-examples	6.2.5. 正規表現の例	
 library/re.html#checking-for-a-pair	6.2.5.1. ペアの確認	
