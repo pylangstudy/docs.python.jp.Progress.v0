@@ -1366,7 +1366,7 @@ library/re.html#finding-all-adverbs	6.2.5.6. 全ての副詞を見つける	http
 library/re.html#finding-all-adverbs-and-their-positions	6.2.5.7. 全ての副詞と、その位置を見つける	https://github.com/pylangstudy/201708/tree/master/15/06
 library/re.html#raw-string-notation	6.2.5.8. Raw String記法	https://github.com/pylangstudy/201708/tree/master/15/07
 library/re.html#writing-a-tokenizer	6.2.5.9. トークナイザを書く	https://github.com/pylangstudy/201708/tree/master/15/08
-library/difflib.html	6.3.difflib— 差分の計算を助ける	
+library/difflib.html	6.3.difflib— 差分の計算を助ける	https://github.com/pylangstudy/201708/tree/master/16/00
 library/difflib.html#sequencematcher-objects	6.3.1. SequenceMatcherオブジェクト	
 library/difflib.html#sequencematcher-examples	6.3.2. SequenceMatcher の例	
 library/difflib.html#differ-objects	6.3.3. Differ オブジェクト	
