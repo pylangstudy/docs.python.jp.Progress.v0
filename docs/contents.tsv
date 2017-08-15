@@ -1356,16 +1356,16 @@ library/re.html#regular-expression-syntax	6.2.1. 正規表現のシンタック�
 library/re.html#module-contents	6.2.2. モジュールコンテンツ	https://github.com/pylangstudy/201708/tree/master/12/00
 library/re.html#regular-expression-objects	6.2.3. 正規表現オブジェクト	https://github.com/pylangstudy/201708/tree/master/13/00
 library/re.html#match-objects	6.2.4. match オブジェクト	https://github.com/pylangstudy/201708/tree/master/14/00
-library/re.html#regular-expression-examples	6.2.5. 正規表現の例	
-library/re.html#checking-for-a-pair	6.2.5.1. ペアの確認	
-library/re.html#simulating-scanf	6.2.5.2. scanf() をシミュレートする	
-library/re.html#search-vs-match	6.2.5.3. search() vs. match()	
-library/re.html#making-a-phonebook	6.2.5.4. 電話帳の作成	
-library/re.html#text-munging	6.2.5.5. テキストの秘匿	
-library/re.html#finding-all-adverbs	6.2.5.6. 全ての副詞を見つける	
-library/re.html#finding-all-adverbs-and-their-positions	6.2.5.7. 全ての副詞と、その位置を見つける	
-library/re.html#raw-string-notation	6.2.5.8. Raw String記法	
-library/re.html#writing-a-tokenizer	6.2.5.9. トークナイザを書く	
+library/re.html#regular-expression-examples	6.2.5. 正規表現の例	-
+library/re.html#checking-for-a-pair	6.2.5.1. ペアの確認	https://github.com/pylangstudy/201708/tree/master/15/00
+library/re.html#simulating-scanf	6.2.5.2. scanf() をシミュレートする	https://github.com/pylangstudy/201708/tree/master/15/01
+library/re.html#search-vs-match	6.2.5.3. search() vs. match()	https://github.com/pylangstudy/201708/tree/master/15/02
+library/re.html#making-a-phonebook	6.2.5.4. 電話帳の作成	https://github.com/pylangstudy/201708/tree/master/15/03
+library/re.html#text-munging	6.2.5.5. テキストの秘匿	https://github.com/pylangstudy/201708/tree/master/15/04
+library/re.html#finding-all-adverbs	6.2.5.6. 全ての副詞を見つける	https://github.com/pylangstudy/201708/tree/master/15/05
+library/re.html#finding-all-adverbs-and-their-positions	6.2.5.7. 全ての副詞と、その位置を見つける	https://github.com/pylangstudy/201708/tree/master/15/06
+library/re.html#raw-string-notation	6.2.5.8. Raw String記法	https://github.com/pylangstudy/201708/tree/master/15/07
+library/re.html#writing-a-tokenizer	6.2.5.9. トークナイザを書く	https://github.com/pylangstudy/201708/tree/master/15/08
 library/difflib.html	6.3.difflib— 差分の計算を助ける	
 library/difflib.html#sequencematcher-objects	6.3.1. SequenceMatcherオブジェクト	
 library/difflib.html#sequencematcher-examples	6.3.2. SequenceMatcher の例	
