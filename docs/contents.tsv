@@ -1368,7 +1368,7 @@ library/re.html#raw-string-notation	6.2.5.8. Raw String記法	https://github.com
 library/re.html#writing-a-tokenizer	6.2.5.9. トークナイザを書く	https://github.com/pylangstudy/201708/tree/master/15/08
 library/difflib.html	6.3.difflib— 差分の計算を助ける	https://github.com/pylangstudy/201708/tree/master/16/00
 library/difflib.html#sequencematcher-objects	6.3.1. SequenceMatcherオブジェクト	https://github.com/pylangstudy/201708/tree/master/24/00
-library/difflib.html#sequencematcher-examples	6.3.2. SequenceMatcher の例	
+library/difflib.html#sequencematcher-examples	6.3.2. SequenceMatcher の例	https://github.com/pylangstudy/201708/tree/master/24/01
 library/difflib.html#differ-objects	6.3.3. Differ オブジェクト	
 library/difflib.html#differ-example	6.3.4. Differ の例	
 library/difflib.html#a-command-line-interface-to-difflib	6.3.5. difflib のコマンドラインインタフェース	
