@@ -1371,8 +1371,8 @@ library/difflib.html#sequencematcher-objects	6.3.1. SequenceMatcherオブジェ�
 library/difflib.html#sequencematcher-examples	6.3.2. SequenceMatcher の例	https://github.com/pylangstudy/201708/tree/master/24/01
 library/difflib.html#differ-objects	6.3.3. Differ オブジェクト	https://github.com/pylangstudy/201708/tree/master/24/02
 library/difflib.html#differ-example	6.3.4. Differ の例	https://github.com/pylangstudy/201708/tree/master/24/03
-library/difflib.html#a-command-line-interface-to-difflib	6.3.5. difflib のコマンドラインインタフェース	
-library/textwrap.html	6.4.textwrap— テキストの折り返しと詰め込み	
+library/difflib.html#a-command-line-interface-to-difflib	6.3.5. difflib のコマンドラインインタフェース	https://github.com/pylangstudy/201708/tree/master/24/04
+library/textwrap.html	6.4.textwrap— テキストの折り返しと詰め込み	https://github.com/pylangstudy/201708/tree/master/25/00
 library/unicodedata.html	6.5.unicodedata— Unicode データベース	
 library/stringprep.html	6.6.stringprep— インターネットのための文字列調製	
 library/readline.html	6.7.readline— GNU readline のインタフェース	
