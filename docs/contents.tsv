@@ -1374,7 +1374,7 @@ library/difflib.html#differ-example	6.3.4. Differ の例	https://github.com/pyla
 library/difflib.html#a-command-line-interface-to-difflib	6.3.5. difflib のコマンドラインインタフェース	https://github.com/pylangstudy/201708/tree/master/24/04
 library/textwrap.html	6.4.textwrap— テキストの折り返しと詰め込み	https://github.com/pylangstudy/201708/tree/master/25/00
 library/unicodedata.html	6.5.unicodedata— Unicode データベース	https://github.com/pylangstudy/201708/tree/master/26/00
-library/stringprep.html	6.6.stringprep— インターネットのための文字列調製	
+library/stringprep.html	6.6.stringprep— インターネットのための文字列調製	https://github.com/pylangstudy/201708/tree/master/27/00
 library/readline.html	6.7.readline— GNU readline のインタフェース	
 library/readline.html#init-file	6.7.1. 初期化ファイル	
 library/readline.html#line-buffer	6.7.2. 行バッファ	
