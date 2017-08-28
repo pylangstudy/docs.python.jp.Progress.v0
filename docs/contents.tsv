@@ -1375,10 +1375,10 @@ library/difflib.html#a-command-line-interface-to-difflib	6.3.5. difflib のコ�
 library/textwrap.html	6.4.textwrap— テキストの折り返しと詰め込み	https://github.com/pylangstudy/201708/tree/master/25/00
 library/unicodedata.html	6.5.unicodedata— Unicode データベース	https://github.com/pylangstudy/201708/tree/master/26/00
 library/stringprep.html	6.6.stringprep— インターネットのための文字列調製	https://github.com/pylangstudy/201708/tree/master/27/00
-library/readline.html	6.7.readline— GNU readline のインタフェース	
-library/readline.html#init-file	6.7.1. 初期化ファイル	
-library/readline.html#line-buffer	6.7.2. 行バッファ	
-library/readline.html#history-file	6.7.3. 履歴ファイル	
+library/readline.html	6.7.readline— GNU readline のインタフェース	https://github.com/pylangstudy/201708/tree/master/28/00
+library/readline.html#init-file	6.7.1. 初期化ファイル	https://github.com/pylangstudy/201708/tree/master/28/01
+library/readline.html#line-buffer	6.7.2. 行バッファ	https://github.com/pylangstudy/201708/tree/master/28/02
+library/readline.html#history-file	6.7.3. 履歴ファイル	https://github.com/pylangstudy/201708/tree/master/28/03
 library/readline.html#history-list	6.7.4. 履歴リスト	
 library/readline.html#startup-hooks	6.7.5. 開始フック	
 library/readline.html#completion	6.7.6. 補完	
