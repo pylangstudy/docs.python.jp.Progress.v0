@@ -1381,8 +1381,8 @@ library/readline.html#line-buffer	6.7.2. 行バッファ	https://github.com/pyla
 library/readline.html#history-file	6.7.3. 履歴ファイル	https://github.com/pylangstudy/201708/tree/master/28/03
 library/readline.html#history-list	6.7.4. 履歴リスト	https://github.com/pylangstudy/201708/tree/master/29/00
 library/readline.html#startup-hooks	6.7.5. 開始フック	https://github.com/pylangstudy/201708/tree/master/29/01
-library/readline.html#completion	6.7.6. 補完	
-library/readline.html#example	6.7.7. 使用例	
+library/readline.html#completion	6.7.6. 補完	https://github.com/pylangstudy/201708/tree/master/30/00
+library/readline.html#example	6.7.7. 使用例	https://github.com/pylangstudy/201708/tree/master/30/01
 library/rlcompleter.html	6.8.rlcompleter— GNU readline向け補完関数	
 library/rlcompleter.html#completer-objects	6.8.1. Completerオブジェクト	
 library/binary.html	7. バイナリデータ処理	
