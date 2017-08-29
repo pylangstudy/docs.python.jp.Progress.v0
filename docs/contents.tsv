@@ -1383,7 +1383,7 @@ library/readline.html#history-list	6.7.4. 履歴リスト	https://github.com/pyl
 library/readline.html#startup-hooks	6.7.5. 開始フック	https://github.com/pylangstudy/201708/tree/master/29/01
 library/readline.html#completion	6.7.6. 補完	https://github.com/pylangstudy/201708/tree/master/30/00
 library/readline.html#example	6.7.7. 使用例	https://github.com/pylangstudy/201708/tree/master/30/01
-library/rlcompleter.html	6.8.rlcompleter— GNU readline向け補完関数	
+library/rlcompleter.html	6.8.rlcompleter— GNU readline向け補完関数	https://github.com/pylangstudy/201708/tree/master/30/02
 library/rlcompleter.html#completer-objects	6.8.1. Completerオブジェクト	
 library/binary.html	7. バイナリデータ処理	
 library/struct.html	7.1.struct— バイト列をパックされたバイナリデータとして解釈する	
