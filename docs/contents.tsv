@@ -1384,10 +1384,10 @@ library/readline.html#startup-hooks	6.7.5. 開始フック	https://github.com/py
 library/readline.html#completion	6.7.6. 補完	https://github.com/pylangstudy/201708/tree/master/30/00
 library/readline.html#example	6.7.7. 使用例	https://github.com/pylangstudy/201708/tree/master/30/01
 library/rlcompleter.html	6.8.rlcompleter— GNU readline向け補完関数	https://github.com/pylangstudy/201708/tree/master/30/02
-library/rlcompleter.html#completer-objects	6.8.1. Completerオブジェクト	
-library/binary.html	7. バイナリデータ処理	
-library/struct.html	7.1.struct— バイト列をパックされたバイナリデータとして解釈する	
-library/struct.html#functions-and-exceptions	7.1.1. 関数と例外	
+library/rlcompleter.html#completer-objects	6.8.1. Completerオブジェクト	https://github.com/pylangstudy/201708/tree/master/30/02
+library/binary.html	7. バイナリデータ処理	-
+library/struct.html	7.1.struct— バイト列をパックされたバイナリデータとして解釈する	https://github.com/pylangstudy/201708/tree/master/31/00
+library/struct.html#functions-and-exceptions	7.1.1. 関数と例外	https://github.com/pylangstudy/201708/tree/master/31/00
 library/struct.html#format-strings	7.1.2. 書式文字列	
 library/struct.html#byte-order-size-and-alignment	7.1.2.1. バイトオーダ、サイズ、アラインメント	
 library/struct.html#format-characters	7.1.2.2. 書式指定文字	
