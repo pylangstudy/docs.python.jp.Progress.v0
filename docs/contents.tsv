@@ -1388,11 +1388,11 @@ library/rlcompleter.html#completer-objects	6.8.1. Completerオブジェクト	ht
 library/binary.html	7. バイナリデータ処理	-
 library/struct.html	7.1.struct— バイト列をパックされたバイナリデータとして解釈する	https://github.com/pylangstudy/201708/tree/master/31/00
 library/struct.html#functions-and-exceptions	7.1.1. 関数と例外	https://github.com/pylangstudy/201708/tree/master/31/00
-library/struct.html#format-strings	7.1.2. 書式文字列	
-library/struct.html#byte-order-size-and-alignment	7.1.2.1. バイトオーダ、サイズ、アラインメント	
-library/struct.html#format-characters	7.1.2.2. 書式指定文字	
-library/struct.html#examples	7.1.2.3. 使用例	
-library/struct.html#classes	7.1.3. クラス	
+library/struct.html#format-strings	7.1.2. 書式文字列	-
+library/struct.html#byte-order-size-and-alignment	7.1.2.1. バイトオーダ、サイズ、アラインメント	https://github.com/pylangstudy/201709/tree/master/01/00
+library/struct.html#format-characters	7.1.2.2. 書式指定文字	https://github.com/pylangstudy/201709/tree/master/01/00
+library/struct.html#examples	7.1.2.3. 使用例	https://github.com/pylangstudy/201709/tree/master/01/00
+library/struct.html#classes	7.1.3. クラス	https://github.com/pylangstudy/201709/tree/master/01/01
 library/codecs.html	7.2.codecs— codec レジストリと基底クラス	
 library/codecs.html#codec-base-classes	7.2.1. Codec 基底クラス	
 library/codecs.html#error-handlers	7.2.1.1. エラーハンドラ	
