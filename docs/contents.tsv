@@ -1393,7 +1393,7 @@ library/struct.html#byte-order-size-and-alignment	7.1.2.1. バイトオーダ、
 library/struct.html#format-characters	7.1.2.2. 書式指定文字	https://github.com/pylangstudy/201709/tree/master/01/00
 library/struct.html#examples	7.1.2.3. 使用例	https://github.com/pylangstudy/201709/tree/master/01/00
 library/struct.html#classes	7.1.3. クラス	https://github.com/pylangstudy/201709/tree/master/01/01
-library/codecs.html	7.2.codecs— codec レジストリと基底クラス	
+library/codecs.html	7.2.codecs— codec レジストリと基底クラス	https://github.com/pylangstudy/201709/tree/master/02/00
 library/codecs.html#codec-base-classes	7.2.1. Codec 基底クラス	
 library/codecs.html#error-handlers	7.2.1.1. エラーハンドラ	
 library/codecs.html#stateless-encoding-and-decoding	7.2.1.2. ステートレスなエンコードとデコード	
