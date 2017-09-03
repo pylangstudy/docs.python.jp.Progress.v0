@@ -1414,10 +1414,10 @@ library/codecs.html#text-transforms	7.2.4.3. テキスト変換 (Text Transforms
 library/codecs.html#module-encodings.idna	7.2.5.encodings.idna— アプリケーションにおける国際化ドメイン名 (IDNA)	
 library/codecs.html#module-encodings.mbcs	7.2.6.encodings.mbcs— Windows ANSI コードページ	
 library/codecs.html#module-encodings.utf_8_sig	7.2.7.encodings.utf_8_sig— BOM 印付き UTF-8	
-library/datatypes.html	8. データ型	
-library/datetime.html	8.1.datetime— 基本的な日付型および時間型	
-library/datetime.html#available-types	8.1.1. 利用可能なデータ型	
-library/datetime.html#timedelta-objects	8.1.2.timedeltaオブジェクト	
+library/datatypes.html	8. データ型	-
+library/datetime.html	8.1.datetime— 基本的な日付型および時間型	https://github.com/pylangstudy/201709/tree/master/03/00
+library/datetime.html#available-types	8.1.1. 利用可能なデータ型	https://github.com/pylangstudy/201709/tree/master/03/01
+library/datetime.html#timedelta-objects	8.1.2.timedeltaオブジェクト	https://github.com/pylangstudy/201709/tree/master/03/02
 library/datetime.html#date-objects	8.1.3.dateオブジェクト	
 library/datetime.html#datetime-objects	8.1.4.datetimeオブジェクト	
 library/datetime.html#time-objects	8.1.5.timeオブジェクト	
