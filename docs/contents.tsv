@@ -1423,7 +1423,7 @@ library/datetime.html#datetime-objects	8.1.4.datetimeオブジェクト	https://
 library/datetime.html#time-objects	8.1.5.timeオブジェクト	https://github.com/pylangstudy/201709/tree/master/05/00
 library/datetime.html#tzinfo-objects	8.1.6.tzinfoオブジェクト	https://github.com/pylangstudy/201709/tree/master/05/01
 library/datetime.html#timezone-objects	8.1.7.timezoneオブジェクト	https://github.com/pylangstudy/201709/tree/master/05/02
-library/datetime.html#strftime-and-strptime-behavior	8.1.8.strftime()とstrptime()の振る舞い	
+library/datetime.html#strftime-and-strptime-behavior	8.1.8.strftime()とstrptime()の振る舞い	https://github.com/pylangstudy/201709/tree/master/06/00
 library/calendar.html	8.2.calendar— 一般的なカレンダーに関する関数群	
 library/collections.html	8.3.collections— コンテナデータ型	
 library/collections.html#chainmap-objects	8.3.1.ChainMapオブジェクト	
