@@ -1428,9 +1428,9 @@ library/calendar.html	8.2.calendar— 一般的なカレンダーに関する関
 library/collections.html	8.3.collections— コンテナデータ型	https://github.com/pylangstudy/201709/tree/master/07/00
 library/collections.html#chainmap-objects	8.3.1.ChainMapオブジェクト	https://github.com/pylangstudy/201709/tree/master/07/01
 library/collections.html#chainmap-examples-and-recipes	8.3.1.1.ChainMapの例とレシピ	https://github.com/pylangstudy/201709/tree/master/07/02
-library/collections.html#counter-objects	8.3.2.Counterオブジェクト	
-library/collections.html#deque-objects	8.3.3.dequeオブジェクト	
-library/collections.html#deque-recipes	8.3.3.1.dequeのレシピ	
+library/collections.html#counter-objects	8.3.2.Counterオブジェクト	https://github.com/pylangstudy/201709/tree/master/08/00
+library/collections.html#deque-objects	8.3.3.dequeオブジェクト	https://github.com/pylangstudy/201709/tree/master/09/00
+library/collections.html#deque-recipes	8.3.3.1.dequeのレシピ	https://github.com/pylangstudy/201709/tree/master/09/01
 library/collections.html#defaultdict-objects	8.3.4.defaultdictオブジェクト	
 library/collections.html#defaultdict-examples	8.3.4.1.defaultdictの使用例	
 library/collections.html#namedtuple-factory-function-for-tuples-with-named-fields	8.3.5.namedtuple()名前付きフィールドを持つタプルのファクトリ関数	
