@@ -1431,8 +1431,8 @@ library/collections.html#chainmap-examples-and-recipes	8.3.1.1.ChainMapの例と
 library/collections.html#counter-objects	8.3.2.Counterオブジェクト	https://github.com/pylangstudy/201709/tree/master/08/00
 library/collections.html#deque-objects	8.3.3.dequeオブジェクト	https://github.com/pylangstudy/201709/tree/master/09/00
 library/collections.html#deque-recipes	8.3.3.1.dequeのレシピ	https://github.com/pylangstudy/201709/tree/master/09/01
-library/collections.html#defaultdict-objects	8.3.4.defaultdictオブジェクト	
-library/collections.html#defaultdict-examples	8.3.4.1.defaultdictの使用例	
+library/collections.html#defaultdict-objects	8.3.4.defaultdictオブジェクト	https://github.com/pylangstudy/201709/tree/master/09/02
+library/collections.html#defaultdict-examples	8.3.4.1.defaultdictの使用例	https://github.com/pylangstudy/201709/tree/master/09/02
 library/collections.html#namedtuple-factory-function-for-tuples-with-named-fields	8.3.5.namedtuple()名前付きフィールドを持つタプルのファクトリ関数	
 library/collections.html#ordereddict-objects	8.3.6.OrderedDictオブジェクト	
 library/collections.html#ordereddict-examples-and-recipes	8.3.6.1.OrderedDictの例とレシピ	
