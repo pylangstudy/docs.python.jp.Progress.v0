@@ -1439,8 +1439,8 @@ library/collections.html#ordereddict-examples-and-recipes	8.3.6.1.OrderedDictの
 library/collections.html#userdict-objects	8.3.7.UserDictオブジェクト	https://github.com/pylangstudy/201709/tree/master/12/00
 library/collections.html#userlist-objects	8.3.8.UserListオブジェクト	https://github.com/pylangstudy/201709/tree/master/12/01
 library/collections.html#userstring-objects	8.3.9.UserStringオブジェクト	https://github.com/pylangstudy/201709/tree/master/12/02
-library/collections.abc.html	8.4.collections.abc— コレクションの抽象基底クラス	
-library/collections.abc.html#collections-abstract-base-classes	8.4.1. コレクション抽象基底クラス	
+library/collections.abc.html	8.4.collections.abc— コレクションの抽象基底クラス	-
+library/collections.abc.html#collections-abstract-base-classes	8.4.1. コレクション抽象基底クラス	https://github.com/pylangstudy/201709/tree/master/13/00
 library/heapq.html	8.5.heapq— ヒープキューアルゴリズム	
 library/heapq.html#basic-examples	8.5.1. 基本的な例	
 library/heapq.html#priority-queue-implementation-notes	8.5.2. 優先度キュー実装の注釈	
