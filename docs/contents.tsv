@@ -1445,7 +1445,7 @@ library/heapq.html	8.5.heapq— ヒープキューアルゴリズム	https://git
 library/heapq.html#basic-examples	8.5.1. 基本的な例	https://github.com/pylangstudy/201709/tree/master/14/00
 library/heapq.html#priority-queue-implementation-notes	8.5.2. 優先度キュー実装の注釈	https://github.com/pylangstudy/201709/tree/master/14/00
 library/heapq.html#theory	8.5.3. 理論	https://github.com/pylangstudy/201709/tree/master/14/00
-library/bisect.html	8.6.bisect— 配列二分法アルゴリズム	
+library/bisect.html	8.6.bisect— 配列二分法アルゴリズム	https://github.com/pylangstudy/201709/tree/master/15/00
 library/bisect.html#searching-sorted-lists	8.6.1. ソート済みリストの探索	
 library/bisect.html#other-examples	8.6.2. その他の使用例	
 library/array.html	8.7.array— 効率のよい数値アレイ	
