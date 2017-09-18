@@ -1450,8 +1450,8 @@ library/bisect.html#searching-sorted-lists	8.6.1. ソート済みリストの探
 library/bisect.html#other-examples	8.6.2. その他の使用例	https://github.com/pylangstudy/201709/tree/master/15/02
 library/array.html	8.7.array— 効率のよい数値アレイ	https://github.com/pylangstudy/201709/tree/master/16/00
 library/weakref.html	8.8.weakref— 弱参照	https://github.com/pylangstudy/201709/tree/master/17/00
-library/weakref.html#weak-reference-objects	8.8.1. 弱参照オブジェクト	
-library/weakref.html#example	8.8.2. 使用例	
+library/weakref.html#weak-reference-objects	8.8.1. 弱参照オブジェクト	https://github.com/pylangstudy/201709/tree/master/18/00
+library/weakref.html#example	8.8.2. 使用例	https://github.com/pylangstudy/201709/tree/master/18/01
 library/weakref.html#finalizer-objects	8.8.3. ファイナライザオブジェクト	
 library/weakref.html#comparing-finalizers-with-del-methods	8.8.4. ファイナライザと__del__()メソッドとの比較	
 library/types.html	8.9.types— 動的な型生成と組み込み型に対する名前	
