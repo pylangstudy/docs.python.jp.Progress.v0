@@ -1452,10 +1452,10 @@ library/array.html	8.7.array— 効率のよい数値アレイ	https://github.co
 library/weakref.html	8.8.weakref— 弱参照	https://github.com/pylangstudy/201709/tree/master/17/00
 library/weakref.html#weak-reference-objects	8.8.1. 弱参照オブジェクト	https://github.com/pylangstudy/201709/tree/master/18/00
 library/weakref.html#example	8.8.2. 使用例	https://github.com/pylangstudy/201709/tree/master/18/01
-library/weakref.html#finalizer-objects	8.8.3. ファイナライザオブジェクト	
-library/weakref.html#comparing-finalizers-with-del-methods	8.8.4. ファイナライザと__del__()メソッドとの比較	
-library/types.html	8.9.types— 動的な型生成と組み込み型に対する名前	
-library/types.html#dynamic-type-creation	8.9.1. 動的な型生成	
+library/weakref.html#finalizer-objects	8.8.3. ファイナライザオブジェクト	https://github.com/pylangstudy/201709/tree/master/19/00
+library/weakref.html#comparing-finalizers-with-del-methods	8.8.4. ファイナライザと__del__()メソッドとの比較	https://github.com/pylangstudy/201709/tree/master/19/01
+library/types.html	8.9.types— 動的な型生成と組み込み型に対する名前	-
+library/types.html#dynamic-type-creation	8.9.1. 動的な型生成	https://github.com/pylangstudy/201709/tree/master/20/00
 library/types.html#standard-interpreter-types	8.9.2. 標準的なインタプリタ型	
 library/types.html#additional-utility-classes-and-functions	8.9.3. 追加のユーティリティクラスと関数	
 library/types.html#coroutine-utility-functions	8.9.4. コルーチンユーティリティ関数	
