@@ -1456,7 +1456,7 @@ library/weakref.html#finalizer-objects	8.8.3. ファイナライザオブジェ�
 library/weakref.html#comparing-finalizers-with-del-methods	8.8.4. ファイナライザと__del__()メソッドとの比較	https://github.com/pylangstudy/201709/tree/master/19/01
 library/types.html	8.9.types— 動的な型生成と組み込み型に対する名前	-
 library/types.html#dynamic-type-creation	8.9.1. 動的な型生成	https://github.com/pylangstudy/201709/tree/master/20/00
-library/types.html#standard-interpreter-types	8.9.2. 標準的なインタプリタ型	https://pylangstudy.github.io/docs.python.jp.Progress.v0/
+library/types.html#standard-interpreter-types	8.9.2. 標準的なインタプリタ型	https://github.com/pylangstudy/201709/tree/master/21/00
 library/types.html#additional-utility-classes-and-functions	8.9.3. 追加のユーティリティクラスと関数	
 library/types.html#coroutine-utility-functions	8.9.4. コルーチンユーティリティ関数	
 library/copy.html	8.10.copy— 浅いコピーおよび深いコピー操作	
