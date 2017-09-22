@@ -1459,13 +1459,13 @@ library/types.html#dynamic-type-creation	8.9.1. 動的な型生成	https://githu
 library/types.html#standard-interpreter-types	8.9.2. 標準的なインタプリタ型	https://github.com/pylangstudy/201709/tree/master/21/00
 library/types.html#additional-utility-classes-and-functions	8.9.3. 追加のユーティリティクラスと関数	https://github.com/pylangstudy/201709/tree/master/22/00
 library/types.html#coroutine-utility-functions	8.9.4. コルーチンユーティリティ関数	https://github.com/pylangstudy/201709/tree/master/22/01
-library/copy.html	8.10.copy— 浅いコピーおよび深いコピー操作	
-library/pprint.html	8.11.pprint— データ出力の整然化	
-library/pprint.html#prettyprinter-objects	8.11.1. PrettyPrinter オブジェクト	
-library/pprint.html#example	8.11.2. 使用例	
-library/reprlib.html	8.12.reprlib— もう一つのrepr()の実装	
-library/reprlib.html#repr-objects	8.12.1. Reprオブジェクト	
-library/reprlib.html#subclassing-repr-objects	8.12.2. Reprオブジェクトをサブクラス化する	
+library/copy.html	8.10.copy— 浅いコピーおよび深いコピー操作	https://github.com/pylangstudy/201709/tree/master/23/00
+library/pprint.html	8.11.pprint— データ出力の整然化	https://github.com/pylangstudy/201709/tree/master/23/01
+library/pprint.html#prettyprinter-objects	8.11.1. PrettyPrinter オブジェクト	https://github.com/pylangstudy/201709/tree/master/23/02
+library/pprint.html#example	8.11.2. 使用例	https://github.com/pylangstudy/201709/tree/master/23/03
+library/reprlib.html	8.12.reprlib— もう一つのrepr()の実装	https://github.com/pylangstudy/201709/tree/master/23/04
+library/reprlib.html#repr-objects	8.12.1. Reprオブジェクト	https://github.com/pylangstudy/201709/tree/master/23/04
+library/reprlib.html#subclassing-repr-objects	8.12.2. Reprオブジェクトをサブクラス化する	https://github.com/pylangstudy/201709/tree/master/23/04
 library/enum.html	8.13.enum— 列挙型のサポート	
 library/enum.html#module-contents	8.13.1. モジュールコンテンツ	
 library/enum.html#creating-an-enum	8.13.2. Enum の作成	
