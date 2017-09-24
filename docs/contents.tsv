@@ -1466,19 +1466,19 @@ library/pprint.html#example	8.11.2. 使用例	https://github.com/pylangstudy/201
 library/reprlib.html	8.12.reprlib— もう一つのrepr()の実装	https://github.com/pylangstudy/201709/tree/master/23/04
 library/reprlib.html#repr-objects	8.12.1. Reprオブジェクト	https://github.com/pylangstudy/201709/tree/master/23/04
 library/reprlib.html#subclassing-repr-objects	8.12.2. Reprオブジェクトをサブクラス化する	https://github.com/pylangstudy/201709/tree/master/23/04
-library/enum.html	8.13.enum— 列挙型のサポート	
-library/enum.html#module-contents	8.13.1. モジュールコンテンツ	
-library/enum.html#creating-an-enum	8.13.2. Enum の作成	
-library/enum.html#programmatic-access-to-enumeration-members-and-their-attributes	8.13.3. 列挙型メンバーおよびそれらの属性へのプログラム的アクセス	
-library/enum.html#duplicating-enum-members-and-values	8.13.4. 列挙型メンバーと値の重複	
-library/enum.html#ensuring-unique-enumeration-values	8.13.5. 番号付けの値が同一であることの確認	
-library/enum.html#using-automatic-values	8.13.6. Using automatic values	
-library/enum.html#iteration	8.13.7. イテレーション	
-library/enum.html#comparisons	8.13.8. 比較	
-library/enum.html#allowed-members-and-attributes-of-enumerations	8.13.9. 列挙型で許されるメンバーと属性	
-library/enum.html#restricted-subclassing-of-enumerations	8.13.10. 列挙型のサブクラス化の制限事項	
-library/enum.html#pickling	8.13.11. Pickle 化	
-library/enum.html#functional-api	8.13.12. 機能 API	
+library/enum.html	8.13.enum— 列挙型のサポート	-
+library/enum.html#module-contents	8.13.1. モジュールコンテンツ	https://github.com/pylangstudy/201709/tree/master/24/00
+library/enum.html#creating-an-enum	8.13.2. Enum の作成	https://github.com/pylangstudy/201709/tree/master/24/00
+library/enum.html#programmatic-access-to-enumeration-members-and-their-attributes	8.13.3. 列挙型メンバーおよびそれらの属性へのプログラム的アクセス	https://github.com/pylangstudy/201709/tree/master/24/00
+library/enum.html#duplicating-enum-members-and-values	8.13.4. 列挙型メンバーと値の重複	https://github.com/pylangstudy/201709/tree/master/24/00
+library/enum.html#ensuring-unique-enumeration-values	8.13.5. 番号付けの値が同一であることの確認	https://github.com/pylangstudy/201709/tree/master/24/00
+library/enum.html#using-automatic-values	8.13.6. Using automatic values	https://github.com/pylangstudy/201709/tree/master/24/00
+library/enum.html#iteration	8.13.7. イテレーション	https://github.com/pylangstudy/201709/tree/master/24/00
+library/enum.html#comparisons	8.13.8. 比較	https://github.com/pylangstudy/201709/tree/master/24/00
+library/enum.html#allowed-members-and-attributes-of-enumerations	8.13.9. 列挙型で許されるメンバーと属性	https://github.com/pylangstudy/201709/tree/master/24/00
+library/enum.html#restricted-subclassing-of-enumerations	8.13.10. 列挙型のサブクラス化の制限事項	https://github.com/pylangstudy/201709/tree/master/24/00
+library/enum.html#pickling	8.13.11. Pickle 化	https://github.com/pylangstudy/201709/tree/master/24/00
+library/enum.html#functional-api	8.13.12. 機能 API	https://github.com/pylangstudy/201709/tree/master/24/00
 library/enum.html#derived-enumerations	8.13.13. 派生列挙型	
 library/enum.html#intenum	8.13.13.1. IntEnum	
 library/enum.html#intflag	8.13.13.2. IntFlag	
