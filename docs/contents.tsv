@@ -1479,30 +1479,30 @@ library/enum.html#allowed-members-and-attributes-of-enumerations	8.13.9. 列挙�
 library/enum.html#restricted-subclassing-of-enumerations	8.13.10. 列挙型のサブクラス化の制限事項	https://github.com/pylangstudy/201709/tree/master/24/00
 library/enum.html#pickling	8.13.11. Pickle 化	https://github.com/pylangstudy/201709/tree/master/24/00
 library/enum.html#functional-api	8.13.12. 機能 API	https://github.com/pylangstudy/201709/tree/master/24/00
-library/enum.html#derived-enumerations	8.13.13. 派生列挙型	
-library/enum.html#intenum	8.13.13.1. IntEnum	
-library/enum.html#intflag	8.13.13.2. IntFlag	
-library/enum.html#flag	8.13.13.3. Flag	
-library/enum.html#others	8.13.13.4. その他	
-library/enum.html#interesting-examples	8.13.14. 興味深い例	
-library/enum.html#omitting-values	8.13.14.1. Omitting values	
-library/enum.html#using-auto	8.13.14.1.1. Usingauto	
-library/enum.html#using-object	8.13.14.1.2. Usingobject	
-library/enum.html#using-a-descriptive-string	8.13.14.1.3. Using a descriptive string	
-library/enum.html#using-a-custom-new	8.13.14.1.4. Using a custom__new__()	
-library/enum.html#orderedenum	8.13.14.2. OrderedEnum	
-library/enum.html#duplicatefreeenum	8.13.14.3. DuplicateFreeEnum	
-library/enum.html#planet	8.13.14.4. Planet	
-library/enum.html#how-are-enums-different	8.13.15. Enum はどう違うのか?	
-library/enum.html#enum-classes	8.13.15.1. Enum クラス	
-library/enum.html#enum-members-aka-instances	8.13.15.2. Enum メンバー (インスタンス)	
-library/enum.html#finer-points	8.13.15.3. 細かい点	
-library/enum.html#supported-dunder-names	8.13.15.3.1. Supported__dunder__names	
-library/enum.html#supported-sunder-names	8.13.15.3.2. Supported_sunder_names	
-library/enum.html#enum-member-type	8.13.15.3.3.Enummember type	
-library/enum.html#boolean-value-of-enum-classes-and-members	8.13.15.3.4. Boolean value ofEnumclasses and members	
-library/enum.html#enum-classes-with-methods	8.13.15.3.5.Enumclasses with methods	
-library/enum.html#combining-members-of-flag	8.13.15.3.6. Combining members ofFlag	
+library/enum.html#derived-enumerations	8.13.13. 派生列挙型	-
+library/enum.html#intenum	8.13.13.1. IntEnum	https://github.com/pylangstudy/201709/tree/master/25/00
+library/enum.html#intflag	8.13.13.2. IntFlag	https://github.com/pylangstudy/201709/tree/master/25/00
+library/enum.html#flag	8.13.13.3. Flag	https://github.com/pylangstudy/201709/tree/master/25/00
+library/enum.html#others	8.13.13.4. その他	https://github.com/pylangstudy/201709/tree/master/25/00
+library/enum.html#interesting-examples	8.13.14. 興味深い例	https://github.com/pylangstudy/201709/tree/master/25/00
+library/enum.html#omitting-values	8.13.14.1. Omitting values	https://github.com/pylangstudy/201709/tree/master/25/00
+library/enum.html#using-auto	8.13.14.1.1. Usingauto	https://github.com/pylangstudy/201709/tree/master/25/00
+library/enum.html#using-object	8.13.14.1.2. Usingobject	https://github.com/pylangstudy/201709/tree/master/25/00
+library/enum.html#using-a-descriptive-string	8.13.14.1.3. Using a descriptive string	https://github.com/pylangstudy/201709/tree/master/25/00
+library/enum.html#using-a-custom-new	8.13.14.1.4. Using a custom__new__()	https://github.com/pylangstudy/201709/tree/master/25/00
+library/enum.html#orderedenum	8.13.14.2. OrderedEnum	https://github.com/pylangstudy/201709/tree/master/25/00
+library/enum.html#duplicatefreeenum	8.13.14.3. DuplicateFreeEnum	https://github.com/pylangstudy/201709/tree/master/25/00
+library/enum.html#planet	8.13.14.4. Planet	https://github.com/pylangstudy/201709/tree/master/25/00
+library/enum.html#how-are-enums-different	8.13.15. Enum はどう違うのか?	https://github.com/pylangstudy/201709/tree/master/25/00
+library/enum.html#enum-classes	8.13.15.1. Enum クラス	https://github.com/pylangstudy/201709/tree/master/25/00
+library/enum.html#enum-members-aka-instances	8.13.15.2. Enum メンバー (インスタンス)	https://github.com/pylangstudy/201709/tree/master/25/00
+library/enum.html#finer-points	8.13.15.3. 細かい点	https://github.com/pylangstudy/201709/tree/master/25/00
+library/enum.html#supported-dunder-names	8.13.15.3.1. Supported__dunder__names	https://github.com/pylangstudy/201709/tree/master/25/00
+library/enum.html#supported-sunder-names	8.13.15.3.2. Supported_sunder_names	https://github.com/pylangstudy/201709/tree/master/25/00
+library/enum.html#enum-member-type	8.13.15.3.3.Enummember type	https://github.com/pylangstudy/201709/tree/master/25/00
+library/enum.html#boolean-value-of-enum-classes-and-members	8.13.15.3.4. Boolean value ofEnumclasses and members	https://github.com/pylangstudy/201709/tree/master/25/00
+library/enum.html#enum-classes-with-methods	8.13.15.3.5.Enumclasses with methods	https://github.com/pylangstudy/201709/tree/master/25/00
+library/enum.html#combining-members-of-flag	8.13.15.3.6. Combining members ofFlag	https://github.com/pylangstudy/201709/tree/master/25/00
 library/numeric.html	9. 数値と数学モジュール	
 library/numbers.html	9.1.numbers— 数の抽象基底クラス	
 library/numbers.html#the-numeric-tower	9.1.1. 数値塔	
