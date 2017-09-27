@@ -1517,13 +1517,13 @@ library/math.html#angular-conversion	9.2.4. 角度変換	https://github.com/pyla
 library/math.html#hyperbolic-functions	9.2.5. 双曲線関数	https://github.com/pylangstudy/201709/tree/master/27/00
 library/math.html#special-functions	9.2.6. 特殊関数	https://github.com/pylangstudy/201709/tree/master/27/00
 library/math.html#constants	9.2.7. 定数	https://github.com/pylangstudy/201709/tree/master/27/00
-library/cmath.html	9.3.cmath— 複素数のための数学関数	
-library/cmath.html#conversions-to-and-from-polar-coordinates	9.3.1. 極座標変換	
-library/cmath.html#power-and-logarithmic-functions	9.3.2. 指数関数と対数関数	
-library/cmath.html#trigonometric-functions	9.3.3. 三角関数	
-library/cmath.html#hyperbolic-functions	9.3.4. 双曲線関数	
-library/cmath.html#classification-functions	9.3.5. 類別関数	
-library/cmath.html#constants	9.3.6. 定数	
+library/cmath.html	9.3.cmath— 複素数のための数学関数	https://github.com/pylangstudy/201709/tree/master/28/00
+library/cmath.html#conversions-to-and-from-polar-coordinates	9.3.1. 極座標変換	https://github.com/pylangstudy/201709/tree/master/28/00
+library/cmath.html#power-and-logarithmic-functions	9.3.2. 指数関数と対数関数	https://github.com/pylangstudy/201709/tree/master/28/00
+library/cmath.html#trigonometric-functions	9.3.3. 三角関数	https://github.com/pylangstudy/201709/tree/master/28/00
+library/cmath.html#hyperbolic-functions	9.3.4. 双曲線関数	https://github.com/pylangstudy/201709/tree/master/28/00
+library/cmath.html#classification-functions	9.3.5. 類別関数	https://github.com/pylangstudy/201709/tree/master/28/00
+library/cmath.html#constants	9.3.6. 定数	https://github.com/pylangstudy/201709/tree/master/28/00
 library/decimal.html	9.4.decimal— 十進固定及び浮動小数点数の算術演算	
 library/decimal.html#quick-start-tutorial	9.4.1. クイックスタートチュートリアル	
 library/decimal.html#decimal-objects	9.4.2. Decimal オブジェクト	
