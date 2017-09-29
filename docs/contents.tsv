@@ -1524,8 +1524,8 @@ library/cmath.html#trigonometric-functions	9.3.3. 三角関数	https://github.co
 library/cmath.html#hyperbolic-functions	9.3.4. 双曲線関数	https://github.com/pylangstudy/201709/tree/master/28/00
 library/cmath.html#classification-functions	9.3.5. 類別関数	https://github.com/pylangstudy/201709/tree/master/28/00
 library/cmath.html#constants	9.3.6. 定数	https://github.com/pylangstudy/201709/tree/master/28/00
-library/decimal.html	9.4.decimal— 十進固定及び浮動小数点数の算術演算	
-library/decimal.html#quick-start-tutorial	9.4.1. クイックスタートチュートリアル	
+library/decimal.html	9.4.decimal— 十進固定及び浮動小数点数の算術演算	https://github.com/pylangstudy/201709/tree/master/29/00
+library/decimal.html#quick-start-tutorial	9.4.1. クイックスタートチュートリアル	https://github.com/pylangstudy/201709/tree/master/29/00
 library/decimal.html#decimal-objects	9.4.2. Decimal オブジェクト	
 library/decimal.html#logical-operands	9.4.2.1. 論理引数	
 library/decimal.html#context-objects	9.4.3. Context オブジェクト	
