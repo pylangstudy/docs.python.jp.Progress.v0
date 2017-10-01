@@ -1527,17 +1527,17 @@ library/cmath.html#constants	9.3.6. 定数	https://github.com/pylangstudy/201709
 library/decimal.html	9.4.decimal— 十進固定及び浮動小数点数の算術演算	https://github.com/pylangstudy/201709/tree/master/29/00
 library/decimal.html#quick-start-tutorial	9.4.1. クイックスタートチュートリアル	https://github.com/pylangstudy/201709/tree/master/29/00
 library/decimal.html#decimal-objects	9.4.2. Decimal オブジェクト	https://github.com/pylangstudy/201709/tree/master/30/00
-library/decimal.html#logical-operands	9.4.2.1. 論理引数	
-library/decimal.html#context-objects	9.4.3. Context オブジェクト	
-library/decimal.html#constants	9.4.4. 定数	
-library/decimal.html#rounding-modes	9.4.5. 丸めモード	
-library/decimal.html#signals	9.4.6. シグナル	
-library/decimal.html#floating-point-notes	9.4.7. 浮動小数点数に関する注意	
-library/decimal.html#mitigating-round-off-error-with-increased-precision	9.4.7.1. 精度を上げて丸め誤差を抑制する	
-library/decimal.html#special-values	9.4.7.2. 特殊値	
-library/decimal.html#working-with-threads	9.4.8. スレッドを使った処理	
-library/decimal.html#recipes	9.4.9. レシピ	
-library/decimal.html#decimal-faq	9.4.10. Decimal FAQ	
+library/decimal.html#logical-operands	9.4.2.1. 論理引数	https://github.com/pylangstudy/201710/tree/master/01/00
+library/decimal.html#context-objects	9.4.3. Context オブジェクト	https://github.com/pylangstudy/201710/tree/master/01/00
+library/decimal.html#constants	9.4.4. 定数	https://github.com/pylangstudy/201710/tree/master/01/01
+library/decimal.html#rounding-modes	9.4.5. 丸めモード	https://github.com/pylangstudy/201710/tree/master/01/01
+library/decimal.html#signals	9.4.6. シグナル	https://github.com/pylangstudy/201710/tree/master/01/01
+library/decimal.html#floating-point-notes	9.4.7. 浮動小数点数に関する注意	-
+library/decimal.html#mitigating-round-off-error-with-increased-precision	9.4.7.1. 精度を上げて丸め誤差を抑制する	https://github.com/pylangstudy/201710/tree/master/01/02
+library/decimal.html#special-values	9.4.7.2. 特殊値	https://github.com/pylangstudy/201710/tree/master/01/02
+library/decimal.html#working-with-threads	9.4.8. スレッドを使った処理	https://github.com/pylangstudy/201710/tree/master/01/03
+library/decimal.html#recipes	9.4.9. レシピ	https://github.com/pylangstudy/201710/tree/master/01/03
+library/decimal.html#decimal-faq	9.4.10. Decimal FAQ	https://github.com/pylangstudy/201710/tree/master/01/03
 library/fractions.html	9.5.fractions— 有理数	
 library/random.html	9.6.random— 擬似乱数を生成する	
 library/random.html#bookkeeping-functions	9.6.1. 保守 (bookkeeping) 関数	
