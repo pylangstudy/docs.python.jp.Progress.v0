@@ -1538,7 +1538,7 @@ library/decimal.html#special-values	9.4.7.2. 特殊値	https://github.com/pylang
 library/decimal.html#working-with-threads	9.4.8. スレッドを使った処理	https://github.com/pylangstudy/201710/tree/master/01/03
 library/decimal.html#recipes	9.4.9. レシピ	https://github.com/pylangstudy/201710/tree/master/01/03
 library/decimal.html#decimal-faq	9.4.10. Decimal FAQ	https://github.com/pylangstudy/201710/tree/master/01/03
-library/fractions.html	9.5.fractions— 有理数	
+library/fractions.html	9.5.fractions— 有理数	https://github.com/pylangstudy/201710/tree/master/02/00
 library/random.html	9.6.random— 擬似乱数を生成する	
 library/random.html#bookkeeping-functions	9.6.1. 保守 (bookkeeping) 関数	
 library/random.html#functions-for-integers	9.6.2. 整数用の関数	
