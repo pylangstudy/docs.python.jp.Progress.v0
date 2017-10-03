@@ -1539,14 +1539,14 @@ library/decimal.html#working-with-threads	9.4.8. スレッドを使った処理	
 library/decimal.html#recipes	9.4.9. レシピ	https://github.com/pylangstudy/201710/tree/master/01/03
 library/decimal.html#decimal-faq	9.4.10. Decimal FAQ	https://github.com/pylangstudy/201710/tree/master/01/03
 library/fractions.html	9.5.fractions— 有理数	https://github.com/pylangstudy/201710/tree/master/02/00
-library/random.html	9.6.random— 擬似乱数を生成する	
-library/random.html#bookkeeping-functions	9.6.1. 保守 (bookkeeping) 関数	
-library/random.html#functions-for-integers	9.6.2. 整数用の関数	
-library/random.html#functions-for-sequences	9.6.3. シーケンス用の関数	
-library/random.html#real-valued-distributions	9.6.4. 実数分布	
-library/random.html#alternative-generator	9.6.5. 他の生成器	
-library/random.html#notes-on-reproducibility	9.6.6. 再現性について	
-library/random.html#examples-and-recipes	9.6.7. 例とレシピ	
+library/random.html	9.6.random— 擬似乱数を生成する	https://github.com/pylangstudy/201710/tree/master/03/00
+library/random.html#bookkeeping-functions	9.6.1. 保守 (bookkeeping) 関数	https://github.com/pylangstudy/201710/tree/master/03/00
+library/random.html#functions-for-integers	9.6.2. 整数用の関数	https://github.com/pylangstudy/201710/tree/master/03/00
+library/random.html#functions-for-sequences	9.6.3. シーケンス用の関数	https://github.com/pylangstudy/201710/tree/master/03/00
+library/random.html#real-valued-distributions	9.6.4. 実数分布	https://github.com/pylangstudy/201710/tree/master/03/00
+library/random.html#alternative-generator	9.6.5. 他の生成器	https://github.com/pylangstudy/201710/tree/master/03/00
+library/random.html#notes-on-reproducibility	9.6.6. 再現性について	https://github.com/pylangstudy/201710/tree/master/03/00
+library/random.html#examples-and-recipes	9.6.7. 例とレシピ	https://github.com/pylangstudy/201710/tree/master/03/00
 library/statistics.html	9.7.statistics— 数理統計関数	
 library/statistics.html#averages-and-measures-of-central-location	9.7.1. 平均及び中心位置の測度	
 library/statistics.html#measures-of-spread	9.7.2. 分散の測度	
