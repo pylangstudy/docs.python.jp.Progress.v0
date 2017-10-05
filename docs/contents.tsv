@@ -1547,13 +1547,13 @@ library/random.html#real-valued-distributions	9.6.4. 実数分布	https://github
 library/random.html#alternative-generator	9.6.5. 他の生成器	https://github.com/pylangstudy/201710/tree/master/03/00
 library/random.html#notes-on-reproducibility	9.6.6. 再現性について	https://github.com/pylangstudy/201710/tree/master/03/00
 library/random.html#examples-and-recipes	9.6.7. 例とレシピ	https://github.com/pylangstudy/201710/tree/master/03/00
-library/statistics.html	9.7.statistics— 数理統計関数	
-library/statistics.html#averages-and-measures-of-central-location	9.7.1. 平均及び中心位置の測度	
-library/statistics.html#measures-of-spread	9.7.2. 分散の測度	
-library/statistics.html#function-details	9.7.3. 関数の詳細	
-library/statistics.html#exceptions	9.7.4. 例外	
-library/functional.html	10. 関数型プログラミング用モジュール	
-library/itertools.html	10.1.itertools— 効率的なループ実行のためのイテレータ生成関数	
+library/statistics.html	9.7.statistics— 数理統計関数	https://github.com/pylangstudy/201710/tree/master/04/00
+library/statistics.html#averages-and-measures-of-central-location	9.7.1. 平均及び中心位置の測度	https://github.com/pylangstudy/201710/tree/master/04/00
+library/statistics.html#measures-of-spread	9.7.2. 分散の測度	https://github.com/pylangstudy/201710/tree/master/04/00
+library/statistics.html#function-details	9.7.3. 関数の詳細	https://github.com/pylangstudy/201710/tree/master/04/00
+library/statistics.html#exceptions	9.7.4. 例外	https://github.com/pylangstudy/201710/tree/master/04/00
+library/functional.html	10. 関数型プログラミング用モジュール	https://github.com/pylangstudy/201710
+library/itertools.html	10.1.itertools— 効率的なループ実行のためのイテレータ生成関数	https://github.com/pylangstudy/201710
 library/itertools.html#itertool-functions	10.1.1. Itertool関数	
 library/itertools.html#itertools-recipes	10.1.2. Itertools レシピ	
 library/functools.html	10.2.functools— 高階関数と呼び出し可能オブジェクトの操作	
