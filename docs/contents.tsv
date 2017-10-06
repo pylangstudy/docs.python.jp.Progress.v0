@@ -1555,7 +1555,7 @@ library/statistics.html#exceptions	9.7.4. 例外	https://github.com/pylangstudy/
 library/functional.html	10. 関数型プログラミング用モジュール	https://github.com/pylangstudy/201710
 library/itertools.html	10.1.itertools— 効率的なループ実行のためのイテレータ生成関数	https://github.com/pylangstudy/201710
 library/itertools.html#itertool-functions	10.1.1. Itertool関数	https://github.com/pylangstudy/201710/tree/master/06/00
-library/itertools.html#itertools-recipes	10.1.2. Itertools レシピ	
+library/itertools.html#itertools-recipes	10.1.2. Itertools レシピ	https://github.com/pylangstudy/201710/tree/master/07/00
 library/functools.html	10.2.functools— 高階関数と呼び出し可能オブジェクトの操作	
 library/functools.html#partial-objects	10.2.1.partialオブジェクト	
 library/operator.html	10.3.operator— 関数形式の標準演算子	
