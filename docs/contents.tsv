@@ -1558,9 +1558,9 @@ library/itertools.html#itertool-functions	10.1.1. Itertool関数	https://github.
 library/itertools.html#itertools-recipes	10.1.2. Itertools レシピ	https://github.com/pylangstudy/201710/tree/master/07/00
 library/functools.html	10.2.functools— 高階関数と呼び出し可能オブジェクトの操作	https://github.com/pylangstudy/201710/tree/master/08/00
 library/functools.html#partial-objects	10.2.1.partialオブジェクト	https://github.com/pylangstudy/201710/tree/master/08/00
-library/operator.html	10.3.operator— 関数形式の標準演算子	
-library/operator.html#mapping-operators-to-functions	10.3.1. 演算子から関数への対応表	
-library/operator.html#inplace-operators	10.3.2. インプレース演算子	
+library/operator.html	10.3.operator— 関数形式の標準演算子	https://github.com/pylangstudy/201710/tree/master/09/00
+library/operator.html#mapping-operators-to-functions	10.3.1. 演算子から関数への対応表	https://github.com/pylangstudy/201710/tree/master/09/00
+library/operator.html#inplace-operators	10.3.2. インプレース演算子	https://github.com/pylangstudy/201710/tree/master/09/00
 library/filesys.html	11. ファイルとディレクトリへのアクセス	
 library/pathlib.html	11.1.pathlib— オブジェクト指向のファイルシステムパス	
 library/pathlib.html#basic-use	11.1.1. 基本的な使い方	
