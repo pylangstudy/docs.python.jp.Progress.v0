@@ -1556,8 +1556,8 @@ library/functional.html	10. 関数型プログラミング用モジュール	htt
 library/itertools.html	10.1.itertools— 効率的なループ実行のためのイテレータ生成関数	https://github.com/pylangstudy/201710
 library/itertools.html#itertool-functions	10.1.1. Itertool関数	https://github.com/pylangstudy/201710/tree/master/06/00
 library/itertools.html#itertools-recipes	10.1.2. Itertools レシピ	https://github.com/pylangstudy/201710/tree/master/07/00
-library/functools.html	10.2.functools— 高階関数と呼び出し可能オブジェクトの操作	
-library/functools.html#partial-objects	10.2.1.partialオブジェクト	
+library/functools.html	10.2.functools— 高階関数と呼び出し可能オブジェクトの操作	https://github.com/pylangstudy/201710/tree/master/08/00
+library/functools.html#partial-objects	10.2.1.partialオブジェクト	https://github.com/pylangstudy/201710/tree/master/08/00
 library/operator.html	10.3.operator— 関数形式の標準演算子	
 library/operator.html#mapping-operators-to-functions	10.3.1. 演算子から関数への対応表	
 library/operator.html#inplace-operators	10.3.2. インプレース演算子	
