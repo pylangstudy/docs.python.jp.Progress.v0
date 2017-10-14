@@ -1574,7 +1574,7 @@ library/pathlib.html#methods	11.1.3.1. メソッド	https://github.com/pylangstu
 library/os.path.html	11.2.os.path— 共通のパス名操作	https://github.com/pylangstudy/201710/tree/master/12/00
 library/fileinput.html	11.3.fileinput— 複数の入力ストリームをまたいだ行の繰り返し処理をサポートする	https://github.com/pylangstudy/201710/tree/master/13/00
 library/stat.html	11.4.stat—stat()の結果を解釈する	https://github.com/pylangstudy/201710/tree/master/14/00
-library/filecmp.html	11.5.filecmp— ファイルおよびディレクトリの比較	
+library/filecmp.html	11.5.filecmp— ファイルおよびディレクトリの比較	https://github.com/pylangstudy/201710/tree/master/15/00
 library/filecmp.html#the-dircmp-class	11.5.1.dircmpクラス	
 library/tempfile.html	11.6.tempfile— 一時ファイルやディレクトリの作成	
 library/tempfile.html#examples	11.6.1. 使用例	
