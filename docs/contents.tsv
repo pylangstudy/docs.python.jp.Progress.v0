@@ -1579,7 +1579,7 @@ library/filecmp.html#the-dircmp-class	11.5.1.dircmpクラス	https://github.com/
 library/tempfile.html	11.6.tempfile— 一時ファイルやディレクトリの作成	https://github.com/pylangstudy/201710/tree/master/16/00
 library/tempfile.html#examples	11.6.1. 使用例	https://github.com/pylangstudy/201710/tree/master/16/00
 library/tempfile.html#deprecated-functions-and-variables	11.6.2. 非推奨の関数と変数	https://github.com/pylangstudy/201710/tree/master/16/00
-library/glob.html	11.7.glob— Unix 形式のパス名のパターン展開	
+library/glob.html	11.7.glob— Unix 形式のパス名のパターン展開	https://github.com/pylangstudy/201710/tree/master/17/00
 library/fnmatch.html	11.8.fnmatch— Unix ファイル名のパターンマッチ	
 library/linecache.html	11.9.linecache— テキストラインにランダムアクセスする	
 library/shutil.html	11.10.shutil— 高水準のファイル操作	
