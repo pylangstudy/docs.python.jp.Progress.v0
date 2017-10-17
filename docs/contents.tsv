@@ -1580,7 +1580,7 @@ library/tempfile.html	11.6.tempfile— 一時ファイルやディレクトリ�
 library/tempfile.html#examples	11.6.1. 使用例	https://github.com/pylangstudy/201710/tree/master/16/00
 library/tempfile.html#deprecated-functions-and-variables	11.6.2. 非推奨の関数と変数	https://github.com/pylangstudy/201710/tree/master/16/00
 library/glob.html	11.7.glob— Unix 形式のパス名のパターン展開	https://github.com/pylangstudy/201710/tree/master/17/00
-library/fnmatch.html	11.8.fnmatch— Unix ファイル名のパターンマッチ	
+library/fnmatch.html	11.8.fnmatch— Unix ファイル名のパターンマッチ	https://github.com/pylangstudy/201710/tree/master/18/00
 library/linecache.html	11.9.linecache— テキストラインにランダムアクセスする	
 library/shutil.html	11.10.shutil— 高水準のファイル操作	
 library/shutil.html#directory-and-files-operations	11.10.1. ディレクトリとファイルの操作	
