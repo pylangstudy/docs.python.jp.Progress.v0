@@ -1602,9 +1602,9 @@ library/pickle.html#pickling-class-instances	12.1.5. クラスインスタンス
 library/pickle.html#persistence-of-external-objects	12.1.5.1. 外部オブジェクトの永続化	https://github.com/pylangstudy/201710/tree/master/23/00
 library/pickle.html#dispatch-tables	12.1.5.2. ディスパッチテーブル	https://github.com/pylangstudy/201710/tree/master/23/00
 library/pickle.html#handling-stateful-objects	12.1.5.3. 状態を持つオブジェクトの扱い	https://github.com/pylangstudy/201710/tree/master/23/00
-library/pickle.html#restricting-globals	12.1.6. グローバル変数を制限する	
-library/pickle.html#performance	12.1.7. 性能	
-library/pickle.html#examples	12.1.8. 使用例	
+library/pickle.html#restricting-globals	12.1.6. グローバル変数を制限する	https://github.com/pylangstudy/201710/tree/master/24/00
+library/pickle.html#performance	12.1.7. 性能	https://github.com/pylangstudy/201710/tree/master/24/00
+library/pickle.html#examples	12.1.8. 使用例	https://github.com/pylangstudy/201710/tree/master/24/00
 library/copyreg.html	12.2.copyreg—pickleサポート関数を登録する	
 library/copyreg.html#example	12.2.1. 使用例	
 library/shelve.html	12.3.shelve— Python オブジェクトの永続化	
