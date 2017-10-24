@@ -1605,11 +1605,11 @@ library/pickle.html#handling-stateful-objects	12.1.5.3. 状態を持つオブジ
 library/pickle.html#restricting-globals	12.1.6. グローバル変数を制限する	https://github.com/pylangstudy/201710/tree/master/24/00
 library/pickle.html#performance	12.1.7. 性能	https://github.com/pylangstudy/201710/tree/master/24/00
 library/pickle.html#examples	12.1.8. 使用例	https://github.com/pylangstudy/201710/tree/master/24/00
-library/copyreg.html	12.2.copyreg—pickleサポート関数を登録する	
-library/copyreg.html#example	12.2.1. 使用例	
-library/shelve.html	12.3.shelve— Python オブジェクトの永続化	
-library/shelve.html#restrictions	12.3.1. 制限事項	
-library/shelve.html#example	12.3.2. 使用例	
+library/copyreg.html	12.2.copyreg—pickleサポート関数を登録する	https://github.com/pylangstudy/201710/tree/master/25/00
+library/copyreg.html#example	12.2.1. 使用例	https://github.com/pylangstudy/201710/tree/master/25/00
+library/shelve.html	12.3.shelve— Python オブジェクトの永続化	https://github.com/pylangstudy/201710/tree/master/25/01
+library/shelve.html#restrictions	12.3.1. 制限事項	https://github.com/pylangstudy/201710/tree/master/25/01
+library/shelve.html#example	12.3.2. 使用例	https://github.com/pylangstudy/201710/tree/master/25/01
 library/marshal.html	12.4.marshal— 内部使用向けの Python オブジェクト整列化	
 library/dbm.html	12.5.dbm— Unix “データベース” へのインタフェース	
 library/dbm.html#module-dbm.gnu	12.5.1.dbm.gnu— GNU による dbm 拡張	
