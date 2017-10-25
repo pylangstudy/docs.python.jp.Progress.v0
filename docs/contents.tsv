@@ -1610,11 +1610,11 @@ library/copyreg.html#example	12.2.1. 使用例	https://github.com/pylangstudy/20
 library/shelve.html	12.3.shelve— Python オブジェクトの永続化	https://github.com/pylangstudy/201710/tree/master/25/01
 library/shelve.html#restrictions	12.3.1. 制限事項	https://github.com/pylangstudy/201710/tree/master/25/01
 library/shelve.html#example	12.3.2. 使用例	https://github.com/pylangstudy/201710/tree/master/25/01
-library/marshal.html	12.4.marshal— 内部使用向けの Python オブジェクト整列化	
-library/dbm.html	12.5.dbm— Unix “データベース” へのインタフェース	
-library/dbm.html#module-dbm.gnu	12.5.1.dbm.gnu— GNU による dbm 拡張	
-library/dbm.html#module-dbm.ndbm	12.5.2.dbm.ndbm— ndbm に基づくインタフェース	
-library/dbm.html#module-dbm.dumb	12.5.3.dbm.dumb— 可搬性のある DBM 実装	
+library/marshal.html	12.4.marshal— 内部使用向けの Python オブジェクト整列化	https://github.com/pylangstudy/201710/tree/master/26/00
+library/dbm.html	12.5.dbm— Unix “データベース” へのインタフェース	https://github.com/pylangstudy/201710/tree/master/26/01
+library/dbm.html#module-dbm.gnu	12.5.1.dbm.gnu— GNU による dbm 拡張	https://github.com/pylangstudy/201710/tree/master/26/01
+library/dbm.html#module-dbm.ndbm	12.5.2.dbm.ndbm— ndbm に基づくインタフェース	https://github.com/pylangstudy/201710/tree/master/26/01
+library/dbm.html#module-dbm.dumb	12.5.3.dbm.dumb— 可搬性のある DBM 実装	https://github.com/pylangstudy/201710/tree/master/26/01
 library/sqlite3.html	12.6.sqlite3— SQLite データベースに対する DB-API 2.0 インタフェース	
 library/sqlite3.html#module-functions-and-constants	12.6.1. モジュールの関数と定数	
 library/sqlite3.html#connection-objects	12.6.2. Connection オブジェクト	
