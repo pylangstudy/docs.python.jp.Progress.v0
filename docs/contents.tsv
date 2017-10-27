@@ -1615,9 +1615,9 @@ library/dbm.html	12.5.dbm— Unix “データベース” へのインタフェ
 library/dbm.html#module-dbm.gnu	12.5.1.dbm.gnu— GNU による dbm 拡張	https://github.com/pylangstudy/201710/tree/master/26/01
 library/dbm.html#module-dbm.ndbm	12.5.2.dbm.ndbm— ndbm に基づくインタフェース	https://github.com/pylangstudy/201710/tree/master/26/01
 library/dbm.html#module-dbm.dumb	12.5.3.dbm.dumb— 可搬性のある DBM 実装	https://github.com/pylangstudy/201710/tree/master/26/01
-library/sqlite3.html	12.6.sqlite3— SQLite データベースに対する DB-API 2.0 インタフェース	
-library/sqlite3.html#module-functions-and-constants	12.6.1. モジュールの関数と定数	
-library/sqlite3.html#connection-objects	12.6.2. Connection オブジェクト	
+library/sqlite3.html	12.6.sqlite3— SQLite データベースに対する DB-API 2.0 インタフェース	https://github.com/pylangstudy/201710/tree/master/27/00
+library/sqlite3.html#module-functions-and-constants	12.6.1. モジュールの関数と定数	https://github.com/pylangstudy/201710/tree/master/27/00
+library/sqlite3.html#connection-objects	12.6.2. Connection オブジェクト	https://github.com/pylangstudy/201710/tree/master/27/00
 library/sqlite3.html#cursor-objects	12.6.3. カーソルオブジェクト	
 library/sqlite3.html#row-objects	12.6.4. Row オブジェクト	
 library/sqlite3.html#exceptions	12.6.5. 例外	
