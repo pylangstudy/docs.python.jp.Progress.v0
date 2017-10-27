@@ -1618,23 +1618,23 @@ library/dbm.html#module-dbm.dumb	12.5.3.dbm.dumb— 可搬性のある DBM 実�
 library/sqlite3.html	12.6.sqlite3— SQLite データベースに対する DB-API 2.0 インタフェース	https://github.com/pylangstudy/201710/tree/master/27/00
 library/sqlite3.html#module-functions-and-constants	12.6.1. モジュールの関数と定数	https://github.com/pylangstudy/201710/tree/master/27/00
 library/sqlite3.html#connection-objects	12.6.2. Connection オブジェクト	https://github.com/pylangstudy/201710/tree/master/27/00
-library/sqlite3.html#cursor-objects	12.6.3. カーソルオブジェクト	
-library/sqlite3.html#row-objects	12.6.4. Row オブジェクト	
-library/sqlite3.html#exceptions	12.6.5. 例外	
-library/sqlite3.html#sqlite-and-python-types	12.6.6. SQLite と Python の型	
-library/sqlite3.html#introduction	12.6.6.1. はじめに	
-library/sqlite3.html#using-adapters-to-store-additional-python-types-in-sqlite-databases	12.6.6.2. 追加された Python の型を SQLite データベースに格納するために適合関数を使う	
-library/sqlite3.html#letting-your-object-adapt-itself	12.6.6.2.1. オブジェクト自身で適合するようにする	
-library/sqlite3.html#registering-an-adapter-callable	12.6.6.2.2. 適合関数を登録する	
-library/sqlite3.html#converting-sqlite-values-to-custom-python-types	12.6.6.3. SQLite の値を好きな Python 型に変換する	
-library/sqlite3.html#default-adapters-and-converters	12.6.6.4. デフォルトの適合関数と変換関数	
-library/sqlite3.html#controlling-transactions	12.6.7. トランザクション制御	
-library/sqlite3.html#using-sqlite3-efficiently	12.6.8.sqlite3の効率的な使い方	
-library/sqlite3.html#using-shortcut-methods	12.6.8.1. ショートカットメソッドを使う	
-library/sqlite3.html#accessing-columns-by-name-instead-of-by-index	12.6.8.2. 位置ではなく名前でカラムにアクセスする	
-library/sqlite3.html#using-the-connection-as-a-context-manager	12.6.8.3. コネクションをコンテキストマネージャーとして利用する	
-library/sqlite3.html#common-issues	12.6.9. 既知の問題	
-library/sqlite3.html#multithreading	12.6.9.1. マルチスレッド	
+library/sqlite3.html#cursor-objects	12.6.3. カーソルオブジェクト	https://github.com/pylangstudy/201710/tree/master/28/00
+library/sqlite3.html#row-objects	12.6.4. Row オブジェクト	https://github.com/pylangstudy/201710/tree/master/28/00
+library/sqlite3.html#exceptions	12.6.5. 例外	https://github.com/pylangstudy/201710/tree/master/28/00
+library/sqlite3.html#sqlite-and-python-types	12.6.6. SQLite と Python の型	https://github.com/pylangstudy/201710/tree/master/28/00
+library/sqlite3.html#introduction	12.6.6.1. はじめに	https://github.com/pylangstudy/201710/tree/master/28/00
+library/sqlite3.html#using-adapters-to-store-additional-python-types-in-sqlite-databases	12.6.6.2. 追加された Python の型を SQLite データベースに格納するために適合関数を使う	https://github.com/pylangstudy/201710/tree/master/28/00
+library/sqlite3.html#letting-your-object-adapt-itself	12.6.6.2.1. オブジェクト自身で適合するようにする	https://github.com/pylangstudy/201710/tree/master/28/00
+library/sqlite3.html#registering-an-adapter-callable	12.6.6.2.2. 適合関数を登録する	https://github.com/pylangstudy/201710/tree/master/28/00
+library/sqlite3.html#converting-sqlite-values-to-custom-python-types	12.6.6.3. SQLite の値を好きな Python 型に変換する	https://github.com/pylangstudy/201710/tree/master/28/00
+library/sqlite3.html#default-adapters-and-converters	12.6.6.4. デフォルトの適合関数と変換関数	https://github.com/pylangstudy/201710/tree/master/28/00
+library/sqlite3.html#controlling-transactions	12.6.7. トランザクション制御	https://github.com/pylangstudy/201710/tree/master/28/00
+library/sqlite3.html#using-sqlite3-efficiently	12.6.8.sqlite3の効率的な使い方	https://github.com/pylangstudy/201710/tree/master/28/00
+library/sqlite3.html#using-shortcut-methods	12.6.8.1. ショートカットメソッドを使う	https://github.com/pylangstudy/201710/tree/master/28/00
+library/sqlite3.html#accessing-columns-by-name-instead-of-by-index	12.6.8.2. 位置ではなく名前でカラムにアクセスする	https://github.com/pylangstudy/201710/tree/master/28/00
+library/sqlite3.html#using-the-connection-as-a-context-manager	12.6.8.3. コネクションをコンテキストマネージャーとして利用する	https://github.com/pylangstudy/201710/tree/master/28/00
+library/sqlite3.html#common-issues	12.6.9. 既知の問題	https://github.com/pylangstudy/201710/tree/master/28/00
+library/sqlite3.html#multithreading	12.6.9.1. マルチスレッド	https://github.com/pylangstudy/201710/tree/master/28/00
 library/archiving.html	13. データ圧縮とアーカイブ	
 library/zlib.html	13.1.zlib—gzip互換の圧縮	
 library/gzip.html	13.2.gzip—gzipファイルのサポート	
