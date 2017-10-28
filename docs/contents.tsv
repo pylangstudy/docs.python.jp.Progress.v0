@@ -1635,8 +1635,8 @@ library/sqlite3.html#accessing-columns-by-name-instead-of-by-index	12.6.8.2. 位
 library/sqlite3.html#using-the-connection-as-a-context-manager	12.6.8.3. コネクションをコンテキストマネージャーとして利用する	https://github.com/pylangstudy/201710/tree/master/28/00
 library/sqlite3.html#common-issues	12.6.9. 既知の問題	https://github.com/pylangstudy/201710/tree/master/28/00
 library/sqlite3.html#multithreading	12.6.9.1. マルチスレッド	https://github.com/pylangstudy/201710/tree/master/28/00
-library/archiving.html	13. データ圧縮とアーカイブ	
-library/zlib.html	13.1.zlib—gzip互換の圧縮	
+library/archiving.html	13. データ圧縮とアーカイブ	-
+library/zlib.html	13.1.zlib—gzip互換の圧縮	https://github.com/pylangstudy/201710/tree/master/29/00
 library/gzip.html	13.2.gzip—gzipファイルのサポート	
 library/gzip.html#examples-of-usage	13.2.1. 使い方の例	
 library/bz2.html	13.3.bz2—bzip2圧縮のサポート	
