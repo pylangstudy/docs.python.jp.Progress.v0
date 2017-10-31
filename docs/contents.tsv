@@ -1643,12 +1643,12 @@ library/bz2.html	13.3.bz2—bzip2圧縮のサポート	https://github.com/pylang
 library/bz2.html#de-compression-of-files	13.3.1. ファイルの圧縮/解凍	https://github.com/pylangstudy/201710/tree/master/31/00
 library/bz2.html#incremental-de-compression	13.3.2. 逐次圧縮および展開	https://github.com/pylangstudy/201710/tree/master/31/00
 library/bz2.html#one-shot-de-compression	13.3.3. 一括圧縮/解凍	https://github.com/pylangstudy/201710/tree/master/31/00
-library/lzma.html	13.4.lzma— LZMA アルゴリズムを使用した圧縮	
-library/lzma.html#reading-and-writing-compressed-files	13.4.1. 圧縮ファイルへの読み書き	
-library/lzma.html#compressing-and-decompressing-data-in-memory	13.4.2. メモリ上での圧縮と展開	
-library/lzma.html#miscellaneous	13.4.3. その他	
-library/lzma.html#specifying-custom-filter-chains	13.4.4. カスタムフィルタチェインの指定	
-library/lzma.html#examples	13.4.5. 使用例	
+library/lzma.html	13.4.lzma— LZMA アルゴリズムを使用した圧縮	https://github.com/pylangstudy/201711/tree/master/01/00
+library/lzma.html#reading-and-writing-compressed-files	13.4.1. 圧縮ファイルへの読み書き	https://github.com/pylangstudy/201711/tree/master/01/00
+library/lzma.html#compressing-and-decompressing-data-in-memory	13.4.2. メモリ上での圧縮と展開	https://github.com/pylangstudy/201711/tree/master/01/00
+library/lzma.html#miscellaneous	13.4.3. その他	https://github.com/pylangstudy/201711/tree/master/01/00
+library/lzma.html#specifying-custom-filter-chains	13.4.4. カスタムフィルタチェインの指定	https://github.com/pylangstudy/201711/tree/master/01/00
+library/lzma.html#examples	13.4.5. 使用例	https://github.com/pylangstudy/201711/tree/master/01/00
 library/zipfile.html	13.5.zipfile— ZIP アーカイブの処理	
 library/zipfile.html#zipfile-objects	13.5.1. ZipFile オブジェクト	
 library/zipfile.html#pyzipfile-objects	13.5.2. PyZipFile オブジェクト	
