@@ -1649,12 +1649,12 @@ library/lzma.html#compressing-and-decompressing-data-in-memory	13.4.2. メモリ
 library/lzma.html#miscellaneous	13.4.3. その他	https://github.com/pylangstudy/201711/tree/master/01/00
 library/lzma.html#specifying-custom-filter-chains	13.4.4. カスタムフィルタチェインの指定	https://github.com/pylangstudy/201711/tree/master/01/00
 library/lzma.html#examples	13.4.5. 使用例	https://github.com/pylangstudy/201711/tree/master/01/00
-library/zipfile.html	13.5.zipfile— ZIP アーカイブの処理	
-library/zipfile.html#zipfile-objects	13.5.1. ZipFile オブジェクト	
-library/zipfile.html#pyzipfile-objects	13.5.2. PyZipFile オブジェクト	
-library/zipfile.html#zipinfo-objects	13.5.3. ZipInfo オブジェクト	
-library/zipfile.html#command-line-interface	13.5.4. コマンドラインインターフェイス	
-library/zipfile.html#command-line-options	13.5.4.1. コマンドラインオプション	
+library/zipfile.html	13.5.zipfile— ZIP アーカイブの処理	https://github.com/pylangstudy/201711/tree/master/02/00
+library/zipfile.html#zipfile-objects	13.5.1. ZipFile オブジェクト	https://github.com/pylangstudy/201711/tree/master/02/00
+library/zipfile.html#pyzipfile-objects	13.5.2. PyZipFile オブジェクト	https://github.com/pylangstudy/201711/tree/master/02/00
+library/zipfile.html#zipinfo-objects	13.5.3. ZipInfo オブジェクト	https://github.com/pylangstudy/201711/tree/master/02/00
+library/zipfile.html#command-line-interface	13.5.4. コマンドラインインターフェイス	https://github.com/pylangstudy/201711/tree/master/02/00
+library/zipfile.html#command-line-options	13.5.4.1. コマンドラインオプション	https://github.com/pylangstudy/201711/tree/master/02/00
 library/tarfile.html	13.6.tarfile— tar アーカイブファイルの読み書き	
 library/tarfile.html#tarfile-objects	13.6.1. TarFile オブジェクト	
 library/tarfile.html#tarinfo-objects	13.6.2. TarInfo オブジェクト	
