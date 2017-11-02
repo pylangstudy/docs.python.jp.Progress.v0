@@ -1655,14 +1655,14 @@ library/zipfile.html#pyzipfile-objects	13.5.2. PyZipFile オブジェクト	http
 library/zipfile.html#zipinfo-objects	13.5.3. ZipInfo オブジェクト	https://github.com/pylangstudy/201711/tree/master/02/00
 library/zipfile.html#command-line-interface	13.5.4. コマンドラインインターフェイス	https://github.com/pylangstudy/201711/tree/master/02/00
 library/zipfile.html#command-line-options	13.5.4.1. コマンドラインオプション	https://github.com/pylangstudy/201711/tree/master/02/00
-library/tarfile.html	13.6.tarfile— tar アーカイブファイルの読み書き	
-library/tarfile.html#tarfile-objects	13.6.1. TarFile オブジェクト	
-library/tarfile.html#tarinfo-objects	13.6.2. TarInfo オブジェクト	
-library/tarfile.html#command-line-interface	13.6.3. コマンドラインインターフェイス	
-library/tarfile.html#command-line-options	13.6.3.1. コマンドラインオプション	
-library/tarfile.html#examples	13.6.4. 使用例	
-library/tarfile.html#supported-tar-formats	13.6.5. サポートしている tar フォーマット	
-library/tarfile.html#unicode-issues	13.6.6. Unicode に関する問題	
+library/tarfile.html	13.6.tarfile— tar アーカイブファイルの読み書き	https://github.com/pylangstudy/201711/tree/master/03/00
+library/tarfile.html#tarfile-objects	13.6.1. TarFile オブジェクト	https://github.com/pylangstudy/201711/tree/master/03/00
+library/tarfile.html#tarinfo-objects	13.6.2. TarInfo オブジェクト	https://github.com/pylangstudy/201711/tree/master/03/00
+library/tarfile.html#command-line-interface	13.6.3. コマンドラインインターフェイス	https://github.com/pylangstudy/201711/tree/master/03/00
+library/tarfile.html#command-line-options	13.6.3.1. コマンドラインオプション	https://github.com/pylangstudy/201711/tree/master/03/00
+library/tarfile.html#examples	13.6.4. 使用例	https://github.com/pylangstudy/201711/tree/master/03/00
+library/tarfile.html#supported-tar-formats	13.6.5. サポートしている tar フォーマットhttps://github.com/pylangstudy/201711/tree/master/03/00	
+library/tarfile.html#unicode-issues	13.6.6. Unicode に関する問題	https://github.com/pylangstudy/201711/tree/master/03/00
 library/fileformats.html	14. ファイルフォーマット	
 library/csv.html	14.1.csv— CSV ファイルの読み書き	
 library/csv.html#module-contents	14.1.1. モジュールコンテンツ	
