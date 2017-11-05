@@ -1670,18 +1670,18 @@ library/csv.html#dialects-and-formatting-parameters	14.1.2. Dialect クラスと
 library/csv.html#reader-objects	14.1.3. reader オブジェクト	https://github.com/pylangstudy/201711/tree/master/04/00
 library/csv.html#writer-objects	14.1.4. writer オブジェクト	https://github.com/pylangstudy/201711/tree/master/04/00
 library/csv.html#examples	14.1.5. 使用例	https://github.com/pylangstudy/201711/tree/master/04/00
-library/configparser.html	14.2.configparser— 設定ファイルのパーサー	
-library/configparser.html#quick-start	14.2.1. クイックスタート	
-library/configparser.html#supported-datatypes	14.2.2. サポートされるデータ型	
-library/configparser.html#fallback-values	14.2.3. 代替値	
-library/configparser.html#supported-ini-file-structure	14.2.4. サポートするINI ファイルの構造	
-library/configparser.html#interpolation-of-values	14.2.5. 値の補間	
-library/configparser.html#mapping-protocol-access	14.2.6. マップ型プロトコルアクセス	
-library/configparser.html#customizing-parser-behaviour	14.2.7. パーサーの振る舞いをカスタマイズする	
-library/configparser.html#legacy-api-examples	14.2.8. レガシーな API の例	
-library/configparser.html#configparser-objects	14.2.9. ConfigParser オブジェクト	
-library/configparser.html#rawconfigparser-objects	14.2.10. RawConfigParser オブジェクト	
-library/configparser.html#exceptions	14.2.11. 例外	
+library/configparser.html	14.2.configparser— 設定ファイルのパーサー	https://github.com/pylangstudy/201711/tree/master/05/00
+library/configparser.html#quick-start	14.2.1. クイックスタート	https://github.com/pylangstudy/201711/tree/master/05/00
+library/configparser.html#supported-datatypes	14.2.2. サポートされるデータ型	https://github.com/pylangstudy/201711/tree/master/05/00
+library/configparser.html#fallback-values	14.2.3. 代替値	https://github.com/pylangstudy/201711/tree/master/05/00
+library/configparser.html#supported-ini-file-structure	14.2.4. サポートするINI ファイルの構造	https://github.com/pylangstudy/201711/tree/master/05/00
+library/configparser.html#interpolation-of-values	14.2.5. 値の補間	https://github.com/pylangstudy/201711/tree/master/05/00
+library/configparser.html#mapping-protocol-access	14.2.6. マップ型プロトコルアクセス	https://github.com/pylangstudy/201711/tree/master/05/00
+library/configparser.html#customizing-parser-behaviour	14.2.7. パーサーの振る舞いをカスタマイズする	https://github.com/pylangstudy/201711/tree/master/05/00
+library/configparser.html#legacy-api-examples	14.2.8. レガシーな API の例	https://github.com/pylangstudy/201711/tree/master/05/00
+library/configparser.html#configparser-objects	14.2.9. ConfigParser オブジェクト	https://github.com/pylangstudy/201711/tree/master/05/00
+library/configparser.html#rawconfigparser-objects	14.2.10. RawConfigParser オブジェクト	https://github.com/pylangstudy/201711/tree/master/05/00
+library/configparser.html#exceptions	14.2.11. 例外	https://github.com/pylangstudy/201711/tree/master/05/00
 library/netrc.html	14.3.netrc— netrc ファイルの処理	
 library/netrc.html#netrc-objects	14.3.1. netrc オブジェクト	
 library/xdrlib.html	14.4.xdrlib— XDR データのエンコードおよびデコード	
