@@ -1682,7 +1682,7 @@ library/configparser.html#legacy-api-examples	14.2.8. レガシーな API の例
 library/configparser.html#configparser-objects	14.2.9. ConfigParser オブジェクト	https://github.com/pylangstudy/201711/tree/master/05/00
 library/configparser.html#rawconfigparser-objects	14.2.10. RawConfigParser オブジェクト	https://github.com/pylangstudy/201711/tree/master/05/00
 library/configparser.html#exceptions	14.2.11. 例外	https://github.com/pylangstudy/201711/tree/master/05/00
-library/netrc.html	14.3.netrc— netrc ファイルの処理	
+library/netrc.html	14.3.netrc— netrc ファイルの処理	https://github.com/pylangstudy/201711/tree/master/06/00
 library/netrc.html#netrc-objects	14.3.1. netrc オブジェクト	
 library/xdrlib.html	14.4.xdrlib— XDR データのエンコードおよびデコード	
 library/xdrlib.html#packer-objects	14.4.1. Packer オブジェクト	
