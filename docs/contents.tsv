@@ -1690,23 +1690,23 @@ library/xdrlib.html#unpacker-objects	14.4.2. Unpacker オブジェクト
 library/xdrlib.html#exceptions	14.4.3. 例外	
 library/plistlib.html	14.5.plistlib— Mac OS X.plistファイルの生成と解析	
 library/plistlib.html#examples	14.5.1. 使用例	
-library/crypto.html	15. 暗号関連のサービス	
-library/hashlib.html	15.1.hashlib— セキュアハッシュおよびメッセージダイジェスト	
-library/hashlib.html#hash-algorithms	15.1.1. ハッシュアルゴリズム	
-library/hashlib.html#shake-variable-length-digests	15.1.2. SHAKE 可変長ダイジェスト	
-library/hashlib.html#key-derivation	15.1.3. 鍵導出	
-library/hashlib.html#blake2	15.1.4. BLAKE2	
-library/hashlib.html#creating-hash-objects	15.1.4.1. ハッシュオブジェクトの作成	
-library/hashlib.html#constants	15.1.4.2. 定数	
-library/hashlib.html#examples	15.1.4.3. 使用例	
-library/hashlib.html#simple-hashing	15.1.4.3.1. 簡単なハッシュ化	
-library/hashlib.html#using-different-digest-sizes	15.1.4.3.2. Using different digest sizes	
-library/hashlib.html#keyed-hashing	15.1.4.3.3. Keyed hashing	
-library/hashlib.html#randomized-hashing	15.1.4.3.4. Randomized hashing	
-library/hashlib.html#personalization	15.1.4.3.5. Personalization	
-library/hashlib.html#tree-mode	15.1.4.3.6. ツリーモード	
-library/hashlib.html#credits	15.1.4.4. クレジット:	
-library/hmac.html	15.2.hmac— メッセージ認証のための鍵付きハッシュ化	
+library/crypto.html	15. 暗号関連のサービス	https://github.com/pylangstudy/201711/tree/master/07/00
+library/hashlib.html	15.1.hashlib— セキュアハッシュおよびメッセージダイジェスト	https://github.com/pylangstudy/201711/tree/master/07/00
+library/hashlib.html#hash-algorithms	15.1.1. ハッシュアルゴリズム	https://github.com/pylangstudy/201711/tree/master/07/00
+library/hashlib.html#shake-variable-length-digests	15.1.2. SHAKE 可変長ダイジェスト	https://github.com/pylangstudy/201711/tree/master/07/00
+library/hashlib.html#key-derivation	15.1.3. 鍵導出	https://github.com/pylangstudy/201711/tree/master/07/00
+library/hashlib.html#blake2	15.1.4. BLAKE2	https://github.com/pylangstudy/201711/tree/master/07/00
+library/hashlib.html#creating-hash-objects	15.1.4.1. ハッシュオブジェクトの作成	https://github.com/pylangstudy/201711/tree/master/07/00
+library/hashlib.html#constants	15.1.4.2. 定数	https://github.com/pylangstudy/201711/tree/master/07/00
+library/hashlib.html#examples	15.1.4.3. 使用例	https://github.com/pylangstudy/201711/tree/master/07/00
+library/hashlib.html#simple-hashing	15.1.4.3.1. 簡単なハッシュ化	https://github.com/pylangstudy/201711/tree/master/07/00
+library/hashlib.html#using-different-digest-sizes	15.1.4.3.2. Using different digest sizes	https://github.com/pylangstudy/201711/tree/master/07/00
+library/hashlib.html#keyed-hashing	15.1.4.3.3. Keyed hashing	https://github.com/pylangstudy/201711/tree/master/07/00
+library/hashlib.html#randomized-hashing	15.1.4.3.4. Randomized hashing	https://github.com/pylangstudy/201711/tree/master/07/00
+library/hashlib.html#personalization	15.1.4.3.5. Personalization	https://github.com/pylangstudy/201711/tree/master/07/00
+library/hashlib.html#tree-mode	15.1.4.3.6. ツリーモード	https://github.com/pylangstudy/201711/tree/master/07/00
+library/hashlib.html#credits	15.1.4.4. クレジット:	https://github.com/pylangstudy/201711/tree/master/07/00
+library/hmac.html	15.2.hmac— メッセージ認証のための鍵付きハッシュ化	https://github.com/pylangstudy/201711/tree/master/08/00
 library/secrets.html	15.3.secrets— 機密を扱うために安全な乱数を生成する	
 library/secrets.html#random-numbers	15.3.1. 乱数	
 library/secrets.html#generating-tokens	15.3.2. トークンの生成	
