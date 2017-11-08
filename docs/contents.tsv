@@ -1707,12 +1707,12 @@ library/hashlib.html#personalization	15.1.4.3.5. Personalization	https://github.
 library/hashlib.html#tree-mode	15.1.4.3.6. ツリーモード	https://github.com/pylangstudy/201711/tree/master/07/00
 library/hashlib.html#credits	15.1.4.4. クレジット:	https://github.com/pylangstudy/201711/tree/master/07/00
 library/hmac.html	15.2.hmac— メッセージ認証のための鍵付きハッシュ化	https://github.com/pylangstudy/201711/tree/master/08/00
-library/secrets.html	15.3.secrets— 機密を扱うために安全な乱数を生成する	
-library/secrets.html#random-numbers	15.3.1. 乱数	
-library/secrets.html#generating-tokens	15.3.2. トークンの生成	
-library/secrets.html#how-many-bytes-should-tokens-use	15.3.2.1. トークンは何バイト使うべきか？	
-library/secrets.html#other-functions	15.3.3. その他の関数	
-library/secrets.html#recipes-and-best-practices	15.3.4. レシピとベストプラクティス	
+library/secrets.html	15.3.secrets— 機密を扱うために安全な乱数を生成する	https://github.com/pylangstudy/201711/tree/master/09/00
+library/secrets.html#random-numbers	15.3.1. 乱数	https://github.com/pylangstudy/201711/tree/master/09/00
+library/secrets.html#generating-tokens	15.3.2. トークンの生成	https://github.com/pylangstudy/201711/tree/master/09/00
+library/secrets.html#how-many-bytes-should-tokens-use	15.3.2.1. トークンは何バイト使うべきか？	https://github.com/pylangstudy/201711/tree/master/09/00
+library/secrets.html#other-functions	15.3.3. その他の関数	https://github.com/pylangstudy/201711/tree/master/09/00
+library/secrets.html#recipes-and-best-practices	15.3.4. レシピとベストプラクティス	https://github.com/pylangstudy/201711/tree/master/09/00
 library/allos.html	16. 汎用オペレーティングシステムサービス	
 library/os.html	16.1.os— 雑多なオペレーティングシステムインタフェース	
 library/os.html#file-names-command-line-arguments-and-environment-variables	16.1.1. ファイル名、コマンドライン引数、および環境変数	
