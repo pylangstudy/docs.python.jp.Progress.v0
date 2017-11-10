@@ -1717,8 +1717,8 @@ library/allos.html	16. 汎用オペレーティングシステムサービス	ht
 library/os.html	16.1.os— 雑多なオペレーティングシステムインタフェース	https://github.com/pylangstudy/201711/tree/master/10/00
 library/os.html#file-names-command-line-arguments-and-environment-variables	16.1.1. ファイル名、コマンドライン引数、および環境変数	https://github.com/pylangstudy/201711/tree/master/10/00
 library/os.html#process-parameters	16.1.2. プロセスのパラメーター	https://github.com/pylangstudy/201711/tree/master/10/00
-library/os.html#file-object-creation	16.1.3. ファイルオブジェクトの生成	
-library/os.html#file-descriptor-operations	16.1.4. ファイル記述子の操作	
+library/os.html#file-object-creation	16.1.3. ファイルオブジェクトの生成	https://github.com/pylangstudy/201711/tree/master/11/00
+library/os.html#file-descriptor-operations	16.1.4. ファイル記述子の操作	https://github.com/pylangstudy/201711/tree/master/11/00
 library/os.html#querying-the-size-of-a-terminal	16.1.4.1. ターミナルのサイズの問い合わせ	
 library/os.html#inheritance-of-file-descriptors	16.1.4.2. ファイル記述子の継承	
 library/os.html#files-and-directories	16.1.5. ファイルとディレクトリ	
