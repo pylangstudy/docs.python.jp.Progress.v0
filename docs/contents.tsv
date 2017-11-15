@@ -1726,7 +1726,7 @@ library/os.html#linux-extended-attributes	16.1.5.1. Linux 拡張属性	https://g
 library/os.html#process-management	16.1.6. プロセス管理	https://github.com/pylangstudy/201711/tree/master/14/00
 library/os.html#interface-to-the-scheduler	16.1.7. スケジューラーへのインターフェイス	https://github.com/pylangstudy/201711/tree/master/15/00
 library/os.html#miscellaneous-system-information	16.1.8. 雑多なシステム情報	https://github.com/pylangstudy/201711/tree/master/15/00
-library/os.html#random-numbers	16.1.9. 乱数	
+library/os.html#random-numbers	16.1.9. 乱数	https://github.com/pylangstudy/201711/tree/master/16/00
 library/io.html	16.2.io— ストリームを扱うコアツール	
 library/io.html#overview	16.2.1. 概要	
 library/io.html#text-i-o	16.2.1.1. テキスト I/O	
