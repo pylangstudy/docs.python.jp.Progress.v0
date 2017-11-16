@@ -1727,23 +1727,23 @@ library/os.html#process-management	16.1.6. プロセス管理	https://github.com
 library/os.html#interface-to-the-scheduler	16.1.7. スケジューラーへのインターフェイス	https://github.com/pylangstudy/201711/tree/master/15/00
 library/os.html#miscellaneous-system-information	16.1.8. 雑多なシステム情報	https://github.com/pylangstudy/201711/tree/master/15/00
 library/os.html#random-numbers	16.1.9. 乱数	https://github.com/pylangstudy/201711/tree/master/16/00
-library/io.html	16.2.io— ストリームを扱うコアツール	
-library/io.html#overview	16.2.1. 概要	
-library/io.html#text-i-o	16.2.1.1. テキスト I/O	
-library/io.html#binary-i-o	16.2.1.2. バイナリ I/O	
-library/io.html#raw-i-o	16.2.1.3. Raw I/O	
-library/io.html#high-level-module-interface	16.2.2. 高水準のモジュールインターフェイス	
-library/io.html#in-memory-streams	16.2.2.1. インメモリー ストリーム	
-library/io.html#class-hierarchy	16.2.3. クラス階層	
-library/io.html#i-o-base-classes	16.2.3.1. I/O 基底クラス	
-library/io.html#raw-file-i-o	16.2.3.2. 生ファイルI/O	
-library/io.html#buffered-streams	16.2.3.3. バッファ付きストリーム	
-library/io.html#id1	16.2.3.4. テキスト I/O	
-library/io.html#performance	16.2.4. 性能	
-library/io.html#id2	16.2.4.1. バイナリ I/O	
-library/io.html#id3	16.2.4.2. テキスト I/O	
-library/io.html#multi-threading	16.2.4.3. マルチスレッディング	
-library/io.html#reentrancy	16.2.4.4. リエントラント性	
+library/io.html	16.2.io— ストリームを扱うコアツール	https://github.com/pylangstudy/201711/tree/master/17/00
+library/io.html#overview	16.2.1. 概要	https://github.com/pylangstudy/201711/tree/master/17/00
+library/io.html#text-i-o	16.2.1.1. テキスト I/O	https://github.com/pylangstudy/201711/tree/master/17/00
+library/io.html#binary-i-o	16.2.1.2. バイナリ I/O	https://github.com/pylangstudy/201711/tree/master/17/00
+library/io.html#raw-i-o	16.2.1.3. Raw I/O	https://github.com/pylangstudy/201711/tree/master/17/00
+library/io.html#high-level-module-interface	16.2.2. 高水準のモジュールインターフェイス	https://github.com/pylangstudy/201711/tree/master/17/00
+library/io.html#in-memory-streams	16.2.2.1. インメモリー ストリーム	https://github.com/pylangstudy/201711/tree/master/17/00
+library/io.html#class-hierarchy	16.2.3. クラス階層	https://github.com/pylangstudy/201711/tree/master/17/00
+library/io.html#i-o-base-classes	16.2.3.1. I/O 基底クラス	https://github.com/pylangstudy/201711/tree/master/17/00
+library/io.html#raw-file-i-o	16.2.3.2. 生ファイルI/O	https://github.com/pylangstudy/201711/tree/master/17/00
+library/io.html#buffered-streams	16.2.3.3. バッファ付きストリーム	https://github.com/pylangstudy/201711/tree/master/17/00
+library/io.html#id1	16.2.3.4. テキスト I/O	https://github.com/pylangstudy/201711/tree/master/17/00
+library/io.html#performance	16.2.4. 性能	https://github.com/pylangstudy/201711/tree/master/17/00
+library/io.html#id2	16.2.4.1. バイナリ I/O	https://github.com/pylangstudy/201711/tree/master/17/00
+library/io.html#id3	16.2.4.2. テキスト I/O	https://github.com/pylangstudy/201711/tree/master/17/00
+library/io.html#multi-threading	16.2.4.3. マルチスレッディング	https://github.com/pylangstudy/201711/tree/master/17/00
+library/io.html#reentrancy	16.2.4.4. リエントラント性	https://github.com/pylangstudy/201711/tree/master/17/00
 library/time.html	16.3.time— 時刻データへのアクセスと変換	
 library/argparse.html	16.4.argparse— コマンドラインオプション、引数、サブコマンドのパーサー	
 library/argparse.html#example	16.4.1. 使用例	
