@@ -1745,24 +1745,24 @@ library/io.html#id3	16.2.4.2. テキスト I/O	https://github.com/pylangstudy/20
 library/io.html#multi-threading	16.2.4.3. マルチスレッディング	https://github.com/pylangstudy/201711/tree/master/17/00
 library/io.html#reentrancy	16.2.4.4. リエントラント性	https://github.com/pylangstudy/201711/tree/master/17/00
 library/time.html	16.3.time— 時刻データへのアクセスと変換	https://github.com/pylangstudy/201711/tree/master/18/00
-library/argparse.html	16.4.argparse— コマンドラインオプション、引数、サブコマンドのパーサー	
-library/argparse.html#example	16.4.1. 使用例	
-library/argparse.html#creating-a-parser	16.4.1.1. パーサーを作る	
-library/argparse.html#adding-arguments	16.4.1.2. 引数を追加する	
-library/argparse.html#parsing-arguments	16.4.1.3. 引数を解析する	
-library/argparse.html#argumentparser-objects	16.4.2. ArgumentParser オブジェクト	
-library/argparse.html#prog	16.4.2.1.prog	
-library/argparse.html#usage	16.4.2.2. usage	
-library/argparse.html#description	16.4.2.3. description	
-library/argparse.html#epilog	16.4.2.4. epilog	
-library/argparse.html#parents	16.4.2.5. parents	
-library/argparse.html#formatter-class	16.4.2.6. formatter_class	
-library/argparse.html#prefix-chars	16.4.2.7. prefix_chars	
-library/argparse.html#fromfile-prefix-chars	16.4.2.8. fromfile_prefix_chars	
-library/argparse.html#argument-default	16.4.2.9. argument_default	
-library/argparse.html#allow-abbrev	16.4.2.10. allow_abbrev	
-library/argparse.html#conflict-handler	16.4.2.11. conflict_handler	
-library/argparse.html#add-help	16.4.2.12. add_help	
+library/argparse.html	16.4.argparse— コマンドラインオプション、引数、サブコマンドのパーサー	https://github.com/pylangstudy/201711/tree/master/19/00
+library/argparse.html#example	16.4.1. 使用例	https://github.com/pylangstudy/201711/tree/master/19/00
+library/argparse.html#creating-a-parser	16.4.1.1. パーサーを作る	https://github.com/pylangstudy/201711/tree/master/19/00
+library/argparse.html#adding-arguments	16.4.1.2. 引数を追加する	https://github.com/pylangstudy/201711/tree/master/19/00
+library/argparse.html#parsing-arguments	16.4.1.3. 引数を解析する	https://github.com/pylangstudy/201711/tree/master/19/00
+library/argparse.html#argumentparser-objects	16.4.2. ArgumentParser オブジェクト	https://github.com/pylangstudy/201711/tree/master/19/01
+library/argparse.html#prog	16.4.2.1.prog	https://github.com/pylangstudy/201711/tree/master/19/01
+library/argparse.html#usage	16.4.2.2. usage	https://github.com/pylangstudy/201711/tree/master/19/01
+library/argparse.html#description	16.4.2.3. description	https://github.com/pylangstudy/201711/tree/master/19/01
+library/argparse.html#epilog	16.4.2.4. epilog	https://github.com/pylangstudy/201711/tree/master/19/01
+library/argparse.html#parents	16.4.2.5. parents	https://github.com/pylangstudy/201711/tree/master/19/01
+library/argparse.html#formatter-class	16.4.2.6. formatter_class	https://github.com/pylangstudy/201711/tree/master/19/01
+library/argparse.html#prefix-chars	16.4.2.7. prefix_chars	https://github.com/pylangstudy/201711/tree/master/19/01
+library/argparse.html#fromfile-prefix-chars	16.4.2.8. fromfile_prefix_chars	https://github.com/pylangstudy/201711/tree/master/19/01
+library/argparse.html#argument-default	16.4.2.9. argument_default	https://github.com/pylangstudy/201711/tree/master/19/01
+library/argparse.html#allow-abbrev	16.4.2.10. allow_abbrev	https://github.com/pylangstudy/201711/tree/master/19/01
+library/argparse.html#conflict-handler	16.4.2.11. conflict_handler	https://github.com/pylangstudy/201711/tree/master/19/01
+library/argparse.html#add-help	16.4.2.12. add_help	https://github.com/pylangstudy/201711/tree/master/19/01
 library/argparse.html#the-add-argument-method	16.4.3. add_argument() メソッド	
 library/argparse.html#name-or-flags	16.4.3.1. name または flags	
 library/argparse.html#action	16.4.3.2. action	
