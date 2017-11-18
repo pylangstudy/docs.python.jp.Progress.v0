@@ -1744,7 +1744,7 @@ library/io.html#id2	16.2.4.1. バイナリ I/O	https://github.com/pylangstudy/20
 library/io.html#id3	16.2.4.2. テキスト I/O	https://github.com/pylangstudy/201711/tree/master/17/00
 library/io.html#multi-threading	16.2.4.3. マルチスレッディング	https://github.com/pylangstudy/201711/tree/master/17/00
 library/io.html#reentrancy	16.2.4.4. リエントラント性	https://github.com/pylangstudy/201711/tree/master/17/00
-library/time.html	16.3.time— 時刻データへのアクセスと変換	
+library/time.html	16.3.time— 時刻データへのアクセスと変換	https://github.com/pylangstudy/201711/tree/master/18/00
 library/argparse.html	16.4.argparse— コマンドラインオプション、引数、サブコマンドのパーサー	
 library/argparse.html#example	16.4.1. 使用例	
 library/argparse.html#creating-a-parser	16.4.1.1. パーサーを作る	
