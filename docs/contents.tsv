@@ -1763,19 +1763,19 @@ library/argparse.html#argument-default	16.4.2.9. argument_default	https://github
 library/argparse.html#allow-abbrev	16.4.2.10. allow_abbrev	https://github.com/pylangstudy/201711/tree/master/19/01
 library/argparse.html#conflict-handler	16.4.2.11. conflict_handler	https://github.com/pylangstudy/201711/tree/master/19/01
 library/argparse.html#add-help	16.4.2.12. add_help	https://github.com/pylangstudy/201711/tree/master/19/01
-library/argparse.html#the-add-argument-method	16.4.3. add_argument() メソッド	
-library/argparse.html#name-or-flags	16.4.3.1. name または flags	
-library/argparse.html#action	16.4.3.2. action	
-library/argparse.html#nargs	16.4.3.3. nargs	
-library/argparse.html#const	16.4.3.4. const	
-library/argparse.html#default	16.4.3.5. default	
-library/argparse.html#type	16.4.3.6. type	
-library/argparse.html#choices	16.4.3.7. choices	
-library/argparse.html#required	16.4.3.8. required	
-library/argparse.html#help	16.4.3.9. help	
-library/argparse.html#metavar	16.4.3.10. metavar	
-library/argparse.html#dest	16.4.3.11. dest	
-library/argparse.html#action-classes	16.4.3.12. Action クラス	
+library/argparse.html#the-add-argument-method	16.4.3. add_argument() メソッド	https://github.com/pylangstudy/201711/tree/master/20/00
+library/argparse.html#name-or-flags	16.4.3.1. name または flags	https://github.com/pylangstudy/201711/tree/master/20/00
+library/argparse.html#action	16.4.3.2. action	https://github.com/pylangstudy/201711/tree/master/20/00
+library/argparse.html#nargs	16.4.3.3. nargs	https://github.com/pylangstudy/201711/tree/master/20/00
+library/argparse.html#const	16.4.3.4. const	https://github.com/pylangstudy/201711/tree/master/20/00
+library/argparse.html#default	16.4.3.5. default	https://github.com/pylangstudy/201711/tree/master/20/00
+library/argparse.html#type	16.4.3.6. type	https://github.com/pylangstudy/201711/tree/master/20/00
+library/argparse.html#choices	16.4.3.7. choices	https://github.com/pylangstudy/201711/tree/master/20/00
+library/argparse.html#required	16.4.3.8. required	https://github.com/pylangstudy/201711/tree/master/20/00
+library/argparse.html#help	16.4.3.9. help	https://github.com/pylangstudy/201711/tree/master/20/00
+library/argparse.html#metavar	16.4.3.10. metavar	https://github.com/pylangstudy/201711/tree/master/20/00
+library/argparse.html#dest	16.4.3.11. dest	https://github.com/pylangstudy/201711/tree/master/20/00
+library/argparse.html#action-classes	16.4.3.12. Action クラス	https://github.com/pylangstudy/201711/tree/master/20/00
 library/argparse.html#the-parse-args-method	16.4.4. parse_args() メソッド	
 library/argparse.html#option-value-syntax	16.4.4.1. オプション値の文法	
 library/argparse.html#invalid-arguments	16.4.4.2. 不正な引数	
