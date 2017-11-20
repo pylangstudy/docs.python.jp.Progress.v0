@@ -1776,13 +1776,13 @@ library/argparse.html#help	16.4.3.9. help	https://github.com/pylangstudy/201711/
 library/argparse.html#metavar	16.4.3.10. metavar	https://github.com/pylangstudy/201711/tree/master/20/00
 library/argparse.html#dest	16.4.3.11. dest	https://github.com/pylangstudy/201711/tree/master/20/00
 library/argparse.html#action-classes	16.4.3.12. Action クラス	https://github.com/pylangstudy/201711/tree/master/20/00
-library/argparse.html#the-parse-args-method	16.4.4. parse_args() メソッド	
-library/argparse.html#option-value-syntax	16.4.4.1. オプション値の文法	
-library/argparse.html#invalid-arguments	16.4.4.2. 不正な引数	
-library/argparse.html#arguments-containing	16.4.4.3.-を含む引数	
-library/argparse.html#argument-abbreviations-prefix-matching	16.4.4.4. 引数の短縮形 (先頭文字でのマッチング)	
-library/argparse.html#beyond-sys-argv	16.4.4.5.sys.argv以外	
-library/argparse.html#the-namespace-object	16.4.4.6. Namespace オブジェクト	
+library/argparse.html#the-parse-args-method	16.4.4. parse_args() メソッド	https://github.com/pylangstudy/201711/tree/master/21/00
+library/argparse.html#option-value-syntax	16.4.4.1. オプション値の文法	https://github.com/pylangstudy/201711/tree/master/21/00
+library/argparse.html#invalid-arguments	16.4.4.2. 不正な引数	https://github.com/pylangstudy/201711/tree/master/21/00
+library/argparse.html#arguments-containing	16.4.4.3.-を含む引数	https://github.com/pylangstudy/201711/tree/master/21/00
+library/argparse.html#argument-abbreviations-prefix-matching	16.4.4.4. 引数の短縮形 (先頭文字でのマッチング)	https://github.com/pylangstudy/201711/tree/master/21/00
+library/argparse.html#beyond-sys-argv	16.4.4.5.sys.argv以外	https://github.com/pylangstudy/201711/tree/master/21/00
+library/argparse.html#the-namespace-object	16.4.4.6. Namespace オブジェクト	https://github.com/pylangstudy/201711/tree/master/21/00
 library/argparse.html#other-utilities	16.4.5. その他のユーティリティ	
 library/argparse.html#sub-commands	16.4.5.1. サブコマンド	
 library/argparse.html#filetype-objects	16.4.5.2. FileType オブジェクト	
