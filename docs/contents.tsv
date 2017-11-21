@@ -1783,16 +1783,16 @@ library/argparse.html#arguments-containing	16.4.4.3.-を含む引数	https://git
 library/argparse.html#argument-abbreviations-prefix-matching	16.4.4.4. 引数の短縮形 (先頭文字でのマッチング)	https://github.com/pylangstudy/201711/tree/master/21/00
 library/argparse.html#beyond-sys-argv	16.4.4.5.sys.argv以外	https://github.com/pylangstudy/201711/tree/master/21/00
 library/argparse.html#the-namespace-object	16.4.4.6. Namespace オブジェクト	https://github.com/pylangstudy/201711/tree/master/21/00
-library/argparse.html#other-utilities	16.4.5. その他のユーティリティ	
-library/argparse.html#sub-commands	16.4.5.1. サブコマンド	
-library/argparse.html#filetype-objects	16.4.5.2. FileType オブジェクト	
-library/argparse.html#argument-groups	16.4.5.3. 引数グループ	
-library/argparse.html#mutual-exclusion	16.4.5.4. 相互排他	
-library/argparse.html#parser-defaults	16.4.5.5. パーサーのデフォルト値	
-library/argparse.html#printing-help	16.4.5.6. ヘルプの表示	
-library/argparse.html#partial-parsing	16.4.5.7. 部分解析	
-library/argparse.html#customizing-file-parsing	16.4.5.8. ファイル解析のカスタマイズ	
-library/argparse.html#exiting-methods	16.4.5.9. 終了メソッド	
+library/argparse.html#other-utilities	16.4.5. その他のユーティリティ	https://github.com/pylangstudy/201711/tree/master/22/00
+library/argparse.html#sub-commands	16.4.5.1. サブコマンド	https://github.com/pylangstudy/201711/tree/master/22/00
+library/argparse.html#filetype-objects	16.4.5.2. FileType オブジェクト	https://github.com/pylangstudy/201711/tree/master/22/00
+library/argparse.html#argument-groups	16.4.5.3. 引数グループ	https://github.com/pylangstudy/201711/tree/master/22/00
+library/argparse.html#mutual-exclusion	16.4.5.4. 相互排他	https://github.com/pylangstudy/201711/tree/master/22/00
+library/argparse.html#parser-defaults	16.4.5.5. パーサーのデフォルト値	https://github.com/pylangstudy/201711/tree/master/22/00
+library/argparse.html#printing-help	16.4.5.6. ヘルプの表示	https://github.com/pylangstudy/201711/tree/master/22/00
+library/argparse.html#partial-parsing	16.4.5.7. 部分解析	https://github.com/pylangstudy/201711/tree/master/22/00
+library/argparse.html#customizing-file-parsing	16.4.5.8. ファイル解析のカスタマイズ	https://github.com/pylangstudy/201711/tree/master/22/00
+library/argparse.html#exiting-methods	16.4.5.9. 終了メソッド	https://github.com/pylangstudy/201711/tree/master/22/00
 library/argparse.html#upgrading-optparse-code	16.4.6. optparse からのアップグレード	
 library/getopt.html	16.5.getopt— C 言語スタイルのコマンドラインオプションパーサ	
 library/logging.html	16.6.logging— Python 用ロギング機能	
