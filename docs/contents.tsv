@@ -1793,8 +1793,8 @@ library/argparse.html#printing-help	16.4.5.6. ヘルプの表示	https://github.
 library/argparse.html#partial-parsing	16.4.5.7. 部分解析	https://github.com/pylangstudy/201711/tree/master/22/00
 library/argparse.html#customizing-file-parsing	16.4.5.8. ファイル解析のカスタマイズ	https://github.com/pylangstudy/201711/tree/master/22/00
 library/argparse.html#exiting-methods	16.4.5.9. 終了メソッド	https://github.com/pylangstudy/201711/tree/master/22/00
-library/argparse.html#upgrading-optparse-code	16.4.6. optparse からのアップグレード	
-library/getopt.html	16.5.getopt— C 言語スタイルのコマンドラインオプションパーサ	
+library/argparse.html#upgrading-optparse-code	16.4.6. optparse からのアップグレード	https://github.com/pylangstudy/201711/tree/master/22/00
+library/getopt.html	16.5.getopt— C 言語スタイルのコマンドラインオプションパーサ	https://github.com/pylangstudy/201711/tree/master/23/00
 library/logging.html	16.6.logging— Python 用ロギング機能	
 library/logging.html#logger-objects	16.6.1. ロガーオブジェクト	
 library/logging.html#logging-levels	16.6.2. ロギングレベル	
