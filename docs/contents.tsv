@@ -1795,19 +1795,19 @@ library/argparse.html#customizing-file-parsing	16.4.5.8. ファイル解析の�
 library/argparse.html#exiting-methods	16.4.5.9. 終了メソッド	https://github.com/pylangstudy/201711/tree/master/22/00
 library/argparse.html#upgrading-optparse-code	16.4.6. optparse からのアップグレード	https://github.com/pylangstudy/201711/tree/master/22/00
 library/getopt.html	16.5.getopt— C 言語スタイルのコマンドラインオプションパーサ	https://github.com/pylangstudy/201711/tree/master/23/00
-library/logging.html	16.6.logging— Python 用ロギング機能	
-library/logging.html#logger-objects	16.6.1. ロガーオブジェクト	
-library/logging.html#logging-levels	16.6.2. ロギングレベル	
-library/logging.html#handler-objects	16.6.3. ハンドラオブジェクト	
-library/logging.html#formatter-objects	16.6.4. フォーマッタオブジェクト	
-library/logging.html#filter-objects	16.6.5. フィルタオブジェクト	
-library/logging.html#logrecord-objects	16.6.6. LogRecord オブジェクト	
-library/logging.html#logrecord-attributes	16.6.7. LogRecord 属性	
-library/logging.html#loggeradapter-objects	16.6.8. LoggerAdapter オブジェクト	
-library/logging.html#thread-safety	16.6.9. スレッドセーフ性	
-library/logging.html#module-level-functions	16.6.10. モジュールレベルの関数	
-library/logging.html#module-level-attributes	16.6.11. モジュールレベル属性	
-library/logging.html#integration-with-the-warnings-module	16.6.12. warnings モジュールとの統合	
+library/logging.html	16.6.logging— Python 用ロギング機能	https://github.com/pylangstudy/201711/tree/master/24/00
+library/logging.html#logger-objects	16.6.1. ロガーオブジェクト	https://github.com/pylangstudy/201711/tree/master/24/00
+library/logging.html#logging-levels	16.6.2. ロギングレベル	https://github.com/pylangstudy/201711/tree/master/24/00
+library/logging.html#handler-objects	16.6.3. ハンドラオブジェクト	https://github.com/pylangstudy/201711/tree/master/24/00
+library/logging.html#formatter-objects	16.6.4. フォーマッタオブジェクト	https://github.com/pylangstudy/201711/tree/master/24/00
+library/logging.html#filter-objects	16.6.5. フィルタオブジェクト	https://github.com/pylangstudy/201711/tree/master/24/00
+library/logging.html#logrecord-objects	16.6.6. LogRecord オブジェクト	https://github.com/pylangstudy/201711/tree/master/24/00
+library/logging.html#logrecord-attributes	16.6.7. LogRecord 属性	https://github.com/pylangstudy/201711/tree/master/24/00
+library/logging.html#loggeradapter-objects	16.6.8. LoggerAdapter オブジェクト	https://github.com/pylangstudy/201711/tree/master/24/00
+library/logging.html#thread-safety	16.6.9. スレッドセーフ性	https://github.com/pylangstudy/201711/tree/master/24/00
+library/logging.html#module-level-functions	16.6.10. モジュールレベルの関数	https://github.com/pylangstudy/201711/tree/master/24/00
+library/logging.html#module-level-attributes	16.6.11. モジュールレベル属性	https://github.com/pylangstudy/201711/tree/master/24/00
+library/logging.html#integration-with-the-warnings-module	16.6.12. warnings モジュールとの統合	https://github.com/pylangstudy/201711/tree/master/24/00
 library/logging.config.html	16.7.logging.config— ロギングの環境設定	
 library/logging.config.html#configuration-functions	16.7.1. 環境設定のための関数	
 library/logging.config.html#configuration-dictionary-schema	16.7.2. 環境設定辞書スキーマ	
