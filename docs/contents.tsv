@@ -1808,17 +1808,17 @@ library/logging.html#thread-safety	16.6.9. スレッドセーフ性	https://gith
 library/logging.html#module-level-functions	16.6.10. モジュールレベルの関数	https://github.com/pylangstudy/201711/tree/master/24/00
 library/logging.html#module-level-attributes	16.6.11. モジュールレベル属性	https://github.com/pylangstudy/201711/tree/master/24/00
 library/logging.html#integration-with-the-warnings-module	16.6.12. warnings モジュールとの統合	https://github.com/pylangstudy/201711/tree/master/24/00
-library/logging.config.html	16.7.logging.config— ロギングの環境設定	
-library/logging.config.html#configuration-functions	16.7.1. 環境設定のための関数	
-library/logging.config.html#configuration-dictionary-schema	16.7.2. 環境設定辞書スキーマ	
-library/logging.config.html#dictionary-schema-details	16.7.2.1. 辞書スキーマの詳細	
-library/logging.config.html#incremental-configuration	16.7.2.2. 増分設定	
-library/logging.config.html#object-connections	16.7.2.3. オブジェクトの接続	
-library/logging.config.html#user-defined-objects	16.7.2.4. ユーザ定義オブジェクト	
-library/logging.config.html#access-to-external-objects	16.7.2.5. 外部オブジェクトへのアクセス	
-library/logging.config.html#access-to-internal-objects	16.7.2.6. 内部オブジェクトへのアクセス	
-library/logging.config.html#import-resolution-and-custom-importers	16.7.2.7. インポート解決とカスタムインポーター	
-library/logging.config.html#configuration-file-format	16.7.3. 環境設定ファイルの書式	
+library/logging.config.html	16.7.logging.config— ロギングの環境設定	https://github.com/pylangstudy/201711/tree/master/25/00
+library/logging.config.html#configuration-functions	16.7.1. 環境設定のための関数	https://github.com/pylangstudy/201711/tree/master/25/00
+library/logging.config.html#configuration-dictionary-schema	16.7.2. 環境設定辞書スキーマ	https://github.com/pylangstudy/201711/tree/master/25/00
+library/logging.config.html#dictionary-schema-details	16.7.2.1. 辞書スキーマの詳細	https://github.com/pylangstudy/201711/tree/master/25/00
+library/logging.config.html#incremental-configuration	16.7.2.2. 増分設定	https://github.com/pylangstudy/201711/tree/master/25/00
+library/logging.config.html#object-connections	16.7.2.3. オブジェクトの接続	https://github.com/pylangstudy/201711/tree/master/25/00
+library/logging.config.html#user-defined-objects	16.7.2.4. ユーザ定義オブジェクト	https://github.com/pylangstudy/201711/tree/master/25/00
+library/logging.config.html#access-to-external-objects	16.7.2.5. 外部オブジェクトへのアクセス	https://github.com/pylangstudy/201711/tree/master/25/00
+library/logging.config.html#access-to-internal-objects	16.7.2.6. 内部オブジェクトへのアクセス	https://github.com/pylangstudy/201711/tree/master/25/00
+library/logging.config.html#import-resolution-and-custom-importers	16.7.2.7. インポート解決とカスタムインポーター	https://github.com/pylangstudy/201711/tree/master/25/00
+library/logging.config.html#configuration-file-format	16.7.3. 環境設定ファイルの書式	https://github.com/pylangstudy/201711/tree/master/25/00
 library/logging.handlers.html	16.8.logging.handlers— ロギングハンドラ	
 library/logging.handlers.html#streamhandler	16.8.1. StreamHandler	
 library/logging.handlers.html#filehandler	16.8.2. FileHandler	
