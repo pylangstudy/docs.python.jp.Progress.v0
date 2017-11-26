@@ -1836,7 +1836,7 @@ library/logging.handlers.html#memoryhandler	16.8.13. MemoryHandler	https://githu
 library/logging.handlers.html#httphandler	16.8.14. HTTPHandler	https://github.com/pylangstudy/201711/tree/master/26/00
 library/logging.handlers.html#queuehandler	16.8.15. QueueHandler	https://github.com/pylangstudy/201711/tree/master/26/00
 library/logging.handlers.html#queuelistener	16.8.16. QueueListener	https://github.com/pylangstudy/201711/tree/master/26/00
-library/getpass.html	16.9.getpass— 可搬性のあるパスワード入力機構	
+library/getpass.html	16.9.getpass— 可搬性のあるパスワード入力機構	https://github.com/pylangstudy/201711/tree/master/27/00
 library/curses.html	16.10.curses— 文字セル表示を扱うための端末操作	
 library/curses.html#functions	16.10.1. 関数	
 library/curses.html#window-objects	16.10.2. Window オブジェクト	
