@@ -1837,12 +1837,12 @@ library/logging.handlers.html#httphandler	16.8.14. HTTPHandler	https://github.co
 library/logging.handlers.html#queuehandler	16.8.15. QueueHandler	https://github.com/pylangstudy/201711/tree/master/26/00
 library/logging.handlers.html#queuelistener	16.8.16. QueueListener	https://github.com/pylangstudy/201711/tree/master/26/00
 library/getpass.html	16.9.getpass— 可搬性のあるパスワード入力機構	https://github.com/pylangstudy/201711/tree/master/27/00
-library/curses.html	16.10.curses— 文字セル表示を扱うための端末操作	
-library/curses.html#functions	16.10.1. 関数	
-library/curses.html#window-objects	16.10.2. Window オブジェクト	
-library/curses.html#constants	16.10.3. 定数	
-library/curses.html#module-curses.textpad	16.11.curses.textpad— curses プログラムのためのテキスト入力ウィジェット	
-library/curses.html#textbox-objects	16.11.1. Textbox オブジェクト	
+library/curses.html	16.10.curses— 文字セル表示を扱うための端末操作	https://github.com/pylangstudy/201711/tree/master/28/00
+library/curses.html#functions	16.10.1. 関数	https://github.com/pylangstudy/201711/tree/master/28/00
+library/curses.html#window-objects	16.10.2. Window オブジェクト	https://github.com/pylangstudy/201711/tree/master/28/00
+library/curses.html#constants	16.10.3. 定数	https://github.com/pylangstudy/201711/tree/master/28/00
+library/curses.html#module-curses.textpad	16.11.curses.textpad— curses プログラムのためのテキスト入力ウィジェット	https://github.com/pylangstudy/201711/tree/master/28/01
+library/curses.html#textbox-objects	16.11.1. Textbox オブジェクト	https://github.com/pylangstudy/201711/tree/master/28/01
 library/curses.ascii.html	16.12.curses.ascii— ASCII 文字に関するユーティリティ	
 library/curses.panel.html	16.13.curses.panel— curses のためのパネルスタック拡張	
 library/curses.panel.html#functions	16.13.1. 関数	
