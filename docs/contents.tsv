@@ -1843,17 +1843,17 @@ library/curses.html#window-objects	16.10.2. Window オブジェクト	https://gi
 library/curses.html#constants	16.10.3. 定数	https://github.com/pylangstudy/201711/tree/master/28/00
 library/curses.html#module-curses.textpad	16.11.curses.textpad— curses プログラムのためのテキスト入力ウィジェット	https://github.com/pylangstudy/201711/tree/master/28/01
 library/curses.html#textbox-objects	16.11.1. Textbox オブジェクト	https://github.com/pylangstudy/201711/tree/master/28/01
-library/curses.ascii.html	16.12.curses.ascii— ASCII 文字に関するユーティリティ	
-library/curses.panel.html	16.13.curses.panel— curses のためのパネルスタック拡張	
-library/curses.panel.html#functions	16.13.1. 関数	
-library/curses.panel.html#panel-objects	16.13.2. Panel オブジェクト	
-library/platform.html	16.14.platform—  実行中プラットフォームの固有情報を参照する	
-library/platform.html#cross-platform	16.14.1. クロスプラットフォーム	
-library/platform.html#java-platform	16.14.2. Java プラットフォーム	
-library/platform.html#windows-platform	16.14.3. Windows プラットフォーム	
-library/platform.html#win95-98-specific	16.14.3.1. Win95/98 固有	
-library/platform.html#mac-os-platform	16.14.4. Mac OS プラットフォーム	
-library/platform.html#unix-platforms	16.14.5. Unix プラットフォーム	
+library/curses.ascii.html	16.12.curses.ascii— ASCII 文字に関するユーティリティ	https://github.com/pylangstudy/201711/tree/master/29/00
+library/curses.panel.html	16.13.curses.panel— curses のためのパネルスタック拡張	https://github.com/pylangstudy/201711/tree/master/29/01
+library/curses.panel.html#functions	16.13.1. 関数	https://github.com/pylangstudy/201711/tree/master/29/01
+library/curses.panel.html#panel-objects	16.13.2. Panel オブジェクト	https://github.com/pylangstudy/201711/tree/master/29/01
+library/platform.html	16.14.platform—  実行中プラットフォームの固有情報を参照する	https://github.com/pylangstudy/201711/tree/master/30/00
+library/platform.html#cross-platform	16.14.1. クロスプラットフォーム	https://github.com/pylangstudy/201711/tree/master/30/00
+library/platform.html#java-platform	16.14.2. Java プラットフォーム	https://github.com/pylangstudy/201711/tree/master/30/00
+library/platform.html#windows-platform	16.14.3. Windows プラットフォーム	https://github.com/pylangstudy/201711/tree/master/30/00
+library/platform.html#win95-98-specific	16.14.3.1. Win95/98 固有	https://github.com/pylangstudy/201711/tree/master/30/00
+library/platform.html#mac-os-platform	16.14.4. Mac OS プラットフォーム	https://github.com/pylangstudy/201711/tree/master/30/00
+library/platform.html#unix-platforms	16.14.5. Unix プラットフォーム	https://github.com/pylangstudy/201711/tree/master/30/00
 library/errno.html	16.15.errno— 標準の errno システムシンボル	
 library/ctypes.html	16.16.ctypes— Pythonのための外部関数ライブラリ	
 library/ctypes.html#ctypes-tutorial	16.16.1. ctypesチュートリアル	
