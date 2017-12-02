@@ -1854,29 +1854,29 @@ library/platform.html#windows-platform	16.14.3. Windows プラットフォーム
 library/platform.html#win95-98-specific	16.14.3.1. Win95/98 固有	https://github.com/pylangstudy/201711/tree/master/30/00
 library/platform.html#mac-os-platform	16.14.4. Mac OS プラットフォーム	https://github.com/pylangstudy/201711/tree/master/30/00
 library/platform.html#unix-platforms	16.14.5. Unix プラットフォーム	https://github.com/pylangstudy/201711/tree/master/30/00
-library/errno.html	16.15.errno— 標準の errno システムシンボル	
-library/ctypes.html	16.16.ctypes— Pythonのための外部関数ライブラリ	
-library/ctypes.html#ctypes-tutorial	16.16.1. ctypesチュートリアル	
-library/ctypes.html#loading-dynamic-link-libraries	16.16.1.1. 動的リンクライブラリをロードする	
-library/ctypes.html#accessing-functions-from-loaded-dlls	16.16.1.2. ロードしたdllから関数にアクセスする	
-library/ctypes.html#calling-functions	16.16.1.3. 関数を呼び出す	
-library/ctypes.html#fundamental-data-types	16.16.1.4. 基本データ型	
-library/ctypes.html#calling-functions-continued	16.16.1.5. 続・関数を呼び出す	
-library/ctypes.html#calling-functions-with-your-own-custom-data-types	16.16.1.6. 自作のデータ型とともに関数を呼び出す	
-library/ctypes.html#specifying-the-required-argument-types-function-prototypes	16.16.1.7. 要求される引数の型を指定する (関数プロトタイプ)	
-library/ctypes.html#return-types	16.16.1.8. 戻り値の型	
-library/ctypes.html#passing-pointers-or-passing-parameters-by-reference	16.16.1.9. ポインタを渡す(または、パラメータの参照渡し)	
-library/ctypes.html#structures-and-unions	16.16.1.10. 構造体と共用体	
-library/ctypes.html#structure-union-alignment-and-byte-order	16.16.1.11. 構造体/共用体アライメントとバイトオーダー	
-library/ctypes.html#bit-fields-in-structures-and-unions	16.16.1.12. 構造体と共用体におけるビットフィールド	
-library/ctypes.html#arrays	16.16.1.13. 配列	
-library/ctypes.html#pointers	16.16.1.14. ポインタ	
-library/ctypes.html#type-conversions	16.16.1.15. 型変換	
-library/ctypes.html#incomplete-types	16.16.1.16. 不完全型	
-library/ctypes.html#callback-functions	16.16.1.17. コールバック関数	
-library/ctypes.html#accessing-values-exported-from-dlls	16.16.1.18. dllからエクスポートされた値へアクセスする	
-library/ctypes.html#surprises	16.16.1.19. びっくり仰天	
-library/ctypes.html#variable-sized-data-types	16.16.1.20. 可変サイズのデータ型	
+library/errno.html	16.15.errno— 標準の errno システムシンボル	https://github.com/pylangstudy/201712/tree/master/01/00
+library/ctypes.html	16.16.ctypes— Pythonのための外部関数ライブラリ	https://github.com/pylangstudy/201712/tree/master/02/00
+library/ctypes.html#ctypes-tutorial	16.16.1. ctypesチュートリアル	https://github.com/pylangstudy/201712/tree/master/02/00
+library/ctypes.html#loading-dynamic-link-libraries	16.16.1.1. 動的リンクライブラリをロードする	https://github.com/pylangstudy/201712/tree/master/02/00
+library/ctypes.html#accessing-functions-from-loaded-dlls	16.16.1.2. ロードしたdllから関数にアクセスする	https://github.com/pylangstudy/201712/tree/master/02/00
+library/ctypes.html#calling-functions	16.16.1.3. 関数を呼び出す	https://github.com/pylangstudy/201712/tree/master/02/00
+library/ctypes.html#fundamental-data-types	16.16.1.4. 基本データ型	https://github.com/pylangstudy/201712/tree/master/02/00
+library/ctypes.html#calling-functions-continued	16.16.1.5. 続・関数を呼び出す	https://github.com/pylangstudy/201712/tree/master/02/00
+library/ctypes.html#calling-functions-with-your-own-custom-data-types	16.16.1.6. 自作のデータ型とともに関数を呼び出す	https://github.com/pylangstudy/201712/tree/master/02/00
+library/ctypes.html#specifying-the-required-argument-types-function-prototypes	16.16.1.7. 要求される引数の型を指定する (関数プロトタイプ)	https://github.com/pylangstudy/201712/tree/master/02/00
+library/ctypes.html#return-types	16.16.1.8. 戻り値の型	https://github.com/pylangstudy/201712/tree/master/02/00
+library/ctypes.html#passing-pointers-or-passing-parameters-by-reference	16.16.1.9. ポインタを渡す(または、パラメータの参照渡し)	https://github.com/pylangstudy/201712/tree/master/02/00
+library/ctypes.html#structures-and-unions	16.16.1.10. 構造体と共用体	https://github.com/pylangstudy/201712/tree/master/02/00
+library/ctypes.html#structure-union-alignment-and-byte-order	16.16.1.11. 構造体/共用体アライメントとバイトオーダー	https://github.com/pylangstudy/201712/tree/master/02/00
+library/ctypes.html#bit-fields-in-structures-and-unions	16.16.1.12. 構造体と共用体におけるビットフィールド	https://github.com/pylangstudy/201712/tree/master/02/00
+library/ctypes.html#arrays	16.16.1.13. 配列	https://github.com/pylangstudy/201712/tree/master/02/00
+library/ctypes.html#pointers	16.16.1.14. ポインタ	https://github.com/pylangstudy/201712/tree/master/02/00
+library/ctypes.html#type-conversions	16.16.1.15. 型変換	https://github.com/pylangstudy/201712/tree/master/02/00
+library/ctypes.html#incomplete-types	16.16.1.16. 不完全型	https://github.com/pylangstudy/201712/tree/master/02/00
+library/ctypes.html#callback-functions	16.16.1.17. コールバック関数	https://github.com/pylangstudy/201712/tree/master/02/00
+library/ctypes.html#accessing-values-exported-from-dlls	16.16.1.18. dllからエクスポートされた値へアクセスする	https://github.com/pylangstudy/201712/tree/master/02/00
+library/ctypes.html#surprises	16.16.1.19. びっくり仰天	https://github.com/pylangstudy/201712/tree/master/02/00
+library/ctypes.html#variable-sized-data-types	16.16.1.20. 可変サイズのデータ型	https://github.com/pylangstudy/201712/tree/master/02/00
 library/ctypes.html#ctypes-reference	16.16.2. ctypesリファレンス	
 library/ctypes.html#finding-shared-libraries	16.16.2.1. 共有ライブラリを見つける	
 library/ctypes.html#loading-shared-libraries	16.16.2.2. 共有ライブラリをロードする	
