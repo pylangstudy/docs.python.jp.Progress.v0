@@ -1877,16 +1877,16 @@ library/ctypes.html#callback-functions	16.16.1.17. コールバック関数	http
 library/ctypes.html#accessing-values-exported-from-dlls	16.16.1.18. dllからエクスポートされた値へアクセスする	https://github.com/pylangstudy/201712/tree/master/02/00
 library/ctypes.html#surprises	16.16.1.19. びっくり仰天	https://github.com/pylangstudy/201712/tree/master/02/00
 library/ctypes.html#variable-sized-data-types	16.16.1.20. 可変サイズのデータ型	https://github.com/pylangstudy/201712/tree/master/02/00
-library/ctypes.html#ctypes-reference	16.16.2. ctypesリファレンス	
-library/ctypes.html#finding-shared-libraries	16.16.2.1. 共有ライブラリを見つける	
-library/ctypes.html#loading-shared-libraries	16.16.2.2. 共有ライブラリをロードする	
-library/ctypes.html#foreign-functions	16.16.2.3. 外部関数	
-library/ctypes.html#function-prototypes	16.16.2.4. 関数プロトタイプ	
-library/ctypes.html#utility-functions	16.16.2.5. ユーティリティー関数	
-library/ctypes.html#data-types	16.16.2.6. データ型	
-library/ctypes.html#ctypes-fundamental-data-types-2	16.16.2.7. 基本データ型	
-library/ctypes.html#structured-data-types	16.16.2.8. 構造化データ型	
-library/ctypes.html#arrays-and-pointers	16.16.2.9. 配列とポインタ	
+library/ctypes.html#ctypes-reference	16.16.2. ctypesリファレンス	https://github.com/pylangstudy/201712/tree/master/03/00
+library/ctypes.html#finding-shared-libraries	16.16.2.1. 共有ライブラリを見つける	https://github.com/pylangstudy/201712/tree/master/03/00
+library/ctypes.html#loading-shared-libraries	16.16.2.2. 共有ライブラリをロードする	https://github.com/pylangstudy/201712/tree/master/03/00
+library/ctypes.html#foreign-functions	16.16.2.3. 外部関数	https://github.com/pylangstudy/201712/tree/master/03/00
+library/ctypes.html#function-prototypes	16.16.2.4. 関数プロトタイプ	https://github.com/pylangstudy/201712/tree/master/03/00
+library/ctypes.html#utility-functions	16.16.2.5. ユーティリティー関数	https://github.com/pylangstudy/201712/tree/master/03/00
+library/ctypes.html#data-types	16.16.2.6. データ型	https://github.com/pylangstudy/201712/tree/master/03/00
+library/ctypes.html#ctypes-fundamental-data-types-2	16.16.2.7. 基本データ型	https://github.com/pylangstudy/201712/tree/master/03/00
+library/ctypes.html#structured-data-types	16.16.2.8. 構造化データ型	https://github.com/pylangstudy/201712/tree/master/03/00
+library/ctypes.html#arrays-and-pointers	16.16.2.9. 配列とポインタ	https://github.com/pylangstudy/201712/tree/master/03/00
 library/concurrency.html	17. 並行実行	
 library/threading.html	17.1.threading— スレッドベースの並列処理	
 library/threading.html#thread-local-data	17.1.1. スレッドローカルデータ	
