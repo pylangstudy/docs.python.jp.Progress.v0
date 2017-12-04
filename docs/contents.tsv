@@ -1900,14 +1900,14 @@ library/threading.html#event-objects	17.1.7. Event オブジェクト	https://gi
 library/threading.html#timer-objects	17.1.8. Timer オブジェクト	https://github.com/pylangstudy/201712/tree/master/04/00
 library/threading.html#barrier-objects	17.1.9. バリアオブジェクト	https://github.com/pylangstudy/201712/tree/master/04/00
 library/threading.html#using-locks-conditions-and-semaphores-in-the-with-statement	17.1.10.with文でのロック・条件変数・セマフォの使い方	https://github.com/pylangstudy/201712/tree/master/04/00
-library/multiprocessing.html	17.2.multiprocessing— プロセスベースの並列処理	
-library/multiprocessing.html#introduction	17.2.1. はじめに	
-library/multiprocessing.html#the-process-class	17.2.1.1.Processクラス	
-library/multiprocessing.html#contexts-and-start-methods	17.2.1.2. コンテキストと開始方式	
-library/multiprocessing.html#exchanging-objects-between-processes	17.2.1.3. プロセス間でのオブジェクト交換	
-library/multiprocessing.html#synchronization-between-processes	17.2.1.4. プロセス間の同期	
-library/multiprocessing.html#sharing-state-between-processes	17.2.1.5. プロセス間での状態の共有	
-library/multiprocessing.html#using-a-pool-of-workers	17.2.1.6. ワーカープロセスのプールを使用	
+library/multiprocessing.html	17.2.multiprocessing— プロセスベースの並列処理	https://github.com/pylangstudy/201712/tree/master/05/00
+library/multiprocessing.html#introduction	17.2.1. はじめに	https://github.com/pylangstudy/201712/tree/master/05/00
+library/multiprocessing.html#the-process-class	17.2.1.1.Processクラス	https://github.com/pylangstudy/201712/tree/master/05/00
+library/multiprocessing.html#contexts-and-start-methods	17.2.1.2. コンテキストと開始方式	https://github.com/pylangstudy/201712/tree/master/05/00
+library/multiprocessing.html#exchanging-objects-between-processes	17.2.1.3. プロセス間でのオブジェクト交換	https://github.com/pylangstudy/201712/tree/master/05/00
+library/multiprocessing.html#synchronization-between-processes	17.2.1.4. プロセス間の同期	https://github.com/pylangstudy/201712/tree/master/05/00
+library/multiprocessing.html#sharing-state-between-processes	17.2.1.5. プロセス間での状態の共有	https://github.com/pylangstudy/201712/tree/master/05/00
+library/multiprocessing.html#using-a-pool-of-workers	17.2.1.6. ワーカープロセスのプールを使用	https://github.com/pylangstudy/201712/tree/master/05/00
 library/multiprocessing.html#reference	17.2.2. リファレンス	
 library/multiprocessing.html#process-and-exceptions	17.2.2.1.Processクラスと例外	
 library/multiprocessing.html#pipes-and-queues	17.2.2.2. パイプ (Pipe) とキュー (Queue)	
