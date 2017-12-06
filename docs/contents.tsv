@@ -1908,25 +1908,25 @@ library/multiprocessing.html#exchanging-objects-between-processes	17.2.1.3. プ�
 library/multiprocessing.html#synchronization-between-processes	17.2.1.4. プロセス間の同期	https://github.com/pylangstudy/201712/tree/master/05/00
 library/multiprocessing.html#sharing-state-between-processes	17.2.1.5. プロセス間での状態の共有	https://github.com/pylangstudy/201712/tree/master/05/00
 library/multiprocessing.html#using-a-pool-of-workers	17.2.1.6. ワーカープロセスのプールを使用	https://github.com/pylangstudy/201712/tree/master/05/00
-library/multiprocessing.html#reference	17.2.2. リファレンス	
-library/multiprocessing.html#process-and-exceptions	17.2.2.1.Processクラスと例外	
-library/multiprocessing.html#pipes-and-queues	17.2.2.2. パイプ (Pipe) とキュー (Queue)	
-library/multiprocessing.html#miscellaneous	17.2.2.3. その他	
-library/multiprocessing.html#connection-objects	17.2.2.4. Connection オブジェクト	
-library/multiprocessing.html#synchronization-primitives	17.2.2.5. 同期プリミティブ	
-library/multiprocessing.html#shared-ctypes-objects	17.2.2.6. 共有ctypesオブジェクト	
-library/multiprocessing.html#module-multiprocessing.sharedctypes	17.2.2.6.1.multiprocessing.sharedctypesモジュール	
-library/multiprocessing.html#managers	17.2.2.7. マネージャー	
-library/multiprocessing.html#customized-managers	17.2.2.7.1. カスタマイズされたマネージャー	
-library/multiprocessing.html#using-a-remote-manager	17.2.2.7.2. リモートマネージャーを使用する	
-library/multiprocessing.html#proxy-objects	17.2.2.8. Proxy オブジェクト	
-library/multiprocessing.html#cleanup	17.2.2.8.1. クリーンアップ	
-library/multiprocessing.html#module-multiprocessing.pool	17.2.2.9. プロセスプール	
-library/multiprocessing.html#module-multiprocessing.connection	17.2.2.10. リスナーとクライアント	
-library/multiprocessing.html#address-formats	17.2.2.10.1. アドレスフォーマット	
-library/multiprocessing.html#authentication-keys	17.2.2.11. 認証キー	
-library/multiprocessing.html#logging	17.2.2.12. ログ記録	
-library/multiprocessing.html#module-multiprocessing.dummy	17.2.2.13.multiprocessing.dummyモジュール	
+library/multiprocessing.html#reference	17.2.2. リファレンス	https://github.com/pylangstudy/201712/tree/master/06/00
+library/multiprocessing.html#process-and-exceptions	17.2.2.1.Processクラスと例外	https://github.com/pylangstudy/201712/tree/master/06/00
+library/multiprocessing.html#pipes-and-queues	17.2.2.2. パイプ (Pipe) とキュー (Queue)	https://github.com/pylangstudy/201712/tree/master/06/00
+library/multiprocessing.html#miscellaneous	17.2.2.3. その他	https://github.com/pylangstudy/201712/tree/master/06/00
+library/multiprocessing.html#connection-objects	17.2.2.4. Connection オブジェクト	https://github.com/pylangstudy/201712/tree/master/06/00
+library/multiprocessing.html#synchronization-primitives	17.2.2.5. 同期プリミティブ	https://github.com/pylangstudy/201712/tree/master/06/00
+library/multiprocessing.html#shared-ctypes-objects	17.2.2.6. 共有ctypesオブジェクト	https://github.com/pylangstudy/201712/tree/master/06/00
+library/multiprocessing.html#module-multiprocessing.sharedctypes	17.2.2.6.1.multiprocessing.sharedctypesモジュール	https://github.com/pylangstudy/201712/tree/master/06/00
+library/multiprocessing.html#managers	17.2.2.7. マネージャー	https://github.com/pylangstudy/201712/tree/master/06/00
+library/multiprocessing.html#customized-managers	17.2.2.7.1. カスタマイズされたマネージャー	https://github.com/pylangstudy/201712/tree/master/06/00
+library/multiprocessing.html#using-a-remote-manager	17.2.2.7.2. リモートマネージャーを使用する	https://github.com/pylangstudy/201712/tree/master/06/00
+library/multiprocessing.html#proxy-objects	17.2.2.8. Proxy オブジェクト	https://github.com/pylangstudy/201712/tree/master/06/00
+library/multiprocessing.html#cleanup	17.2.2.8.1. クリーンアップ	https://github.com/pylangstudy/201712/tree/master/06/00
+library/multiprocessing.html#module-multiprocessing.pool	17.2.2.9. プロセスプール	https://github.com/pylangstudy/201712/tree/master/06/00
+library/multiprocessing.html#module-multiprocessing.connection	17.2.2.10. リスナーとクライアント	https://github.com/pylangstudy/201712/tree/master/06/00
+library/multiprocessing.html#address-formats	17.2.2.10.1. アドレスフォーマット	https://github.com/pylangstudy/201712/tree/master/06/00
+library/multiprocessing.html#authentication-keys	17.2.2.11. 認証キー	https://github.com/pylangstudy/201712/tree/master/06/00
+library/multiprocessing.html#logging	17.2.2.12. ログ記録	https://github.com/pylangstudy/201712/tree/master/06/00
+library/multiprocessing.html#module-multiprocessing.dummy	17.2.2.13.multiprocessing.dummyモジュール	https://github.com/pylangstudy/201712/tree/master/06/00
 library/multiprocessing.html#programming-guidelines	17.2.3. プログラミングガイドライン	
 library/multiprocessing.html#all-start-methods	17.2.3.1. すべての開始方式について	
 library/multiprocessing.html#the-spawn-and-forkserver-start-methods	17.2.3.2. 開始方式がspawnおよびforkserverの場合	
