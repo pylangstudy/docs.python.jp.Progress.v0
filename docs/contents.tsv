@@ -1961,8 +1961,8 @@ library/subprocess.html#replacing-functions-from-the-popen2-module	17.5.6.6.pope
 library/subprocess.html#legacy-shell-invocation-functions	17.5.7. レガシーなシェル呼び出し関数	https://github.com/pylangstudy/201712/tree/master/09/00
 library/subprocess.html#notes	17.5.8. 注釈	https://github.com/pylangstudy/201712/tree/master/09/00
 library/subprocess.html#converting-an-argument-sequence-to-a-string-on-windows	17.5.8.1. Windows における引数シーケンスから文字列への変換	https://github.com/pylangstudy/201712/tree/master/09/00
-library/sched.html	17.6.sched— イベントスケジューラ	
-library/sched.html#scheduler-objects	17.6.1. スケジューラオブジェクト	
+library/sched.html	17.6.sched— イベントスケジューラ	https://github.com/pylangstudy/201712/tree/master/10/00
+library/sched.html#scheduler-objects	17.6.1. スケジューラオブジェクト	https://github.com/pylangstudy/201712/tree/master/10/00
 library/queue.html	17.7.queue— 同期キュークラス	
 library/queue.html#queue-objects	17.7.1. キューオブジェクト	
 library/dummy_threading.html	17.8.dummy_threading—threadingの代替モジュール	
