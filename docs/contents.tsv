@@ -1967,7 +1967,7 @@ library/queue.html	17.7.queue— 同期キュークラス	https://github.com/pyl
 library/queue.html#queue-objects	17.7.1. キューオブジェクト	https://github.com/pylangstudy/201712/tree/master/11/00
 library/dummy_threading.html	17.8.dummy_threading—threadingの代替モジュール	https://github.com/pylangstudy/201712/tree/master/12/00
 library/_thread.html	17.9._thread— 低水準の スレッド API	https://github.com/pylangstudy/201712/tree/master/13/00
-library/_dummy_thread.html	17.10._dummy_thread—_threadの代替モジュール	
+library/_dummy_thread.html	17.10._dummy_thread—_threadの代替モジュール	https://github.com/pylangstudy/201712/tree/master/14/00
 library/ipc.html	18. プロセス間通信とネットワーク	
 library/socket.html	18.1.socket— 低水準ネットワークインターフェース	
 library/socket.html#socket-families	18.1.1. ソケットファミリー	
