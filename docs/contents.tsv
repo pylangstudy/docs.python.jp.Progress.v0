@@ -2010,12 +2010,12 @@ library/ssl.html#verifying-certificates	18.2.9.2.1. 証明書の検証	https://g
 library/ssl.html#protocol-versions	18.2.9.2.2. プロトコルのバージョン	https://github.com/pylangstudy/201712/tree/master/16/00
 library/ssl.html#cipher-selection	18.2.9.2.3. 暗号の選択	https://github.com/pylangstudy/201712/tree/master/16/00
 library/ssl.html#multi-processing	18.2.9.3. マルチプロセス化	https://github.com/pylangstudy/201712/tree/master/16/00
-library/select.html	18.3.select— I/O 処理の完了を待機する	
-library/select.html#dev-poll-polling-objects	18.3.1./dev/pollポーリングオブジェクト	
-library/select.html#edge-and-level-trigger-polling-epoll-objects	18.3.2. エッジおよびレベルトリガポーリング (epoll) オブジェクト	
-library/select.html#polling-objects	18.3.3. ポーリングオブジェクト	
-library/select.html#kqueue-objects	18.3.4. kqueue オブジェクト	
-library/select.html#kevent-objects	18.3.5. kevent オブジェクト	
+library/select.html	18.3.select— I/O 処理の完了を待機する	https://github.com/pylangstudy/201712/tree/master/17/00
+library/select.html#dev-poll-polling-objects	18.3.1./dev/pollポーリングオブジェクト	https://github.com/pylangstudy/201712/tree/master/17/00
+library/select.html#edge-and-level-trigger-polling-epoll-objects	18.3.2. エッジおよびレベルトリガポーリング (epoll) オブジェクト	https://github.com/pylangstudy/201712/tree/master/17/00
+library/select.html#polling-objects	18.3.3. ポーリングオブジェクト	https://github.com/pylangstudy/201712/tree/master/17/00
+library/select.html#kqueue-objects	18.3.4. kqueue オブジェクト	https://github.com/pylangstudy/201712/tree/master/17/00
+library/select.html#kevent-objects	18.3.5. kevent オブジェクト	https://github.com/pylangstudy/201712/tree/master/17/00
 library/selectors.html	18.4.selectors— 高水準の I/O 多重化	
 library/selectors.html#introduction	18.4.1. はじめに	
 library/selectors.html#classes	18.4.2. クラス	
