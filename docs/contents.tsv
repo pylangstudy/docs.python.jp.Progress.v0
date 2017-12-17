@@ -2016,10 +2016,10 @@ library/select.html#edge-and-level-trigger-polling-epoll-objects	18.3.2. エッ�
 library/select.html#polling-objects	18.3.3. ポーリングオブジェクト	https://github.com/pylangstudy/201712/tree/master/17/00
 library/select.html#kqueue-objects	18.3.4. kqueue オブジェクト	https://github.com/pylangstudy/201712/tree/master/17/00
 library/select.html#kevent-objects	18.3.5. kevent オブジェクト	https://github.com/pylangstudy/201712/tree/master/17/00
-library/selectors.html	18.4.selectors— 高水準の I/O 多重化	
-library/selectors.html#introduction	18.4.1. はじめに	
-library/selectors.html#classes	18.4.2. クラス	
-library/selectors.html#examples	18.4.3. 使用例	
+library/selectors.html	18.4.selectors— 高水準の I/O 多重化	https://github.com/pylangstudy/201712/tree/master/18/00
+library/selectors.html#introduction	18.4.1. はじめに	https://github.com/pylangstudy/201712/tree/master/18/00
+library/selectors.html#classes	18.4.2. クラス	https://github.com/pylangstudy/201712/tree/master/18/00
+library/selectors.html#examples	18.4.3. 使用例	https://github.com/pylangstudy/201712/tree/master/18/00
 library/asyncio.html	18.5.asyncio— 非同期 I/O、イベントループ、コルーチンおよびタスク	
 library/asyncio-eventloop.html	18.5.1. 基底イベントループ	
 library/asyncio-eventloop.html#run-an-event-loop	18.5.1.1. イベントループの実行	
