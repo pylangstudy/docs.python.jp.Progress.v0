@@ -2020,30 +2020,30 @@ library/selectors.html	18.4.selectors— 高水準の I/O 多重化	https://gith
 library/selectors.html#introduction	18.4.1. はじめに	https://github.com/pylangstudy/201712/tree/master/18/00
 library/selectors.html#classes	18.4.2. クラス	https://github.com/pylangstudy/201712/tree/master/18/00
 library/selectors.html#examples	18.4.3. 使用例	https://github.com/pylangstudy/201712/tree/master/18/00
-library/asyncio.html	18.5.asyncio— 非同期 I/O、イベントループ、コルーチンおよびタスク	
-library/asyncio-eventloop.html	18.5.1. 基底イベントループ	
-library/asyncio-eventloop.html#run-an-event-loop	18.5.1.1. イベントループの実行	
-library/asyncio-eventloop.html#calls	18.5.1.2. 呼び出し (call)	
-library/asyncio-eventloop.html#delayed-calls	18.5.1.3. 遅延呼び出し	
-library/asyncio-eventloop.html#futures	18.5.1.4. Futures	
-library/asyncio-eventloop.html#tasks	18.5.1.5. タスク	
-library/asyncio-eventloop.html#creating-connections	18.5.1.6. コネクションの作成	
-library/asyncio-eventloop.html#creating-listening-connections	18.5.1.7. 待ち受けコネクションの作成	
-library/asyncio-eventloop.html#watch-file-descriptors	18.5.1.8. ファイル記述子の監視	
-library/asyncio-eventloop.html#low-level-socket-operations	18.5.1.9. 低水準のソケット操作	
-library/asyncio-eventloop.html#resolve-host-name	18.5.1.10. ホスト名の解決	
-library/asyncio-eventloop.html#connect-pipes	18.5.1.11. パイプの接続	
-library/asyncio-eventloop.html#unix-signals	18.5.1.12. UNIX シグナル	
-library/asyncio-eventloop.html#executor	18.5.1.13. 実行者	
-library/asyncio-eventloop.html#error-handling-api	18.5.1.14. エラーハンドリング API	
-library/asyncio-eventloop.html#debug-mode	18.5.1.15. デバッグモード	
-library/asyncio-eventloop.html#server	18.5.1.16. サーバー	
-library/asyncio-eventloop.html#handle	18.5.1.17. ハンドル	
-library/asyncio-eventloop.html#event-loop-examples	18.5.1.18. イベントループの例	
-library/asyncio-eventloop.html#hello-world-with-call-soon	18.5.1.18.1. call_soon() を使った Hello World	
-library/asyncio-eventloop.html#display-the-current-date-with-call-later	18.5.1.18.2. call_later() で現在の日時を表示する	
-library/asyncio-eventloop.html#watch-a-file-descriptor-for-read-events	18.5.1.18.3. 読み込みイベント用ファイル記述子の監視	
-library/asyncio-eventloop.html#set-signal-handlers-for-sigint-and-sigterm	18.5.1.18.4. SIGINT および SIGTERM 用のシグナルハンドラーの設定	
+library/asyncio.html	18.5.asyncio— 非同期 I/O、イベントループ、コルーチンおよびタスク	-
+library/asyncio-eventloop.html	18.5.1. 基底イベントループ	https://github.com/pylangstudy/201712/tree/master/19/00
+library/asyncio-eventloop.html#run-an-event-loop	18.5.1.1. イベントループの実行	https://github.com/pylangstudy/201712/tree/master/19/00
+library/asyncio-eventloop.html#calls	18.5.1.2. 呼び出し (call)	https://github.com/pylangstudy/201712/tree/master/19/00
+library/asyncio-eventloop.html#delayed-calls	18.5.1.3. 遅延呼び出し	https://github.com/pylangstudy/201712/tree/master/19/00
+library/asyncio-eventloop.html#futures	18.5.1.4. Futures	https://github.com/pylangstudy/201712/tree/master/19/00
+library/asyncio-eventloop.html#tasks	18.5.1.5. タスク	https://github.com/pylangstudy/201712/tree/master/19/00
+library/asyncio-eventloop.html#creating-connections	18.5.1.6. コネクションの作成	https://github.com/pylangstudy/201712/tree/master/19/00
+library/asyncio-eventloop.html#creating-listening-connections	18.5.1.7. 待ち受けコネクションの作成	https://github.com/pylangstudy/201712/tree/master/19/00
+library/asyncio-eventloop.html#watch-file-descriptors	18.5.1.8. ファイル記述子の監視	https://github.com/pylangstudy/201712/tree/master/19/00
+library/asyncio-eventloop.html#low-level-socket-operations	18.5.1.9. 低水準のソケット操作	https://github.com/pylangstudy/201712/tree/master/19/00
+library/asyncio-eventloop.html#resolve-host-name	18.5.1.10. ホスト名の解決	https://github.com/pylangstudy/201712/tree/master/19/00
+library/asyncio-eventloop.html#connect-pipes	18.5.1.11. パイプの接続	https://github.com/pylangstudy/201712/tree/master/19/00
+library/asyncio-eventloop.html#unix-signals	18.5.1.12. UNIX シグナル	https://github.com/pylangstudy/201712/tree/master/19/00
+library/asyncio-eventloop.html#executor	18.5.1.13. 実行者	https://github.com/pylangstudy/201712/tree/master/19/00
+library/asyncio-eventloop.html#error-handling-api	18.5.1.14. エラーハンドリング API	https://github.com/pylangstudy/201712/tree/master/19/00
+library/asyncio-eventloop.html#debug-mode	18.5.1.15. デバッグモード	https://github.com/pylangstudy/201712/tree/master/19/00
+library/asyncio-eventloop.html#server	18.5.1.16. サーバー	https://github.com/pylangstudy/201712/tree/master/19/00
+library/asyncio-eventloop.html#handle	18.5.1.17. ハンドル	https://github.com/pylangstudy/201712/tree/master/19/00
+library/asyncio-eventloop.html#event-loop-examples	18.5.1.18. イベントループの例	https://github.com/pylangstudy/201712/tree/master/19/00
+library/asyncio-eventloop.html#hello-world-with-call-soon	18.5.1.18.1. call_soon() を使った Hello World	https://github.com/pylangstudy/201712/tree/master/19/00
+library/asyncio-eventloop.html#display-the-current-date-with-call-later	18.5.1.18.2. call_later() で現在の日時を表示する	https://github.com/pylangstudy/201712/tree/master/19/00
+library/asyncio-eventloop.html#watch-a-file-descriptor-for-read-events	18.5.1.18.3. 読み込みイベント用ファイル記述子の監視	https://github.com/pylangstudy/201712/tree/master/19/00
+library/asyncio-eventloop.html#set-signal-handlers-for-sigint-and-sigterm	18.5.1.18.4. SIGINT および SIGTERM 用のシグナルハンドラーの設定	https://github.com/pylangstudy/201712/tree/master/19/00
 library/asyncio-eventloops.html	18.5.2. イベントループ	
 library/asyncio-eventloops.html#event-loop-functions	18.5.2.1. イベントループ関数	
 library/asyncio-eventloops.html#available-event-loops	18.5.2.2. 利用可能なイベントループ	
