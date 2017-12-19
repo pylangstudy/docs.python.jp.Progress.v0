@@ -2044,15 +2044,15 @@ library/asyncio-eventloop.html#hello-world-with-call-soon	18.5.1.18.1. call_soon
 library/asyncio-eventloop.html#display-the-current-date-with-call-later	18.5.1.18.2. call_later() で現在の日時を表示する	https://github.com/pylangstudy/201712/tree/master/19/00
 library/asyncio-eventloop.html#watch-a-file-descriptor-for-read-events	18.5.1.18.3. 読み込みイベント用ファイル記述子の監視	https://github.com/pylangstudy/201712/tree/master/19/00
 library/asyncio-eventloop.html#set-signal-handlers-for-sigint-and-sigterm	18.5.1.18.4. SIGINT および SIGTERM 用のシグナルハンドラーの設定	https://github.com/pylangstudy/201712/tree/master/19/00
-library/asyncio-eventloops.html	18.5.2. イベントループ	
-library/asyncio-eventloops.html#event-loop-functions	18.5.2.1. イベントループ関数	
-library/asyncio-eventloops.html#available-event-loops	18.5.2.2. 利用可能なイベントループ	
-library/asyncio-eventloops.html#platform-support	18.5.2.3. プラットフォームでのサポート	
-library/asyncio-eventloops.html#windows	18.5.2.3.1. Windows	
-library/asyncio-eventloops.html#mac-os-x	18.5.2.3.2. Mac OS X	
-library/asyncio-eventloops.html#event-loop-policies-and-the-default-policy	18.5.2.4. イベントループのポリシーとデフォルトポリシー	
-library/asyncio-eventloops.html#event-loop-policy-interface	18.5.2.5. イベントループポリシーインターフェース	
-library/asyncio-eventloops.html#access-to-the-global-loop-policy	18.5.2.6. グローバルループポリシーへのアクセス	
+library/asyncio-eventloops.html	18.5.2. イベントループ	https://github.com/pylangstudy/201712/tree/master/20/00
+library/asyncio-eventloops.html#event-loop-functions	18.5.2.1. イベントループ関数	https://github.com/pylangstudy/201712/tree/master/20/00
+library/asyncio-eventloops.html#available-event-loops	18.5.2.2. 利用可能なイベントループ	https://github.com/pylangstudy/201712/tree/master/20/00
+library/asyncio-eventloops.html#platform-support	18.5.2.3. プラットフォームでのサポート	https://github.com/pylangstudy/201712/tree/master/20/00
+library/asyncio-eventloops.html#windows	18.5.2.3.1. Windows	https://github.com/pylangstudy/201712/tree/master/20/00
+library/asyncio-eventloops.html#mac-os-x	18.5.2.3.2. Mac OS X	https://github.com/pylangstudy/201712/tree/master/20/00
+library/asyncio-eventloops.html#event-loop-policies-and-the-default-policy	18.5.2.4. イベントループのポリシーとデフォルトポリシー	https://github.com/pylangstudy/201712/tree/master/20/00
+library/asyncio-eventloops.html#event-loop-policy-interface	18.5.2.5. イベントループポリシーインターフェース	https://github.com/pylangstudy/201712/tree/master/20/00
+library/asyncio-eventloops.html#access-to-the-global-loop-policy	18.5.2.6. グローバルループポリシーへのアクセス	https://github.com/pylangstudy/201712/tree/master/20/00
 library/asyncio-task.html	18.5.3. タスクとコルーチン	
 library/asyncio-task.html#coroutines	18.5.3.1. コルーチン	
 library/asyncio-task.html#example-hello-world-coroutine	18.5.3.1.1. 例: Hello World コルーチン	
