@@ -2053,19 +2053,19 @@ library/asyncio-eventloops.html#mac-os-x	18.5.2.3.2. Mac OS X	https://github.com
 library/asyncio-eventloops.html#event-loop-policies-and-the-default-policy	18.5.2.4. イベントループのポリシーとデフォルトポリシー	https://github.com/pylangstudy/201712/tree/master/20/00
 library/asyncio-eventloops.html#event-loop-policy-interface	18.5.2.5. イベントループポリシーインターフェース	https://github.com/pylangstudy/201712/tree/master/20/00
 library/asyncio-eventloops.html#access-to-the-global-loop-policy	18.5.2.6. グローバルループポリシーへのアクセス	https://github.com/pylangstudy/201712/tree/master/20/00
-library/asyncio-task.html	18.5.3. タスクとコルーチン	
-library/asyncio-task.html#coroutines	18.5.3.1. コルーチン	
-library/asyncio-task.html#example-hello-world-coroutine	18.5.3.1.1. 例: Hello World コルーチン	
-library/asyncio-task.html#example-coroutine-displaying-the-current-date	18.5.3.1.2. 例: 現在の日時を表示するコルーチン	
-library/asyncio-task.html#example-chain-coroutines	18.5.3.1.3. 例: コルーチンのチェーン	
-library/asyncio-task.html#invalidstateerror	18.5.3.2. InvalidStateError	
-library/asyncio-task.html#timeouterror	18.5.3.3. TimeoutError	
-library/asyncio-task.html#future	18.5.3.4. フューチャー	
-library/asyncio-task.html#example-future-with-run-until-complete	18.5.3.4.1. 例: run_until_complete() を使ったフューチャ	
-library/asyncio-task.html#example-future-with-run-forever	18.5.3.4.2. 例: run_forever() を使ったフューチャ	
-library/asyncio-task.html#task	18.5.3.5. タスク	
-library/asyncio-task.html#example-parallel-execution-of-tasks	18.5.3.5.1. 例: タスクの並列実行	
-library/asyncio-task.html#task-functions	18.5.3.6. タスク関数	
+library/asyncio-task.html	18.5.3. タスクとコルーチン	https://github.com/pylangstudy/201712/tree/master/21/00
+library/asyncio-task.html#coroutines	18.5.3.1. コルーチン	https://github.com/pylangstudy/201712/tree/master/21/00
+library/asyncio-task.html#example-hello-world-coroutine	18.5.3.1.1. 例: Hello World コルーチン	https://github.com/pylangstudy/201712/tree/master/21/00
+library/asyncio-task.html#example-coroutine-displaying-the-current-date	18.5.3.1.2. 例: 現在の日時を表示するコルーチン	https://github.com/pylangstudy/201712/tree/master/21/00
+library/asyncio-task.html#example-chain-coroutines	18.5.3.1.3. 例: コルーチンのチェーン	https://github.com/pylangstudy/201712/tree/master/21/00
+library/asyncio-task.html#invalidstateerror	18.5.3.2. InvalidStateError	https://github.com/pylangstudy/201712/tree/master/21/00
+library/asyncio-task.html#timeouterror	18.5.3.3. TimeoutError	https://github.com/pylangstudy/201712/tree/master/21/00
+library/asyncio-task.html#future	18.5.3.4. フューチャー	https://github.com/pylangstudy/201712/tree/master/21/00
+library/asyncio-task.html#example-future-with-run-until-complete	18.5.3.4.1. 例: run_until_complete() を使ったフューチャ	https://github.com/pylangstudy/201712/tree/master/21/00
+library/asyncio-task.html#example-future-with-run-forever	18.5.3.4.2. 例: run_forever() を使ったフューチャ	https://github.com/pylangstudy/201712/tree/master/21/00
+library/asyncio-task.html#task	18.5.3.5. タスク	https://github.com/pylangstudy/201712/tree/master/21/00
+library/asyncio-task.html#example-parallel-execution-of-tasks	18.5.3.5.1. 例: タスクの並列実行	https://github.com/pylangstudy/201712/tree/master/21/00
+library/asyncio-task.html#task-functions	18.5.3.6. タスク関数	https://github.com/pylangstudy/201712/tree/master/21/00
 library/asyncio-protocol.html	18.5.4. トランスポートとプロトコル (コールバックベースの API)	
 library/asyncio-protocol.html#transports	18.5.4.1. トランスポート	
 library/asyncio-protocol.html#basetransport	18.5.4.1.1. BaseTransport	
