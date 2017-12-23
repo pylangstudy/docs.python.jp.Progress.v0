@@ -2066,48 +2066,48 @@ library/asyncio-task.html#example-future-with-run-forever	18.5.3.4.2. 例: run_f
 library/asyncio-task.html#task	18.5.3.5. タスク	https://github.com/pylangstudy/201712/tree/master/21/00
 library/asyncio-task.html#example-parallel-execution-of-tasks	18.5.3.5.1. 例: タスクの並列実行	https://github.com/pylangstudy/201712/tree/master/21/00
 library/asyncio-task.html#task-functions	18.5.3.6. タスク関数	https://github.com/pylangstudy/201712/tree/master/21/00
-library/asyncio-protocol.html	18.5.4. トランスポートとプロトコル (コールバックベースの API)	
-library/asyncio-protocol.html#transports	18.5.4.1. トランスポート	
-library/asyncio-protocol.html#basetransport	18.5.4.1.1. BaseTransport	
-library/asyncio-protocol.html#readtransport	18.5.4.1.2. ReadTransport	
-library/asyncio-protocol.html#writetransport	18.5.4.1.3. WriteTransport	
-library/asyncio-protocol.html#datagramtransport	18.5.4.1.4. DatagramTransport	
-library/asyncio-protocol.html#basesubprocesstransport	18.5.4.1.5. BaseSubprocessTransport	
-library/asyncio-protocol.html#protocols	18.5.4.2. プロトコル	
-library/asyncio-protocol.html#protocol-classes	18.5.4.2.1. プロトコルクラス群	
-library/asyncio-protocol.html#connection-callbacks	18.5.4.2.2. コネクションコールバック	
-library/asyncio-protocol.html#streaming-protocols	18.5.4.2.3. ストリーミングプロトコル	
-library/asyncio-protocol.html#datagram-protocols	18.5.4.2.4. データグラムプロトコル	
-library/asyncio-protocol.html#flow-control-callbacks	18.5.4.2.5. フロー制御コールバック	
-library/asyncio-protocol.html#coroutines-and-protocols	18.5.4.2.6. コルーチンとプロトコル	
-library/asyncio-protocol.html#protocol-examples	18.5.4.3. プロトコルの例	
-library/asyncio-protocol.html#tcp-echo-client-protocol	18.5.4.3.1. TCP Echo クライアントプロトコル	
-library/asyncio-protocol.html#tcp-echo-server-protocol	18.5.4.3.2. TCP Echo サーバープロトコル	
-library/asyncio-protocol.html#udp-echo-client-protocol	18.5.4.3.3. UDP Echo クライアントプロトコル	
-library/asyncio-protocol.html#udp-echo-server-protocol	18.5.4.3.4. UDP Echo サーバープロトコル	
-library/asyncio-protocol.html#register-an-open-socket-to-wait-for-data-using-a-protocol	18.5.4.3.5. プロトコルを使ってデータを待つオープンソケットの登録	
-library/asyncio-stream.html	18.5.5. ストリーム (コルーチンベースの API)	
-library/asyncio-stream.html#stream-functions	18.5.5.1. ストリーム関数	
-library/asyncio-stream.html#streamreader	18.5.5.2. StreamReader	
-library/asyncio-stream.html#streamwriter	18.5.5.3. StreamWriter	
-library/asyncio-stream.html#streamreaderprotocol	18.5.5.4. StreamReaderProtocol	
-library/asyncio-stream.html#incompletereaderror	18.5.5.5. IncompleteReadError	
-library/asyncio-stream.html#limitoverrunerror	18.5.5.6. LimitOverrunError	
-library/asyncio-stream.html#stream-examples	18.5.5.7. ストリームの例	
-library/asyncio-stream.html#tcp-echo-client-using-streams	18.5.5.7.1. ストリームを使った TCP Echo クライアント	
-library/asyncio-stream.html#tcp-echo-server-using-streams	18.5.5.7.2. ストリームを使った TCP Echo サーバー	
-library/asyncio-stream.html#get-http-headers	18.5.5.7.3. HTTP ヘッダーの取得	
-library/asyncio-stream.html#register-an-open-socket-to-wait-for-data-using-streams	18.5.5.7.4. ストリームを使ってデータを待つオープンソケットの登録	
-library/asyncio-subprocess.html	18.5.6. サブプロセス	
-library/asyncio-subprocess.html#windows-event-loop	18.5.6.1. Windows でのイベントループ	
-library/asyncio-subprocess.html#create-a-subprocess-high-level-api-using-process	18.5.6.2. サブプロセスの作成: Process を使用した高水準 API	
-library/asyncio-subprocess.html#create-a-subprocess-low-level-api-using-subprocess-popen	18.5.6.3. サブプロセスの作成: subprocess.Popen を使用した低水準 API	
-library/asyncio-subprocess.html#constants	18.5.6.4. 定数	
-library/asyncio-subprocess.html#process	18.5.6.5. Process	
-library/asyncio-subprocess.html#subprocess-and-threads	18.5.6.6. サブプロセスとスレッド	
-library/asyncio-subprocess.html#subprocess-examples	18.5.6.7. サブプロセスの例	
-library/asyncio-subprocess.html#subprocess-using-transport-and-protocol	18.5.6.7.1. トランスポートおよびプロトコルを使用したサブプロセス	
-library/asyncio-subprocess.html#subprocess-using-streams	18.5.6.7.2. ストリームを使用したサブプロセス	
+library/asyncio-protocol.html	18.5.4. トランスポートとプロトコル (コールバックベースの API)	https://github.com/pylangstudy/201712/tree/master/22/00
+library/asyncio-protocol.html#transports	18.5.4.1. トランスポート	https://github.com/pylangstudy/201712/tree/master/22/00
+library/asyncio-protocol.html#basetransport	18.5.4.1.1. BaseTransport	https://github.com/pylangstudy/201712/tree/master/22/00
+library/asyncio-protocol.html#readtransport	18.5.4.1.2. ReadTransport	https://github.com/pylangstudy/201712/tree/master/22/00
+library/asyncio-protocol.html#writetransport	18.5.4.1.3. WriteTransport	https://github.com/pylangstudy/201712/tree/master/22/00
+library/asyncio-protocol.html#datagramtransport	18.5.4.1.4. DatagramTransport	https://github.com/pylangstudy/201712/tree/master/22/00
+library/asyncio-protocol.html#basesubprocesstransport	18.5.4.1.5. BaseSubprocessTransport	https://github.com/pylangstudy/201712/tree/master/22/00
+library/asyncio-protocol.html#protocols	18.5.4.2. プロトコル	https://github.com/pylangstudy/201712/tree/master/22/00
+library/asyncio-protocol.html#protocol-classes	18.5.4.2.1. プロトコルクラス群	https://github.com/pylangstudy/201712/tree/master/22/00
+library/asyncio-protocol.html#connection-callbacks	18.5.4.2.2. コネクションコールバック	https://github.com/pylangstudy/201712/tree/master/22/00
+library/asyncio-protocol.html#streaming-protocols	18.5.4.2.3. ストリーミングプロトコル	https://github.com/pylangstudy/201712/tree/master/22/00
+library/asyncio-protocol.html#datagram-protocols	18.5.4.2.4. データグラムプロトコル	https://github.com/pylangstudy/201712/tree/master/22/00
+library/asyncio-protocol.html#flow-control-callbacks	18.5.4.2.5. フロー制御コールバック	https://github.com/pylangstudy/201712/tree/master/22/00
+library/asyncio-protocol.html#coroutines-and-protocols	18.5.4.2.6. コルーチンとプロトコル	https://github.com/pylangstudy/201712/tree/master/22/00
+library/asyncio-protocol.html#protocol-examples	18.5.4.3. プロトコルの例	https://github.com/pylangstudy/201712/tree/master/22/00
+library/asyncio-protocol.html#tcp-echo-client-protocol	18.5.4.3.1. TCP Echo クライアントプロトコル	https://github.com/pylangstudy/201712/tree/master/22/00
+library/asyncio-protocol.html#tcp-echo-server-protocol	18.5.4.3.2. TCP Echo サーバープロトコル	https://github.com/pylangstudy/201712/tree/master/22/00
+library/asyncio-protocol.html#udp-echo-client-protocol	18.5.4.3.3. UDP Echo クライアントプロトコル	https://github.com/pylangstudy/201712/tree/master/22/00
+library/asyncio-protocol.html#udp-echo-server-protocol	18.5.4.3.4. UDP Echo サーバープロトコル	https://github.com/pylangstudy/201712/tree/master/22/00
+library/asyncio-protocol.html#register-an-open-socket-to-wait-for-data-using-a-protocol	18.5.4.3.5. プロトコルを使ってデータを待つオープンソケットの登録	https://github.com/pylangstudy/201712/tree/master/22/00
+library/asyncio-stream.html	18.5.5. ストリーム (コルーチンベースの API)	https://github.com/pylangstudy/201712/tree/master/23/00
+library/asyncio-stream.html#stream-functions	18.5.5.1. ストリーム関数	https://github.com/pylangstudy/201712/tree/master/23/00
+library/asyncio-stream.html#streamreader	18.5.5.2. StreamReader	https://github.com/pylangstudy/201712/tree/master/23/00
+library/asyncio-stream.html#streamwriter	18.5.5.3. StreamWriter	https://github.com/pylangstudy/201712/tree/master/23/00
+library/asyncio-stream.html#streamreaderprotocol	18.5.5.4. StreamReaderProtocol	https://github.com/pylangstudy/201712/tree/master/23/00
+library/asyncio-stream.html#incompletereaderror	18.5.5.5. IncompleteReadError	https://github.com/pylangstudy/201712/tree/master/23/00
+library/asyncio-stream.html#limitoverrunerror	18.5.5.6. LimitOverrunError	https://github.com/pylangstudy/201712/tree/master/23/00
+library/asyncio-stream.html#stream-examples	18.5.5.7. ストリームの例	https://github.com/pylangstudy/201712/tree/master/23/00
+library/asyncio-stream.html#tcp-echo-client-using-streams	18.5.5.7.1. ストリームを使った TCP Echo クライアント	https://github.com/pylangstudy/201712/tree/master/23/00
+library/asyncio-stream.html#tcp-echo-server-using-streams	18.5.5.7.2. ストリームを使った TCP Echo サーバー	https://github.com/pylangstudy/201712/tree/master/23/00
+library/asyncio-stream.html#get-http-headers	18.5.5.7.3. HTTP ヘッダーの取得	https://github.com/pylangstudy/201712/tree/master/23/00
+library/asyncio-stream.html#register-an-open-socket-to-wait-for-data-using-streams	18.5.5.7.4. ストリームを使ってデータを待つオープンソケットの登録	https://github.com/pylangstudy/201712/tree/master/23/00
+library/asyncio-subprocess.html	18.5.6. サブプロセス	https://github.com/pylangstudy/201712/tree/master/24/00
+library/asyncio-subprocess.html#windows-event-loop	18.5.6.1. Windows でのイベントループ	https://github.com/pylangstudy/201712/tree/master/24/00
+library/asyncio-subprocess.html#create-a-subprocess-high-level-api-using-process	18.5.6.2. サブプロセスの作成: Process を使用した高水準 API	https://github.com/pylangstudy/201712/tree/master/24/00
+library/asyncio-subprocess.html#create-a-subprocess-low-level-api-using-subprocess-popen	18.5.6.3. サブプロセスの作成: subprocess.Popen を使用した低水準 API	https://github.com/pylangstudy/201712/tree/master/24/00
+library/asyncio-subprocess.html#constants	18.5.6.4. 定数	https://github.com/pylangstudy/201712/tree/master/24/00
+library/asyncio-subprocess.html#process	18.5.6.5. Process	https://github.com/pylangstudy/201712/tree/master/24/00
+library/asyncio-subprocess.html#subprocess-and-threads	18.5.6.6. サブプロセスとスレッド	https://github.com/pylangstudy/201712/tree/master/24/00
+library/asyncio-subprocess.html#subprocess-examples	18.5.6.7. サブプロセスの例	https://github.com/pylangstudy/201712/tree/master/24/00
+library/asyncio-subprocess.html#subprocess-using-transport-and-protocol	18.5.6.7.1. トランスポートおよびプロトコルを使用したサブプロセス	https://github.com/pylangstudy/201712/tree/master/24/00
+library/asyncio-subprocess.html#subprocess-using-streams	18.5.6.7.2. ストリームを使用したサブプロセス	https://github.com/pylangstudy/201712/tree/master/24/00
 library/asyncio-sync.html	18.5.7. 同期プリミティブ	
 library/asyncio-sync.html#locks	18.5.7.1. ロック	
 library/asyncio-sync.html#lock	18.5.7.1.1. Lock	
