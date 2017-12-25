@@ -2108,14 +2108,14 @@ library/asyncio-subprocess.html#subprocess-and-threads	18.5.6.6. サブプロセ
 library/asyncio-subprocess.html#subprocess-examples	18.5.6.7. サブプロセスの例	https://github.com/pylangstudy/201712/tree/master/24/00
 library/asyncio-subprocess.html#subprocess-using-transport-and-protocol	18.5.6.7.1. トランスポートおよびプロトコルを使用したサブプロセス	https://github.com/pylangstudy/201712/tree/master/24/00
 library/asyncio-subprocess.html#subprocess-using-streams	18.5.6.7.2. ストリームを使用したサブプロセス	https://github.com/pylangstudy/201712/tree/master/24/00
-library/asyncio-sync.html	18.5.7. 同期プリミティブ	
-library/asyncio-sync.html#locks	18.5.7.1. ロック	
-library/asyncio-sync.html#lock	18.5.7.1.1. Lock	
-library/asyncio-sync.html#event	18.5.7.1.2. Event	
-library/asyncio-sync.html#condition	18.5.7.1.3. Condition	
-library/asyncio-sync.html#semaphores	18.5.7.2. セマフォ	
-library/asyncio-sync.html#semaphore	18.5.7.2.1. Semaphore	
-library/asyncio-sync.html#boundedsemaphore	18.5.7.2.2. BoundedSemaphore	
+library/asyncio-sync.html	18.5.7. 同期プリミティブ	https://github.com/pylangstudy/201712/tree/master/25/00
+library/asyncio-sync.html#locks	18.5.7.1. ロック	https://github.com/pylangstudy/201712/tree/master/25/00
+library/asyncio-sync.html#lock	18.5.7.1.1. Lock	https://github.com/pylangstudy/201712/tree/master/25/00
+library/asyncio-sync.html#event	18.5.7.1.2. Event	https://github.com/pylangstudy/201712/tree/master/25/00
+library/asyncio-sync.html#condition	18.5.7.1.3. Condition	https://github.com/pylangstudy/201712/tree/master/25/00
+library/asyncio-sync.html#semaphores	18.5.7.2. セマフォ	https://github.com/pylangstudy/201712/tree/master/25/00
+library/asyncio-sync.html#semaphore	18.5.7.2.1. Semaphore	https://github.com/pylangstudy/201712/tree/master/25/00
+library/asyncio-sync.html#boundedsemaphore	18.5.7.2.2. BoundedSemaphore	https://github.com/pylangstudy/201712/tree/master/25/00
 library/asyncio-queue.html	18.5.8. キュー	
 library/asyncio-queue.html#queue	18.5.8.1. Queue	
 library/asyncio-queue.html#priorityqueue	18.5.8.2. PriorityQueue	
