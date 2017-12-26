@@ -2121,17 +2121,17 @@ library/asyncio-queue.html#queue	18.5.8.1. Queue	https://github.com/pylangstudy/
 library/asyncio-queue.html#priorityqueue	18.5.8.2. PriorityQueue	https://github.com/pylangstudy/201712/tree/master/26/00
 library/asyncio-queue.html#lifoqueue	18.5.8.3. LifoQueue	https://github.com/pylangstudy/201712/tree/master/26/00
 library/asyncio-queue.html#exceptions	18.5.8.3.1. 例外	https://github.com/pylangstudy/201712/tree/master/26/00
-library/asyncio-dev.html	18.5.9. asyncio での開発	
-library/asyncio-dev.html#debug-mode-of-asyncio	18.5.9.1. asyncio のデバッグモード	
-library/asyncio-dev.html#cancellation	18.5.9.2. 取り消し	
-library/asyncio-dev.html#concurrency-and-multithreading	18.5.9.3. 並行処理とマルチスレッド処理	
-library/asyncio-dev.html#handle-blocking-functions-correctly	18.5.9.4. ブロック関数を正しく扱う	
-library/asyncio-dev.html#logging	18.5.9.5. ログ記録	
-library/asyncio-dev.html#detect-coroutine-objects-never-scheduled	18.5.9.6. スケジュールされなかったコルーチンオブジェクトの検出	
-library/asyncio-dev.html#detect-exceptions-never-consumed	18.5.9.7. 未処理の例外の検出	
-library/asyncio-dev.html#chain-coroutines-correctly	18.5.9.8. コルーチンを正しくチェーンする	
-library/asyncio-dev.html#pending-task-destroyed	18.5.9.9. 未完のタスクの破棄	
-library/asyncio-dev.html#close-transports-and-event-loops	18.5.9.10. トランスポートとイベントループを閉じる	
+library/asyncio-dev.html	18.5.9. asyncio での開発	https://github.com/pylangstudy/201712/tree/master/27/00
+library/asyncio-dev.html#debug-mode-of-asyncio	18.5.9.1. asyncio のデバッグモード	https://github.com/pylangstudy/201712/tree/master/27/00
+library/asyncio-dev.html#cancellation	18.5.9.2. 取り消し	https://github.com/pylangstudy/201712/tree/master/27/00
+library/asyncio-dev.html#concurrency-and-multithreading	18.5.9.3. 並行処理とマルチスレッド処理	https://github.com/pylangstudy/201712/tree/master/27/00
+library/asyncio-dev.html#handle-blocking-functions-correctly	18.5.9.4. ブロック関数を正しく扱う	https://github.com/pylangstudy/201712/tree/master/27/00
+library/asyncio-dev.html#logging	18.5.9.5. ログ記録	https://github.com/pylangstudy/201712/tree/master/27/00
+library/asyncio-dev.html#detect-coroutine-objects-never-scheduled	18.5.9.6. スケジュールされなかったコルーチンオブジェクトの検出	https://github.com/pylangstudy/201712/tree/master/27/00
+library/asyncio-dev.html#detect-exceptions-never-consumed	18.5.9.7. 未処理の例外の検出	https://github.com/pylangstudy/201712/tree/master/27/00
+library/asyncio-dev.html#chain-coroutines-correctly	18.5.9.8. コルーチンを正しくチェーンする	https://github.com/pylangstudy/201712/tree/master/27/00
+library/asyncio-dev.html#pending-task-destroyed	18.5.9.9. 未完のタスクの破棄	https://github.com/pylangstudy/201712/tree/master/27/00
+library/asyncio-dev.html#close-transports-and-event-loops	18.5.9.10. トランスポートとイベントループを閉じる	https://github.com/pylangstudy/201712/tree/master/27/00
 library/asyncore.html	18.6.asyncore— 非同期ソケットハンドラ	
 library/asyncore.html#asyncore-example-basic-http-client	18.6.1. asyncoreの例: 簡単なHTTPクライアント	
 library/asyncore.html#asyncore-example-basic-echo-server	18.6.2. 基本的な echo サーバーの例	
