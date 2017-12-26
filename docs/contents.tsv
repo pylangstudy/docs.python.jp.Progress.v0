@@ -2116,11 +2116,11 @@ library/asyncio-sync.html#condition	18.5.7.1.3. Condition	https://github.com/pyl
 library/asyncio-sync.html#semaphores	18.5.7.2. セマフォ	https://github.com/pylangstudy/201712/tree/master/25/00
 library/asyncio-sync.html#semaphore	18.5.7.2.1. Semaphore	https://github.com/pylangstudy/201712/tree/master/25/00
 library/asyncio-sync.html#boundedsemaphore	18.5.7.2.2. BoundedSemaphore	https://github.com/pylangstudy/201712/tree/master/25/00
-library/asyncio-queue.html	18.5.8. キュー	
-library/asyncio-queue.html#queue	18.5.8.1. Queue	
-library/asyncio-queue.html#priorityqueue	18.5.8.2. PriorityQueue	
-library/asyncio-queue.html#lifoqueue	18.5.8.3. LifoQueue	
-library/asyncio-queue.html#exceptions	18.5.8.3.1. 例外	
+library/asyncio-queue.html	18.5.8. キュー	https://github.com/pylangstudy/201712/tree/master/26/00
+library/asyncio-queue.html#queue	18.5.8.1. Queue	https://github.com/pylangstudy/201712/tree/master/26/00
+library/asyncio-queue.html#priorityqueue	18.5.8.2. PriorityQueue	https://github.com/pylangstudy/201712/tree/master/26/00
+library/asyncio-queue.html#lifoqueue	18.5.8.3. LifoQueue	https://github.com/pylangstudy/201712/tree/master/26/00
+library/asyncio-queue.html#exceptions	18.5.8.3.1. 例外	https://github.com/pylangstudy/201712/tree/master/26/00
 library/asyncio-dev.html	18.5.9. asyncio での開発	
 library/asyncio-dev.html#debug-mode-of-asyncio	18.5.9.1. asyncio のデバッグモード	
 library/asyncio-dev.html#cancellation	18.5.9.2. 取り消し	
