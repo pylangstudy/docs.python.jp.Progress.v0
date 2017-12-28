@@ -2135,8 +2135,8 @@ library/asyncio-dev.html#close-transports-and-event-loops	18.5.9.10. トラン�
 library/asyncore.html	18.6.asyncore— 非同期ソケットハンドラ	https://github.com/pylangstudy/201712/tree/master/28/00
 library/asyncore.html#asyncore-example-basic-http-client	18.6.1. asyncoreの例: 簡単なHTTPクライアント	https://github.com/pylangstudy/201712/tree/master/28/00
 library/asyncore.html#asyncore-example-basic-echo-server	18.6.2. 基本的な echo サーバーの例	https://github.com/pylangstudy/201712/tree/master/28/00
-library/asynchat.html	18.7.asynchat— 非同期ソケットコマンド/レスポンスハンドラ	
-library/asynchat.html#asynchat-example	18.7.1. asynchat 使用例	
+library/asynchat.html	18.7.asynchat— 非同期ソケットコマンド/レスポンスハンドラ	https://github.com/pylangstudy/201712/tree/master/29/00
+library/asynchat.html#asynchat-example	18.7.1. asynchat 使用例	https://github.com/pylangstudy/201712/tree/master/29/00
 library/signal.html	18.8.signal— 非同期イベントにハンドラを設定する	
 library/signal.html#general-rules	18.8.1. 一般的なルール	
 library/signal.html#execution-of-python-signal-handlers	18.8.1.1. Python のシグナルハンドラの実行	
