@@ -2147,7 +2147,7 @@ library/mmap.html	18.9.mmap— メモリマップファイル	https://github.com
 library/netdata.html	19. インターネット上のデータの操作	-
 library/email.html	19.1.email— 電子メールと MIME 処理のためのパッケージ	-
 library/email.message.html	19.1.1.email.message: 電子メールメッセージの表現	https://github.com/pylangstudy/201801/tree/master/01/00
-library/email.parser.html	19.1.2.email.parser: 電子メールメッセージのパース	
+library/email.parser.html	19.1.2.email.parser: 電子メールメッセージのパース	https://github.com/pylangstudy/201801/tree/master/02/00
 library/email.parser.html#feedparser-api	19.1.2.1. FeedParser API	
 library/email.parser.html#parser-api	19.1.2.2. Parser API	
 library/email.parser.html#additional-notes	19.1.2.3. 追記事項	
