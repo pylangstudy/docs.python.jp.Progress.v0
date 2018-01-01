@@ -2144,9 +2144,9 @@ library/signal.html#signals-and-threads	18.8.1.2. シグナルとスレッド	ht
 library/signal.html#module-contents	18.8.2. モジュールの内容	https://github.com/pylangstudy/201712/tree/master/30/00
 library/signal.html#example	18.8.3. 使用例	https://github.com/pylangstudy/201712/tree/master/30/00
 library/mmap.html	18.9.mmap— メモリマップファイル	https://github.com/pylangstudy/201712/tree/master/31/00
-library/netdata.html	19. インターネット上のデータの操作	
-library/email.html	19.1.email— 電子メールと MIME 処理のためのパッケージ	
-library/email.message.html	19.1.1.email.message: 電子メールメッセージの表現	
+library/netdata.html	19. インターネット上のデータの操作	-
+library/email.html	19.1.email— 電子メールと MIME 処理のためのパッケージ	-
+library/email.message.html	19.1.1.email.message: 電子メールメッセージの表現	https://github.com/pylangstudy/201801/tree/master/01/00
 library/email.parser.html	19.1.2.email.parser: 電子メールメッセージのパース	
 library/email.parser.html#feedparser-api	19.1.2.1. FeedParser API	
 library/email.parser.html#parser-api	19.1.2.2. Parser API	
